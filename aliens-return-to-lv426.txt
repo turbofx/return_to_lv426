@@ -1,14 +1,13 @@
-It's always bothered me how they did Aliens.
-
-Let me get this straight. You've got spacecraft that are either going FTL or damn close to it. You've got cryogenic chambers and you've got computers that operate with something like a GPAI and synthetic people and yet, the solution when dealing with an hostile alien threat is to send human space marines to figure what happened on LV426 (Acheron)? I've long mused about how I'd go about attacking this problem. moreover, I've thought about what kinds of people and technology would be needed to handle this. To that end though, just going through an accounting of how you'd go about it is kinda boring. The protagonist is a guy who has hidden behind technology his entire life. Loaded up with plenty of cyberware he's a total bad ass when it comes to manipulating hardware, but there is where his skills end. Having spent more time hitting the books than hitting the weights, he's not "marine" material and the contingent of marines onboard make sure to let him know it. But his special set of skills are needed for this mission. It takes place years after the original mission to LV426. Having learned their lesson sending squishy humans into the jaws of xenomorph's. Despite the marines itching to get to the surface and avenge those fellow marines left behind. Out of reach of their corporate masters, the marines decide to disobey orders and land on the surface. Note: The marines simply sabotage the sub space radio. But things don't go to plan. Capturing a live drone and bringing it aboard a sister ship constructed for holding the xenomorph goes awry. Our hero needs to face his fears, and through courage, guile and wits to save his friends. ==================== Vehicles ========================================== USN DeBrasco: nicknamed "Debe". 2000M long modular gladiator class deep space exploration combat vessel. Consists of four spars that run the length of the ship. Two of the spars are a common access ways with sealable bulkheads every fifty meters. The other two are for various power, cooling, comms, etc. Remotely Operated Cyber Enabled Recon and Threat Robot (ROCERTR) Weight: 5 tons Height: Normally 6 feet tall, but can stand on it's "tippy toes" up to 8 feet. Vision systems: 360 degree "bug eye" lens system capable of seeing into high wavelengths. 360 degree dopplar motion sensors. Motion system: quadriped with calf wheels. Power system: 1x1.8GW compact "bottle" fission reactor. (possibly easily hot swapped). Armor: composite ceramics. Maniuplators: 2x"gross" manipulators capable of moving heavy rubble, etc. 2x haptic "articulate" manipulators ending in humanoid hands capable of manipulating anything a human can control. Armements: The unit has a variety of hard points that can be configured by the operator. All hard points have power and networking. 	* stablized 10mm caseless HE cannon. 	* Grenade / Canister launcher. Including glue caninster.. plot point. 	* 	 "gross" manipulators have retracted molecularity sharp vibro-blade capable of cutting through most non "armor" metals, welder / cutter. Comms: 1x Subspace radio, 1x regu wide band radio. network connectors to connect standard "Wayland-Youtani" networked devices. Sled is a treaded vehicle used to cross larger distances more efficiency. This would be the default "drop" vehicle for the robot. Marines can also ride on the sled's. Stardard Space marines drop ship. Discardable "drop pods" that the sleds and "rockies" can ride in. Plot ideas. 1. the marines sabatoge the subspace radio.. out of touch with Earth, they enact their own plan. 2. The other cryo chambers contain synthetic soldiers as a backup. 3. The "real" mission is to capture an alien xeno and encase them in a resin that's resistant to the acid. 4. Trying to understand where the xeno's could have possibly gotten a food source they stumble across feral hog that's had it's chest blown open. 5. Roger trying to hack into the ships systems with the help of Alice discovers that the computer knew all along that there were freebooters on the planet and has been trying to bred a more docile and controllable xenomorph. 6. The pale alien is actually one of the "leader" type who have a much larger brain. THis is causing a war to break out as drones are bine "co-opted" by rogue leaders. Queens are now battling queens instead of co-operating. 7. The teams finally find free-booters who have built themselves a fortress and have tunnels leading into two of the dorm nests. The cybers interact with someone who asks them to leave and then they're assaulted by drones they easily best. The team back on the ship finds out from the science people that the aliens have been modified to be used by the free booters to actually terraform the planet. They'd gone back to the alien ship, gotten an egg and modified it's XNA. As more free booters showed up, they simply let their new an improved aliens do their work. Cyber Team 1 Roger Hurgs Janice Allman Marco DeFranco Cyber Team 2 Jeremy Hopkins - former marine who moved over into cyber corps. Roxxie Renauldo Ruvi Bera
 
 
 
+Chaper 1.
 
 
 "Wake up pretty boy!" laughs a marine with a gentle slap to my face.
 
-The cold air hits my bare legs like a wall. This is always the worst part of waking out of hyper sleep.
+The cold air hits my bare legs like a wall. This is always the worst
+part of waking out of hyper sleep.
 
 Tugs and pulls as various needles, probes and sensors are pulled out.
 
@@ -16,44 +15,97 @@ I crack my eyes to blazing light.
 
 "Jesus, could you turn the lights up even more?" I grunt back.
 
-"Oh, now you're awake." laughs a voice. I know that voice. My brain is starting to come back online. Corpsman something or other, it'll come to me.
+"Oh, now you're awake." laughs a voice. I know that voice. My brain is
+starting to come back online. Corpsman something or other, it'll come
+to me.
 
-Dickenson is the corpsman. As they go, at least not a total asshole to me. "Chow in twenty. Muster in an hour." replies Dickenson. Apparently she's looked me over and decided to move on.
+Dickenson is the corpsman. As they go, at least not a total asshole to
+me. "Chow in twenty. Muster in an hour." replies Dickenson. Apparently
+she's looked me over and decided to move on.
 
-As my vision adjusts, I lift my head to a satisfying crack as my spine decides it wants to stretch. I look down the line of hyper sleep chambers. This half open, the other half closed. I mentally count, even. No hyper sleep casualties.
+As my vision adjusts, I lift my head to a satisfying crack as my spine
+decides it wants to stretch. I look down the line of hyper sleep
+chambers. This half open, the other half closed. I mentally count,
+even. No hyper sleep casualties.
 
-The USN DeBrasco is the third ship of the modular gladiator class of star ships and has the latest generation of everything, including the next generation hyper sleep modules. I stagger over to my locker, my muscles protesting with every step.
+The USN DeBrasco is the third ship of the modular gladiator class of
+star ships and has the latest generation of everything, including the
+next generation hyper sleep modules. I stagger over to my locker, my
+muscles protesting with every step.
 
-The black BDU is yet another way I'm a bit different from your standard Colonial Space marine. The collar manages to perfectly rub against my neck right were my neural shunt and the skin meet. I'm convinced the BDU designers designed it this way. Yet another annoyance my brain registers.
+The black BDU is yet another way I'm a bit different from your standard
+Colonial Space marine. The collar manages to perfectly rub against my
+neck right were my neural shunt and the skin meet. I'm convinced the BDU
+designers designed it this way. Yet another annoyance my brain registers.
 
-"Waking up is always the worst" mumbles a voice next to me. I look over and see Janice. A fellow cyber tech. The clothes are even more ill fitting on her. Her petite size in stark contrast to everything designed for large muscle bound marines. I notice she's donned a scarf around her neck to deal with the collar chaffing issue.
+"Waking up is always the worst" mumbles a voice next to me. I look
+over and see Janice. A fellow cyber tech. The clothes are even more ill
+fitting on her. Her petite size in stark contrast to everything designed
+for large muscle bound marines. I notice she's donned a scarf around
+her neck to deal with the collar chaffing issue.
 
-Janice and I have a complicated thing going. She comes over and gives me a hug. I hug back. Ah, no kiss, still complicated.
+Janice and I have a complicated thing going. She comes over and gives
+me a hug. I hug back. Ah, no kiss, still complicated.
 
-We wander down the line of lockers and collect the other four members of our rag tag cyber tech gang. We were all waiting, it's better when it's all of us.
+We wander down the line of lockers and collect the other four members
+of our rag tag cyber tech gang. We were all waiting, it's better when
+it's all of us.
 
-The chow hall of this ship is the usual. Polished metal, food you'd rather not eat, created out of who knows what and the usual derisive sneers, outright jeers and the occasional head shake. As usual, the marines have left a table just for us. We get in line with the everybody else.
+The chow hall of this ship is the usual. Polished metal, food you'd rather
+not eat, created out of who knows what and the usual derisive sneers,
+outright jeers and the occasional head shake. As usual, the marines have
+left a table just for us. We get in line with the everybody else.
 
-"Why the fuck did they send six of you?" I hear from behind me with a poke.
+"Why the fuck did they send six of you?" I hear from behind me with
+a poke.
 
-I turn and looking down at me is a marine easily a foot taller and about twice as wide.
+I turn and looking down at me is a marine easily a foot taller and about
+twice as wide.
 
 "Fuck if I know. Why did they send so many marines?" I ask back.
 
 At this the marines snickers, "Fuck if I know" he laughs back.
 
-The eggs are in a cube, the bacon is fake, something is clearly wrong with the food printer, my bread has actual layer shift lines. I shake my head, despite all the improvements in star ships and hyper sleep chambers, apparently the auto cook was low on their priorities.
+The eggs are in a cube, the bacon is fake, something is clearly wrong with
+the food printer, my bread has actual layer shift lines. I shake my head,
+despite all the improvements in star ships and hyper sleep chambers,
+apparently the auto cook was low on their priorities.
 
-I take my place in the center of the table, a spot left for me by Janice. "Five to One" Marco mumbles. "They send thirty marines and six cyber techs."
+I take my place in the center of the table, a spot left for me by
+Janice. "Five to One" Marco mumbles. "They send thirty marines and six
+cyber techs."
 
-"More than that." I reply. "They only opened half the pods. It's ten to one."
+"More than that." I reply. "They only opened half the pods. It's ten
+to one."
 
-"Why so many?" Marco asks. He's asking me because I'm technically considered the senior officer. Technically because the Space Marines in their disdain basically excluded the cybernetics techs out of their usual command chain. Cybernetics technician first class is all the rank I'll ever get, unless I want to head off to "real" boot camp.
+"Why so many?" Marco asks. He's asking me because I'm technically
+considered the senior officer. Technically because the Space Marines
+in their disdain basically excluded the cybernetics techs out of their
+usual command chain. Cybernetics technician first class is all the rank
+I'll ever get, unless I want to head off to "real" boot camp.
 
-The fact we get to even call ourselves marines pisses off the regular marines. All the rigger, all the physical training, all the crawling in mud, zero g combat stuff they do, we don't. Instead it's lots of invasive surgery for neural shunts, brain augmentation devices and lots and lots of studying. "Are they planning on going down?" asks Ruvi, yet another long standing member of our cyber tech squad. All these questions I don't have answers to. "I know only a tiny bit more than you guys do. I got roughly the same orders you got, showed up to the same packaging facility and found myself here." They knew I knew more, but realizing that I wasn't going to divulge more details in present company, everybody got back to the business of eating their slop. The other three members of the squad having asked no questions were still in the shell shock phase of this whole thing. I pat Jeremy on the shoulder. "How you handling your first trip as a cyber so far?" I ask. "Better than I thought. Damn neural shunt is itching like hell though." I get up and look at his neck. It's red as hell. He was the only member of our team who was a former colonial marine, in some ways it pissed the other marines off even more. "After muster, go find Dickinson and have her look at that." I point out. He simply nods. I know hey won't. He'll suffer in silence.
+The fact we get to even call ourselves marines pisses off the regular
+marines. All the rigger, all the physical training, all the crawling in
+mud, zero g combat stuff they do, we don't. Instead it's lots of invasive
+surgery for neural shunts, brain augmentation devices and lots and lots of
+studying. "Are they planning on going down?" asks Ruvi, yet another long
+standing member of our cyber tech squad. All these questions I don't have
+answers to. "I know only a tiny bit more than you guys do. I got roughly
+the same orders you got, showed up to the same packaging facility and
+found myself here." They knew I knew more, but realizing that I wasn't
+going to divulge more details in present company, everybody got back to
+the business of eating their slop. The other three members of the squad
+having asked no questions were still in the shell shock phase of this
+whole thing. I pat Jeremy on the shoulder. "How you handling your first
+trip as a cyber so far?" I ask. "Better than I thought. Damn neural shunt
+is itching like hell though." I get up and look at his neck. It's red
+as hell. He was the only member of our team who was a former colonial
+marine, in some ways it pissed the other marines off even more. "After
+muster, go find Dickinson and have her look at that." I point out. He
+simply nods. I know hey won't. He'll suffer in silence.
 
 
-
+Chapter 2.
 
 
 We line up on our spot on the muster line.
@@ -62,7 +114,9 @@ The marines line up ramrod straight.
 
 "Company at attention!" yells a sergeant.
 
-"Attend hut!" the marines yell back, echoing through the cavernous chamber. Our group manages to bellow out an "Attend hut" with the rest of them. The sergeant walks the line. Stopping at Janice.
+"Attend hut!" the marines yell back, echoing through the cavernous
+chamber. Our group manages to bellow out an "Attend hut" with the rest
+of them. The sergeant walks the line. Stopping at Janice.
 
 "Is that scarf regulation Ms. Allman?" snaps the sergeant.
 
@@ -72,27 +126,45 @@ The marines line up ramrod straight.
 
 At this a couple of marines snort.
 
-A loose button, a couple BDU's not cuffed properly. He's a real stickler for detail. "Ready Room one, on the double!" yells the sergeant. Now happy that in the case of sudden depressurization of the hull or fire, at least the forty odd people's corpses will look good or something like that.
+A loose button, a couple BDU's not cuffed properly. He's a real stickler
+for detail. "Ready Room one, on the double!" yells the sergeant. Now happy
+that in the case of sudden depressurization of the hull or fire, at least
+the forty odd people's corpses will look good or something like that.
 
-Being last in line, the room had exactly thirty seats. We all know our spot on the line and the number of seats was without accident. We dutifully stood in the back. The usual mild hazing, the norm.
+Being last in line, the room had exactly thirty seats. We all know
+our spot on the line and the number of seats was without accident. We
+dutifully stood in the back. The usual mild hazing, the norm.
 
 Seeing this, the sergeant snapped, "Get our techs some seats!"
 
 At this a marine out loud jokes, "Why, all they do is sit anyway."
 
-"Stow it Wikowsky and now you're getting them seats!" the sergeant barks back.
+"Stow it Wikowsky and now you're getting them seats!" the sergeant
+barks back.
 
-From a recess on the wall, additional flat pack desk chairs are unpacked and handed out. Satisfied everybody is now seated, the sermon began.
+From a recess on the wall, additional flat pack desk chairs are unpacked
+and handed out. Satisfied everybody is now seated, the sermon began.
 
-A wall screen starts up showing a planet of swirl of muddled oranges, browns and whites. Below it are bold letters that read "LV426".
+A wall screen starts up showing a planet of swirl of muddled oranges,
+browns and whites. Below it are bold letters that read "LV426".
 
-"Welcome back to the shit hole known as LV426. Also know as Acheron, Hadley's Hope and a few other wilder names.
+"Welcome back to the shit hole known as LV426. Also know as Acheron,
+Hadley's Hope and a few other wilder names.
 
-As I know you've all read the operation briefing, this is also the first planet where we encountered the what is now know as the Xenomorph." A murmur moves through the room. If Space Marines had a boogie man, it was the Xenomorph.
+As I know you've all read the operation briefing, this is also the first
+planet where we encountered the what is now know as the Xenomorph." A
+murmur moves through the room. If Space Marines had a boogie man, it
+was the Xenomorph.
 
-"Our job here is to recon the planet to evaluate it for habitability and additional threats. Even though the primary atmospheric processor that was installed near the settlement was destroyed, the four additional atmospheric processors have continued to function. Wayland has spend big money on this planet and they've hired our outfit to ensure that the previous tenants have left."
+"Our job here is to recon the planet to evaluate it for habitability and
+additional threats. Even though the primary atmospheric processor that
+was installed near the settlement was destroyed, the four additional
+atmospheric processors have continued to function. Wayland has spend
+big money on this planet and they've hired our outfit to ensure that
+the previous tenants have left."
 
-So, this is a corporate gig it makes sense. Why abandon a perfectly serviceable planet just because it had had a few pesky inhabitants.
+So, this is a corporate gig, it makes sense. Why abandon a perfectly
+serviceable planet just because it had had a few pesky inhabitants?
 
 At this a marines hand shot up, "Yes Corporal?"
 
@@ -100,153 +172,791 @@ At this a marines hand shot up, "Yes Corporal?"
 
 "Recon first, hostile elimination if needed."
 
-I knew this was coming. I'd been given a prior briefing explaining some of the mission parameters.
+I knew this was coming. I'd been given a prior briefing explaining some
+of the mission parameters.
 
 The moment we came out of hyperspace, we began mapping the surface.
 
 The screen changed to show the planet without the clouds.
 
-A quick zoom in showed the crater where the primary atmospheric processor and the settlement had been.
+A quick zoom in showed the crater where the primary atmospheric processor
+and the settlement had been.
 
 The other atmospheric processors were highlighted on the map.
 
-As well as a red zone. "This is the location of the derelict alien ship. It is known to contain xenomorph eggs. It is considered a no-go zone. Our objectives are the processors. In particular processors three and two that has gone off the grid."
+As well as a red zone. "This is the location of the derelict alien
+ship. It is known to contain xenomorph eggs. It is considered a no-go
+zone. Our objectives are the processors. In particular processors two
+and three that has gone off the grid."
 
 The screen turned off.
 
-"Cyber will be landing Rockies first, then if deemed needed, marines." Hands slapped desks, general groans, more than a couple marines looked back and gave us looks I'm sure their grandmothers would have disapproved of.
+"Cyber will be landing Rockies first, then if deemed needed,
+marines." Hands slapped desks, general groans, more than a couple marines
+looked back and gave us looks I'm sure their grandmothers would have
+disapproved of.
 
-Since the original events of LV426, the Xenomorph had become the cultural boogie man. More than a few marines in this group sported Xenomorph tattoos and talked righteously of avenging their fallen brothers. Here they were, at the place it had first gone down and the prospect of unleashing hell on their enemies was being snatched from them.
+Since the original events of LV426, the Xenomorph had become the cultural
+boogie man. More than a few marines in this group sported Xenomorph
+tattoos and talked righteously of avenging their fallen brothers. Here
+they were, at the place it had first gone down and the prospect of
+unleashing hell on their enemies was being snatched from them.
 
-Jeremy had told me that a big part of their training now consisted of simulations that contained combat with xenomorphs. Guys built tiny shrines depicting their eventual victories over this foe. Xenomorph heads as trophies were a popular thing to come out of the various printers. I wasn't unsympathetic to their feelings or cause. Though to me, going nose to nose with a predator that could at best kill me or at worse use me as a womb for another xenomorph didn't sound appealing at all. As far as I was concerned, I was more than happy to merely orbit the planet. Landing in ankle deep mud was a job for robots and these guys.
+Jeremy had told me that a big part of their training now consisted
+of simulations that contained combat with xenomorphs. Guys built tiny
+shrines depicting their eventual victories over this foe. Xenomorph heads
+as trophies were a popular thing to come out of the various printers. I
+wasn't unsympathetic to their feelings or cause. Though to me, going nose
+to nose with a predator that could at best kill me or at worse use me as
+a womb for another xenomorph didn't sound appealing at all. As far as I
+was concerned, I was more than happy to merely orbit the planet. Landing
+in ankle deep mud was a job for robots and these guys.
 
-However, the events on LV426 had lead to me being here. After the debacle, the military realized that threats like the xenomorphs weren't easily going to be tackled by men and women in body armor. Two major innovations happened that changed things in a big way. The first was the subspace radio. This allowed for far faster comms across stellar distances. Moreover, it took remote control and sensing to the next level. The second innovation was the creation of neural shunt technology that allowed for the true blending of man and machine. Suddenly the military was presented with the reality of having robots they could control at great distances. You might be asking why even come on this ship then? As the Astro techs have tried to explain some of the math, the farther you are away, the lower the amount of bandwidth. Communicating with Earth is now so slow it can be measured in bits per minute. As this session dragged on and various training and maintenance tasks were handed out a few marines groused more and more about not getting down to the planet, I wondered why they'd even been thawed. A thought a couple marines had expressed as well. Others took it in stride. Fine if they weren't going to get down to the planet, they were going to be riding our asses and looking at every pixel we fed back.
+However, the events on LV426 had lead to me being here. After the
+debacle, the military realized that threats like the xenomorphs weren't
+easily going to be tackled by men and women in body armor. Two major
+innovations happened that changed things in a big way. The first was
+the subspace radio. This allowed for far faster comms across stellar
+distances. Moreover, it took remote control and sensing to the next
+level. The second innovation was the creation of neural shunt technology
+that allowed for the true blending of man and machine. Suddenly the
+military was presented with the reality of having robots they could
+control at great distances. You might be asking why even come on this
+ship then? As the Astro techs have tried to explain some of the math, the
+farther you are away, the lower the amount of bandwidth. Communicating
+with Earth is now so slow it can be measured in bits per minute. As
+this session dragged on and various training and maintenance tasks were
+handed out a few marines groused more and more about not getting down to
+the planet, I wondered why they'd even been thawed. A thought a couple
+marines had expressed as well. Others took it in stride. Fine if they
+weren't going to get down to the planet, they were going to be riding
+our asses and looking at every pixel we fed back.
 
 This whole thing was going to be hot garbage anyway you cut it.
 
-"Deployment will be at 0700 tomorrow. Cybers prep for drop. Dismissed!" barked the Sargent.
+"Deployment will be at 0700 tomorrow. Cybers prep for
+drop. Dismissed!" barked the Sargent.
 
-Walking back to "candy land" as everybody called our area the grumbles in the halls got louder.
+Walking back to "candy land" as everybody called our area the grumbles
+in the halls got louder.
 
-Wikowsky pushed his way up to our group, stabbing a finger in my chest, "All this bullshit so you weenies can shuffle around in your tin cans?"
+Wikowsky pushed his way up to our group, stabbing a finger in my chest,
+"All this bullshit so you weenies can shuffle around in your tin cans?"
 
-I've been to this rodeo plenty of times. The trick was to help the guy think you're in the same boat as him and then give him a carrot. "Look man, I'm just following orders like the rest of you. If we find something, you'll see it as well. The feeds will be going to everybody."
+I've been to this rodeo plenty of times. The trick was to help the guy
+think you're in the same boat as him and then give him a carrot. "Look
+man, I'm just following orders like the rest of you. If we find something,
+you'll see it as well. The feeds will be going to everybody."
 
-"The Mark I eyeball is all I need." he replied which brought a couple "yeas" from the group that formed around us. I could sense the tension in the area, this guy had a xenomorph tattoo on his forearm. "We have chain of command for a reason. Talk to your CO, I've got orders."
+"The Mark I eyeball is all I need." he replied which brought a couple
+"yeas" from the group that formed around us. I could sense the tension
+in the area, this guy had a xenomorph tattoo on his forearm. "We have
+chain of command for a reason. Talk to your CO, I've got orders."
 
-Jeremy's hand caught Wikowsky's fist millimeters from my face, he then spun into a jujitsu move that had Wikowsky pinned to the wall. Nose to nose, Jeremy growled, "Stow it. We've got enough going on without your bullshit as well." At this, Jeremy dropped the lock and gave the guy a good shove. We then turned and walked away. "Keep walking" he yelled.
+Jeremy's hand caught Wikowsky's fist millimeters from my face, he then
+spun into a jujitsu move that had Wikowsky pinned to the wall. Nose to
+nose, Jeremy growled, "Stow it. We've got enough going on without your
+bullshit as well." At this, Jeremy dropped the lock and gave the guy a
+good shove. We then turned and walked away. "Keep walking" he yelled.
 
-"He's a traitor to the Corps and you're not even fucking marines. Why they let you chicken shits on this mission I'll never know."
+"He's a traitor to the Corps and you're not even fucking marines. Why
+they let you chicken shits on this mission I'll never know."
 
-Sadly, this isn't the first time I've dealt with this. I just pointed to the corner and said, "Tsk tsk, Cameras."
+Sadly, this isn't the first time I've dealt with this. I just pointed
+to the corner and said, "Tsk tsk, Cameras."
 
-Realizing that like every part of the ship, this was being recorded, he finally got the hint, turned heel and stomped off.
+Realizing that like every part of the ship, this was being recorded,
+he finally got the hint, turned heel and stomped off.
 
 "What a fucking hot head" quipped Janice.
 
-"Seriously. How did he get through the damn pysch eval?" joked Marco. Jeremy snickered, "You have no idea how low the standards truly are."
+"Seriously. How did he get through the damn pysch eval?" joked
+Marco. Jeremy snickered, "You have no idea how low the standards truly
+are."
 
 
 
 
 
-0700 gives us nearly ten hours to do final load out on our rockies. The real name is some word salad remote operational cyber enabled recon system or some shit. Everybody just called them rockies in an omage to the old film about a boxer and the rock'em sockem robots game that someone had dutifly printed out and had affixed to the wall of the prep room. The other funnier name that went around was "killer mushrooms" due to the large sensor dome that afforded the operator a 360 degree view of their surroundings. On four articulated legs and with two powerful and two smaller manipulator arms, they could damn near climb anything, cut through anything and come home to talk about it. Covered in high tech ceramic armor and hard points they could take a beating and also bring a subsantial amount of firepower to a situation as well. For this mission we'd also been issued "sleds." Drop vehicles that contained their own power supplies and could carry a rocky great distances as well as carry spares and additional ammo. Cradled in their storage units, we looked at the load out manifests. "What the fuck is this?" quipped Jeremey, one of the newer operators. I came over to look at his tablet. "Glue dispensors?" pointing to the tablet. I took a deep breath, time for the rest of the briefing. "Everybody take a seat." I said. "The marines got told what they needed, we have secondary orders to capture a xenomorph if possible. Hence the aformentioned glue dispensors." "And then do what? Bring it on this ship? No fucking way." repied Janice. "According to the brass they've got some magic resin to encased and rendered inert." I explained. "Jesus have mercy on us." mumbles Mike. The last member of our group was a petite woman named Joanne, but went by the handle Roxxie. "Roxxie, I've been quiet through all this. Feel free to speak up." At this, she let out a sigh. "A missions a mission, but this seems like a really bad one. I've read the files on what those things are capable of. Acid for blood, super strong, immune to vaccum. Has one even been captured to test this containment on?" We all know the answer to that. Even one had been, we'd have been the last to be told about it. "I know saying trust the system is clique here, but in this case, we're going to have to roll with it." Everybody nods. We all know the score. There were bigger things afoot here, we just weren't entirely privy to all the details. "Look on the bright side, we've got lattitude on our loadouts. Pack for a party!" Like kids in a candy store, they went to work. Ammo drums were hosted into place, bolts tightened, connectors checked. over the next three hours drop details were fed to my tablet. Ruvi pinged me. "Do we even know the drop point?" he asked. In response, I forwarded the entire intel packet to everybody on the team. "Sir, you just gave me everything." replied Ruvi. "Yes. I've got that power and I'm using it. Let's not go in with eyes half open. Two teams. Myself, Marco and Janice, Ruvi, Roxxie and Jeremy." I wanted to make sure there was someone senior on each team. Roxxie had a cool head and was a solid respected leader in the group. More data flows in. My team is going to investigate why the atmospheric processor isn't calling home. Team two is going to investigate the fourth processor plant. Everybody nodded happy with this arrangement. "Let's get some rest, 0500 I expect everybody ready to enter cradles and jack in."
+0700 gives us nearly ten hours to do final load out on our rockies. The
+real name is some word salad remote operational cyber enabled recon
+system or some shit. Everybody just called them rockies in an omage
+to the old film about a boxer and the rock'em sockem robots game that
+someone had dutifly printed out and had affixed to the wall of the prep
+room. The other funnier name that went around was "killer mushrooms" due
+to the large sensor dome that afforded the operator a 360 degree view
+of their surroundings. On four articulated legs and with two powerful
+and two smaller manipulator arms, they could damn near climb anything,
+cut through anything and come home to talk about it. Covered in high tech
+ceramic armor and hard points they could take a beating and also bring a
+subsantial amount of firepower to a situation as well. For this mission
+we'd also been issued "sleds." Drop vehicles that contained their own
+power supplies and could carry a rocky great distances as well as carry
+spares and additional ammo. Cradled in their storage units, we looked
+at the load out manifests. "What the fuck is this?" quipped Jeremey,
+one of the newer operators. I came over to look at his tablet. "Glue
+dispensors?" pointing to the tablet. I took a deep breath, time for the
+rest of the briefing. "Everybody take a seat." I said. "The marines got
+told what they needed, we have secondary orders to capture a xenomorph
+if possible. Hence the aformentioned glue dispensors." "And then do
+what? Bring it on this ship? No fucking way." repied Janice. "According
+to the brass they've got some magic resin to encased and rendered
+inert." I explained. "Jesus have mercy on us." mumbles Mike. The last
+member of our group was a petite woman named Joanne, but went by the
+handle Roxxie. "Roxxie, I've been quiet through all this. Feel free to
+speak up." At this, she let out a sigh. "A missions a mission, but this
+seems like a really bad one. I've read the files on what those things
+are capable of. Acid for blood, super strong, immune to vaccum. Has
+one even been captured to test this containment on?" We all know the
+answer to that. Even one had been, we'd have been the last to be told
+about it. "I know saying trust the system is clique here, but in this
+case, we're going to have to roll with it." Everybody nods. We all
+know the score. There were bigger things afoot here, we just weren't
+entirely privy to all the details. "Look on the bright side, we've got
+lattitude on our loadouts. Pack for a party!" Like kids in a candy store,
+they went to work. Ammo drums were hosted into place, bolts tightened,
+connectors checked. over the next three hours drop details were fed to my
+tablet. Ruvi pinged me. "Do we even know the drop point?" he asked. In
+response, I forwarded the entire intel packet to everybody on the
+team. "Sir, you just gave me everything." replied Ruvi. "Yes. I've got
+that power and I'm using it. Let's not go in with eyes half open. Two
+teams. Myself, Marco and Janice, Ruvi, Roxxie and Jeremy." I wanted
+to make sure there was someone senior on each team. Roxxie had a cool
+head and was a solid respected leader in the group. More data flows
+in. My team is going to investigate why the atmospheric processor isn't
+calling home. Team two is going to investigate the fourth processor
+plant. Everybody nodded happy with this arrangement. "Let's get some rest,
+0500 I expect everybody ready to enter cradles and jack in."
 
 
 
 
 
-Dinner was somewhat nicer than our wake up meal. Apparently a tech somewhere had tinkered with something because I got something that resembled an actual hamburger. Not ones to complain, we ate our soy protein burgers, headed back and hit the sack. We got the usual side eye and head shakes but were left unmolested otherwise.
+Dinner was somewhat nicer than our wake up meal. Apparently a tech
+somewhere had tinkered with something because I got something that
+resembled an actual hamburger. Not ones to complain, we ate our soy
+protein burgers, headed back and hit the sack. We got the usual side
+eye and head shakes but were left unmolested otherwise.
 
-Four thirty is damn early, anyway you cut it. The marines make you used to it, but it's still rough. I get up, bang on doors and got assundry mumbles. Roxxie and Ruvi appear to be rooming together, honestly, I not surprised and I'm happy for them.
+Four thirty is damn early, anyway you cut it. The marines make you used
+to it, but it's still rough. I get up, bang on doors and got assundry
+mumbles. Roxxie and Ruvi appear to be rooming together, honestly, I not
+surprised and I'm happy for them.
 
-Janice strides out of her quarters, haptic suit on and ready to roll. The two of us exchange knowing glances and Janice simply raises her eyebrows.
+Janice strides out of her quarters, haptic suit on and ready to roll. The
+two of us exchange knowing glances and Janice simply raises her eyebrows.
 
-As Janice and I are warming up our cradles, the other members stroll in, hot coffee in hand and climb down into their cradles and start up the warm up procedure. For cybernetics technicians, jacking in has a number of serious dangers. The most common to newer users is known as transition shock. Your brain is quite happy with all the usual sensory input and then you pull the rug out and give it different and additional inputs. Our group at this point has been jacking in at the low end for two years and at the high end like myself for nearly a decade. I slide my head back into the cradle and feel the click of the interfacer to my neural shunt. My head is now locked in place, I feel the various cinch points as the haptic suit pins me down. "Initiate transition" I say. Immediately I'm dropped into darkness. "Commander, unit number one is ready." I say "Thank you Alice" but my lips don't move. I'm fully shunted in. Alice is the AI on the rocky. We're encouraged to give them names and interact with them. There's so much data flowing in, without an AI to help collate it, you'd quickly be overwhelmed. "Status check" I say into the comms channel. "Team 1 ready, team 2 ready." I get firm replies. Good, everybody has jacked in without issue. I switch over to the command channel. "Cybertech teams one and two ready." I say into the channel. "Roger that. Hold tight, we are adjusting our orbit for optimal insertion." a voice says back. Into the channel I've designated "Team 1" the operational CO speaks up. "Team 1, prepare for drop in thirty seconds. Team 2, drop in 45 seconds." This part is a bit of a nothing burger for us. The sleds and our rockies will either make it to the ground in one piece or they simply drop another unit. We have six units, plus an additional six in spares that can be assembled. During this time we access the various optical systems on the nadar side of the ship. Janice pings me. "Glad we've got subspace on the rockys, it looks like one hell of storm in the north." I changed my perspective and she was right. While always harsh, the detonation of the primary processor had thrown gigatons of dust into the atmosphere, helping to trap more heat and ironically speeding up the terraforming process. A wet and rainy planet now with extra heat pumped into it, meant big storms. "I wonder if the issue with unit three is water intrusion or a bolt of lightning?" remarked Marco into our group channel. Privately I hoped, though these stations were built to be dropped from orbit and just "work." Bingo, five by five, confirmation of soft landing. The petals of the drop capsule unfolded. Already the sensors on my rocky were registering a gust of 50km/h. Alice shift through the spectrums, nothing. Without needing any urging we proceeded towards the processing plant. Fuck. The blast doors were ajar, at least a half meter. "I was really hoping to find nobody home." Janice whispered into the chat. "Me too." I thought back. I notice that Alice had already brought all the weapons online. Alice and I had been paired more than five years ago, it had gotten some intutition about it and I appreciated it. "No damage to the doors" Alice noted. Maybe just a mechanical screwup? Marco went forward, deploying his smaller set of dexterous hands he manipulated the controls. The door ground open a couple more centimenters. "That's all I'm going to get, the mechanism is seized or jammed, I can't tell." Not surprising, water likely got into the track. I moved forward and looked closer. I unlimbered my big arms. I attempted to pry the doors, but they only started to deform. "Permission to cut into the blast doors?" I asked. "Granted. Breach the doors and enter." the CO ordered. My plasma torch made quick work of the blast doors. Plates of durasteel fall to the mud with a sizzle. All three of us stalk through the steaming opening into the lower entry bay of atmospheric processor number 3. "Fuck me." whispers Marco. Behind me I can see that the door mechanism is gummed up with Alien excretion. Every wall surface and the ceiling were caked with it. Frozen into the walls were various shapes, their chests burst open, but so coated in excretion as to make them unrecognizable. "Confirm hostiles" I said into the channel. "Roger that. Team two confirms evidence of hostiles as well." came through on the command channel. "I don't understand, there's nothing on this rock for them to eat or use as wombs?" Marco jestures at the wall. "Eh, please don't say womb." replies Janice. I can feel her disgust in the channel. The dangers of being jacked in, bits of emotion travel across the link. "Sorry." replies Marco. "Get samples" comes through the channel. "Roger." I bark back. A compartment in the front of my rocky opens, I dutify scrap some of the alien excretions into the container, It snaps shut. I can tell the fusion reactor is online, the vibration is enough I can feel it through the haptic suit. "Deploy recon drones" I order. A small triangular drone lifts off from the top of each of our sensor stacks. "Marco, Up, Janice down, I'll take straight ahead." I call out. This is for the benefit of the marines I know are watching the feed. Alice controls the drone as it flies through the facility. Dopplar pulses, wide band IR and optical scanners feed information back to Alice and into my mind mapping out the facility and comparing it to schematics. I locate the nearest network interface. I patch in. The fusion reactor is functioning but at lowered power. Its heat exchangers have been compromised. This smells exactly like the reports from the other facility. "Contact." Janice announces into the channel. "Lower level, My drone was swatted out of the air. I got four distinct things moving." "Xenomorphs?" I ask. "It happened fast sir, the drone was nailed from above." A quick reply shows the drone be swatted by the dark vaguely biomechancial hand of a xeno. "Deploy another?" she asks. "Save them. They know we're here. I brought the camera feeds up. Dozens of cameras and only 7 were operational? Those operational had been encased, their feeds useless. It seemed the Xenomorphs intentionally covered them or destroyed them, but why would they know or care? Yet another question to file away. My drone returned. Nobody home on the ground level. "Movement, upper level, and lower." Marco was right. I heard the tromping of feet on steel treads from above. These remote processors weren't that elaborate. Just a fusion reactor, large vents to draw in air, machinery to split out the bad stuff, add in the good stuff and shoot the atmosphere out. No control room, just a single console, spare parts storage and miles of pipe and wire. A dozen drones spilled out of the stairway. Some were full size drones we'd all seen in the archive footage, others were slightly smaller, thinner, pale things. Training fully kicked in, I tracked and fired a three round burst through the closest drone. Configured to burst in the chest cavity, the first drone blew in half throwing green acidic blood and guts in every direction. Immediately a stripe of optics went out, I automatically rotated the bug eyed sensor dome to put the dark spot at the back. Janice nailed a smaller xenomorph with the glue. A thick mesh of adhesive had entangled the chreature. Identicial to it's larger cousin, it struggled and snarled as the glue set. "Not sure how it would work a big one, but we bagged ourselves a mini." Marco our resident nerd about this chimed in, "None of the intel I've seen have shown one this small, or skinny." Small was realative. This creature was still over 1.5 meters tall, just very thin and pale, with an oddly shaped head. Drones kept stalking forward likely unsure what to do with this new foe. I ordered our team to back out of the processor. Acid eating through some critical part of the cooling system of the fusion reactor was definitely a bad thing. I was also keenly aware a 10mm caseless HE round in the wrong spot would quickly end this mission. The drones surged through the gap we'd cut in the door, only to be shredded three strides out. The assault ended quickly. Alice had kept a running count, eleven in total. Janice went back inside and retrieved our prize. Marco was busy sampling the various fluids leaking from the drones. "That ain't good" I hear over the channel. "I've got a jar made out of that super material, it held the xeno blood for about five minutes." Looking over I see him holding up the jar, the bottom of it gone. "Team one, return to dust off point with specimen." At this Janice opens a channel just to me. "This is bullshit. Marco just showed them that their test jar couldn't stop their blood. Do you want to be on DeBe with that thing?" The honest answer was no. "Command, this is Team 1 leader. Reporting that Marco's containment vessel failed. Requesting sit eval on return of specimen to DeBraso?" "We are aware of the situation" came the reply. It was easy to forget that all our video was being distributed across the ship into various war rooms. Minutes went by as we waited. Privately in our channel we mused about converstations were being had on the bridge. "Orders are as follows. Restrain specimen to Marco's sled. Investigate transmitted grid location." Marco immediately went to his sled and unloaded additional ammo canistor and a spare portable reactor. Janice piped up in our side channel, "What the fuck is the plan?" "Dunno. Follow orders, go to grid locations." I said flatly. We secured the Xeno to Marco's sled as it hissed and snapped at us. As soon as the last tie down was cinched, it promptly trundled off over the horizon. We stowed ourselfes and the supplies onto the remaining sleds. "That little one was weird, what was up with its head?" asked Marco. Both Janice and I said nothing. This whole thing was weird and getting weirder. The sleds ground through the mud leaving deep furrows as they chugged towards our next objective. "Alice, please eject me." I said to the AI. Immediately my senses reverted back to the usuals. I hit the eject button and the visor slid back and I felt the neural shunt disengage. Janice and Marco stepped up out of the pits as well. "Estimated travel time for the sleds is two hours." I said. They nodded. There were long term effects of the neural shunts. Headaches being the most prominent one. I could feel one brewing and in more than one way. I jogged slowly down the central spar hallway that ran the length of the ship. To get the blood flowing and to get some answers. Soon I found myself at the Combat Information Center (CIC) door. "Permission to Enter?" I asked at the intercom. The door slid open. "Permission granted." I got gruffly back. On the walls I could see the six views from the rocky's as they rolled over the terrain. A tech turned and said over their shoulder, "Team three drop ship is nominal. ETA nine minutes." Wait what, I reeled a bit. Another team? We were the only cybers on the ship? That can only mean one thing. Commander Robinson cleared his throat, "As you are well aware Lt. Hurgs, we are the middle of a mission. Other than streching your legs, why are you in my CIC?" "Sir, I'm concerned about the failure of Marco's test vessel" He held his hands up, "Son, you are above your paygrade here. That's not the only vessel we brought with us. We've got the situation handled. Get back in your pit and get back to the mission." I was then tossed out of the CIC. This whole thing stunk. I deeply disliked being used as a cog in a machine I didn't know what direction it was traveling. I walked back to the candy land and it hit me. Dr. Jaggo. I climbed back into the pit, but I didn't jack in. Instead I wrote up a quick note to one of the techs back on Earth. IF anybody had been involved in the creation of the storage vessels, it was Dr. Jaggo. Normally or paths wouldn't have crossed except for that she'd been pulled into the project of outfitting the rocky's with composite armor to make the more resistant to the creatures wildly acidic blood. She was the expert when it came to the xenos blood. The message sat in the send queue. Weird. I checked the logs. Subspace link offline? Yet another weird thing. Janice and Marco were already jacked back in, I followed suit. What a rainy nasty planet. The storm we'd seen from orbit had spun off a smaller storms and we were enjoying the benefits of one of them. Winds lashed the sleds. We tumbled through the various bands looking for anything alive. Around us the ground was glowing with lichen mats, the puddles teemed with life microbial life. "Weird wildlife" Marco said into the channel. "I don't understand how there were drones. There's supposed to be no large life forms on this planet." replied Janice. It was true. This was something that had bothered me as well. The xeno life cycle was well known. "What was encased on the walls then?" I asked. The landscape was windswept and desolate. The planet was beautiful in a primortial way. I could see how eventually with decades of terraforming it would eventually be nice. Get some gmo grasses going, calm down the atmosphere. The star was a class G like ours. I let the sensor data wash over me as mused about this. This place could be a paradise one day, but that was far in the future. It was Marco who saw it first. "Well, I think we're about to get more answers." he said into the channel. I snapped out of my daydream about the planet and realized he was talking about the Xenos. Marco's rocky sprung from the sled and landed agile like a cat. "Is that a pig?" asked Janice. Alice answered into the chat, "Based on image analysis, yes." The three rocky's stood around this pigs corpse. It's chest blown open in classic xenomorph form. "It's not decayed much if not at all." I noticed. "CIC, you seeing this?" I said into the command channel. Over the channel I heard commander Robinson's exhale. "We see it. This might change the number of hostiles." In our private channel Marco muttered, "ya think!" We remounted the sleds and trundled on, however now all three of us fully extended our sensor bulbs. Without prompting Marco launched additional drones to provide a larger swath of overwatch, yet again showing initiative.
+As Janice and I are warming up our cradles, the other members stroll
+in, hot coffee in hand and climb down into their cradles and start up
+the warm up procedure. For cybernetics technicians, jacking in has a
+number of serious dangers. The most common to newer users is known as
+transition shock. Your brain is quite happy with all the usual sensory
+input and then you pull the rug out and give it different and additional
+inputs. Our group at this point has been jacking in at the low end for
+two years and at the high end like myself for nearly a decade. I slide
+my head back into the cradle and feel the click of the interfacer to
+my neural shunt. My head is now locked in place, I feel the various
+cinch points as the haptic suit pins me down. "Initiate transition"
+I say. Immediately I'm dropped into darkness. "Commander, unit number
+one is ready." I say "Thank you Alice" but my lips don't move. I'm fully
+shunted in. Alice is the AI on the rocky. We're encouraged to give them
+names and interact with them. There's so much data flowing in, without
+an AI to help collate it, you'd quickly be overwhelmed. "Status check"
+I say into the comms channel. "Team 1 ready, team 2 ready." I get firm
+replies. Good, everybody has jacked in without issue. I switch over to
+the command channel. "Cybertech teams one and two ready." I say into
+the channel. "Roger that. Hold tight, we are adjusting our orbit for
+optimal insertion." a voice says back. Into the channel I've designated
+"Team 1" the operational CO speaks up. "Team 1, prepare for drop in
+thirty seconds. Team 2, drop in 45 seconds." This part is a bit of a
+nothing burger for us. The sleds and our rockies will either make it to
+the ground in one piece or they simply drop another unit. We have six
+units, plus an additional six in spares that can be assembled. During
+this time we access the various optical systems on the nadar side of
+the ship. Janice pings me. "Glad we've got subspace on the rockys, it
+looks like one hell of storm in the north." I changed my perspective
+and she was right. While always harsh, the detonation of the primary
+processor had thrown gigatons of dust into the atmosphere, helping to
+trap more heat and ironically speeding up the terraforming process. A
+wet and rainy planet now with extra heat pumped into it, meant big
+storms. "I wonder if the issue with unit three is water intrusion or a
+bolt of lightning?" remarked Marco into our group channel. Privately I
+hoped, though these stations were built to be dropped from orbit and
+just "work." Bingo, five by five, confirmation of soft landing. The
+petals of the drop capsule unfolded. Already the sensors on my rocky
+were registering a gust of 50km/h. Alice shift through the spectrums,
+nothing. Without needing any urging we proceeded towards the processing
+plant. Fuck. The blast doors were ajar, at least a half meter. "I was
+really hoping to find nobody home." Janice whispered into the chat. "Me
+too." I thought back. I notice that Alice had already brought all the
+weapons online. Alice and I had been paired more than five years ago,
+it had gotten some intutition about it and I appreciated it. "No damage
+to the doors" Alice noted. Maybe just a mechanical screwup? Marco went
+forward, deploying his smaller set of dexterous hands he manipulated the
+controls. The door ground open a couple more centimenters. "That's all
+I'm going to get, the mechanism is seized or jammed, I can't tell." Not
+surprising, water likely got into the track. I moved forward and looked
+closer. I unlimbered my big arms. I attempted to pry the doors, but
+they only started to deform. "Permission to cut into the blast doors?" I
+asked. "Granted. Breach the doors and enter." the CO ordered. My plasma
+torch made quick work of the blast doors. Plates of durasteel fall to the
+mud with a sizzle. All three of us stalk through the steaming opening into
+the lower entry bay of atmospheric processor number 3. "Fuck me." whispers
+Marco. Behind me I can see that the door mechanism is gummed up with Alien
+excretion. Every wall surface and the ceiling were caked with it. Frozen
+into the walls were various shapes, their chests burst open, but so coated
+in excretion as to make them unrecognizable. "Confirm hostiles" I said
+into the channel. "Roger that. Team two confirms evidence of hostiles
+as well." came through on the command channel. "I don't understand,
+there's nothing on this rock for them to eat or use as wombs?" Marco
+jestures at the wall. "Eh, please don't say womb." replies Janice. I can
+feel her disgust in the channel. The dangers of being jacked in, bits of
+emotion travel across the link. "Sorry." replies Marco. "Get samples"
+comes through the channel. "Roger." I bark back. A compartment in the
+front of my rocky opens, I dutify scrap some of the alien excretions into
+the container, It snaps shut. I can tell the fusion reactor is online,
+the vibration is enough I can feel it through the haptic suit. "Deploy
+recon drones" I order. A small triangular drone lifts off from the
+top of each of our sensor stacks. "Marco, Up, Janice down, I'll take
+straight ahead." I call out. This is for the benefit of the marines I
+know are watching the feed. Alice controls the drone as it flies through
+the facility. Dopplar pulses, wide band IR and optical scanners feed
+information back to Alice and into my mind mapping out the facility and
+comparing it to schematics. I locate the nearest network interface. I
+patch in. The fusion reactor is functioning but at lowered power. Its
+heat exchangers have been compromised. This smells exactly like the
+reports from the other facility. "Contact." Janice announces into the
+channel. "Lower level, My drone was swatted out of the air. I got four
+distinct things moving." "Xenomorphs?" I ask. "It happened fast sir, the
+drone was nailed from above." A quick reply shows the drone be swatted
+by the dark vaguely biomechancial hand of a xeno. "Deploy another?" she
+asks. "Save them. They know we're here. I brought the camera feeds
+up. Dozens of cameras and only 7 were operational? Those operational
+had been encased, their feeds useless. It seemed the Xenomorphs
+intentionally covered them or destroyed them, but why would they know
+or care? Yet another question to file away. My drone returned. Nobody
+home on the ground level. "Movement, upper level, and lower." Marco was
+right. I heard the tromping of feet on steel treads from above. These
+remote processors weren't that elaborate. Just a fusion reactor,
+large vents to draw in air, machinery to split out the bad stuff, add
+in the good stuff and shoot the atmosphere out. No control room, just
+a single console, spare parts storage and miles of pipe and wire. A
+dozen drones spilled out of the stairway. Some were full size drones
+we'd all seen in the archive footage, others were slightly smaller,
+thinner, pale things. Training fully kicked in, I tracked and fired a
+three round burst through the closest drone. Configured to burst in the
+chest cavity, the first drone blew in half throwing green acidic blood
+and guts in every direction. Immediately a stripe of optics went out,
+I automatically rotated the bug eyed sensor dome to put the dark spot at
+the back. Janice nailed a smaller xenomorph with the glue. A thick mesh of
+adhesive had entangled the chreature. Identicial to it's larger cousin,
+it struggled and snarled as the glue set. "Not sure how it would work a
+big one, but we bagged ourselves a mini." Marco our resident nerd about
+this chimed in, "None of the intel I've seen have shown one this small,
+or skinny." Small was realative. This creature was still over 1.5 meters
+tall, just very thin and pale, with an oddly shaped head. Drones kept
+stalking forward likely unsure what to do with this new foe. I ordered
+our team to back out of the processor. Acid eating through some critical
+part of the cooling system of the fusion reactor was definitely a bad
+thing. I was also keenly aware a 10mm caseless HE round in the wrong
+spot would quickly end this mission. The drones surged through the gap
+we'd cut in the door, only to be shredded three strides out. The assault
+ended quickly. Alice had kept a running count, eleven in total. Janice
+went back inside and retrieved our prize. Marco was busy sampling the
+various fluids leaking from the drones. "That ain't good" I hear over
+the channel. "I've got a jar made out of that super material, it held
+the xeno blood for about five minutes." Looking over I see him holding
+up the jar, the bottom of it gone. "Team one, return to dust off point
+with specimen." At this Janice opens a channel just to me. "This is
+bullshit. Marco just showed them that their test jar couldn't stop
+their blood. Do you want to be on DeBe with that thing?" The honest
+answer was no. "Command, this is Team 1 leader. Reporting that Marco's
+containment vessel failed. Requesting sit eval on return of specimen to
+DeBraso?" "We are aware of the situation" came the reply. It was easy
+to forget that all our video was being distributed across the ship into
+various war rooms. Minutes went by as we waited. Privately in our channel
+we mused about converstations were being had on the bridge. "Orders are as
+follows. Restrain specimen to Marco's sled. Investigate transmitted grid
+location." Marco immediately went to his sled and unloaded additional
+ammo canistor and a spare portable reactor. Janice piped up in our side
+channel, "What the fuck is the plan?" "Dunno. Follow orders, go to grid
+locations." I said flatly. We secured the Xeno to Marco's sled as it
+hissed and snapped at us. As soon as the last tie down was cinched,
+it promptly trundled off over the horizon. We stowed ourselfes and the
+supplies onto the remaining sleds. "That little one was weird, what was up
+with its head?" asked Marco. Both Janice and I said nothing. This whole
+thing was weird and getting weirder. The sleds ground through the mud
+leaving deep furrows as they chugged towards our next objective. "Alice,
+please eject me." I said to the AI. Immediately my senses reverted back
+to the usuals. I hit the eject button and the visor slid back and I felt
+the neural shunt disengage. Janice and Marco stepped up out of the pits
+as well. "Estimated travel time for the sleds is two hours." I said. They
+nodded. There were long term effects of the neural shunts. Headaches being
+the most prominent one. I could feel one brewing and in more than one
+way. I jogged slowly down the central spar hallway that ran the length
+of the ship. To get the blood flowing and to get some answers. Soon I
+found myself at the Combat Information Center (CIC) door. "Permission
+to Enter?" I asked at the intercom. The door slid open. "Permission
+granted." I got gruffly back. On the walls I could see the six views
+from the rocky's as they rolled over the terrain. A tech turned and
+said over their shoulder, "Team three drop ship is nominal. ETA nine
+minutes." Wait what, I reeled a bit. Another team? We were the only cybers
+on the ship? That can only mean one thing. Commander Robinson cleared
+his throat, "As you are well aware Lt. Hurgs, we are the middle of a
+mission. Other than streching your legs, why are you in my CIC?" "Sir,
+I'm concerned about the failure of Marco's test vessel" He held his
+hands up, "Son, you are above your paygrade here. That's not the only
+vessel we brought with us. We've got the situation handled. Get back
+in your pit and get back to the mission." I was then tossed out of the
+CIC. This whole thing stunk. I deeply disliked being used as a cog in
+a machine I didn't know what direction it was traveling. I walked back
+to the candy land and it hit me. Dr. Jaggo. I climbed back into the pit,
+but I didn't jack in. Instead I wrote up a quick note to one of the techs
+back on Earth. IF anybody had been involved in the creation of the storage
+vessels, it was Dr. Jaggo. Normally or paths wouldn't have crossed except
+for that she'd been pulled into the project of outfitting the rocky's with
+composite armor to make the more resistant to the creatures wildly acidic
+blood. She was the expert when it came to the xenos blood. The message sat
+in the send queue. Weird. I checked the logs. Subspace link offline? Yet
+another weird thing. Janice and Marco were already jacked back in, I
+followed suit. What a rainy nasty planet. The storm we'd seen from orbit
+had spun off a smaller storms and we were enjoying the benefits of one
+of them. Winds lashed the sleds. We tumbled through the various bands
+looking for anything alive. Around us the ground was glowing with lichen
+mats, the puddles teemed with life microbial life. "Weird wildlife" Marco
+said into the channel. "I don't understand how there were drones. There's
+supposed to be no large life forms on this planet." replied Janice. It
+was true. This was something that had bothered me as well. The xeno life
+cycle was well known. "What was encased on the walls then?" I asked. The
+landscape was windswept and desolate. The planet was beautiful in a
+primortial way. I could see how eventually with decades of terraforming
+it would eventually be nice. Get some gmo grasses going, calm down the
+atmosphere. The star was a class G like ours. I let the sensor data wash
+over me as mused about this. This place could be a paradise one day,
+but that was far in the future. It was Marco who saw it first. "Well,
+I think we're about to get more answers." he said into the channel. I
+snapped out of my daydream about the planet and realized he was talking
+about the Xenos. Marco's rocky sprung from the sled and landed agile
+like a cat. "Is that a pig?" asked Janice. Alice answered into the chat,
+"Based on image analysis, yes." The three rocky's stood around this
+pigs corpse. It's chest blown open in classic xenomorph form. "It's not
+decayed much if not at all." I noticed. "CIC, you seeing this?" I said
+into the command channel. Over the channel I heard commander Robinson's
+exhale. "We see it. This might change the number of hostiles." In our
+private channel Marco muttered, "ya think!" We remounted the sleds
+and trundled on, however now all three of us fully extended our sensor
+bulbs. Without prompting Marco launched additional drones to provide a
+larger swath of overwatch, yet again showing initiative.
 
 
 
 
 
-"What an ugly hole in the ground." said Marco. Both Janice and I acknowledged it in the channel, it was. Three meters high and seven meters wide it went down at a steep angle. "Permission to launch another drone into Hadley's asshole?" asked Marco. We both snickered, I heard someone on the command channel snicker as well. "Any idea what might be down there?" I asked. "Shitloads of drones, who knows what else. I'm still boggling about that skinny pale one" Janice quipped. "Permission graned. We came to get intel, launch a drone." I ordered. You have to xenos credit, they're at least consistant. Their architecture if you could call it that was very spine like, ribs a meter long extended from the walls the floor had weird crenalations all over the place. Deep alcoves and blind corners filled this cave. The entrance opened into a a low cavern, the air was so humid the downwash from the drone was easily visible. Tunnels went of in eight different directions. "I bet it stinks" Marco said. "Can it. I'm liking this less and less." I said. "Pick a tunnel." Marco flew the drone down the third tunnel. Seventy five meters and another twenty meters deeper into the tunnel system we found our first breeding room. "Oh shit." was all Marco said. "Oh god." Janice whispered. Humans, or what was left of them pinned to walls. Some dead, some alive their abdomomins swollen. "How?" whispered Janice. "Free booters." said Marco flaty into the channel. Wayland could try to kill it whenever it came out on the nets, but the knowledge was out there. You can't build five building size atmo processors, modular buildings, train and recruit families and launch them without someone talking. The people who got left behind told stories of a paradise, of clean land and water, blue skies. People wanted off the increasingly crowded polluted Earth. There were stories of groups going off and landing on charted planets and claiming them, I'd never seen proof, until now. "Pull the drone out, pick another tunnel." "We're just going to leave them?" snarled Janice. I felt her disgust. I didn't like it either. "I promise we'll make sure they don't suffer." I said into the channel. The next tunnel we found another birthing chamber, but we found pigs instead. It made sense. Pigs, humans, dogs, livestock, the xenos didn't care. The four chamber was weirder though. Pig pens. Dozens of them. Sows squealed at the drone. The sows had been glued down by the alien resin. Something that looked like an adapted facehugger gripped each sows head. I could feel both Marco's and Janice's disgust through the neural link. "They're breeding fucking pigs?" someone said into the various addtional channels that had linked into the command channel. "They're stupid animals, how could they be breeding pigs?" somone unamed marine asked in the channel. I let out a breath. "Easy. They've been watching us." I said. At this, all the channels went quiet. "We can't just leave those people." said Janice. She was right. Marco had been busy going down additional tunnels. In the sixth tunnel we found something weird, a pulsing mass from ceiling to floor, the weird pale xenos were crawling all over it. "What the fuck is that?!?" marco said into the channel. "Permission to engage?" asked Janice. "Permission granted." I said. Janice unlimbered her rocky, but the drone had done it's work. Finally the doorman had noticed someone knicking around in the lobby and had raised the alarm. The response was staggering. Dozens of drones spilled out of tunnels. Marco's drone got knocked out of the air, swatted effectively by a long xeno hand. They seemed pretty good at it actually. This was going to get out of hand quick. "Destroy the entrance!" I ordered. Alice loaded and fired a trio of forty millimeter grenades at the roof of the tunnel. Large divits were knocked from roof but it held. Janice's rocky ripped into the roof with grenades and gun fire. "Damn, that's tough shit!" I growled and more grenades rained into Hadley's asshole. Finally the roof gave out and bowed more than collapased, the enterance now like a pinched tube, drones squirmed out only to be cut down by a fusilade of gunfire. The pile of shattered xeno's grew. "Prepare for dust off in thirty seconds." a voice came through the command channel. The sleds extended up hard points. As the transport latched on, Marco launched a parting trio of grenades into the left opening of the collapsed tunnel. The shockwave blew xeno guts and body parts out the other side. "Eat shit motherfuckers!" laughed Marco. In the channel we heard a hardy "Yeah!" "Standby for shockwave." a voice called out. We watched the feeds as a shockwave eminated out from the site. I pinged Janice on the private channel. "I promised they wouldn't suffer." The DeBe launched another railgun round into the site. Another shockwave rippled out. We got the scans, a large depression had formed in that spot. We'd pulverized the whole site from orbit.
+"What an ugly hole in the ground." said Marco. Both Janice and I
+acknowledged it in the channel, it was. Three meters high and seven
+meters wide it went down at a steep angle. "Permission to launch another
+drone into Hadley's asshole?" asked Marco. We both snickered, I heard
+someone on the command channel snicker as well. "Any idea what might
+be down there?" I asked. "Shitloads of drones, who knows what else. I'm
+still boggling about that skinny pale one" Janice quipped. "Permission
+graned. We came to get intel, launch a drone." I ordered. You have
+to xenos credit, they're at least consistant. Their architecture if
+you could call it that was very spine like, ribs a meter long extended
+from the walls the floor had weird crenalations all over the place. Deep
+alcoves and blind corners filled this cave. The entrance opened into a a
+low cavern, the air was so humid the downwash from the drone was easily
+visible. Tunnels went of in eight different directions. "I bet it stinks"
+Marco said. "Can it. I'm liking this less and less." I said. "Pick a
+tunnel." Marco flew the drone down the third tunnel. Seventy five meters
+and another twenty meters deeper into the tunnel system we found our
+first breeding room. "Oh shit." was all Marco said. "Oh god." Janice
+whispered. Humans, or what was left of them pinned to walls. Some dead,
+some alive their abdomomins swollen. "How?" whispered Janice. "Free
+booters." said Marco flaty into the channel. Wayland could try to kill it
+whenever it came out on the nets, but the knowledge was out there. You
+can't build five building size atmo processors, modular buildings,
+train and recruit families and launch them without someone talking. The
+people who got left behind told stories of a paradise, of clean land and
+water, blue skies. People wanted off the increasingly crowded polluted
+Earth. There were stories of groups going off and landing on charted
+planets and claiming them, I'd never seen proof, until now. "Pull the
+drone out, pick another tunnel." "We're just going to leave them?" snarled
+Janice. I felt her disgust. I didn't like it either. "I promise we'll make
+sure they don't suffer." I said into the channel. The next tunnel we found
+another birthing chamber, but we found pigs instead. It made sense. Pigs,
+humans, dogs, livestock, the xenos didn't care. The four chamber was
+weirder though. Pig pens. Dozens of them. Sows squealed at the drone. The
+sows had been glued down by the alien resin. Something that looked like
+an adapted facehugger gripped each sows head. I could feel both Marco's
+and Janice's disgust through the neural link. "They're breeding fucking
+pigs?" someone said into the various addtional channels that had linked
+into the command channel. "They're stupid animals, how could they be
+breeding pigs?" somone unamed marine asked in the channel. I let out
+a breath. "Easy. They've been watching us." I said. At this, all the
+channels went quiet. "We can't just leave those people." said Janice. She
+was right. Marco had been busy going down additional tunnels. In the
+sixth tunnel we found something weird, a pulsing mass from ceiling to
+floor, the weird pale xenos were crawling all over it. "What the fuck
+is that?!?" marco said into the channel. "Permission to engage?" asked
+Janice. "Permission granted." I said. Janice unlimbered her rocky, but
+the drone had done it's work. Finally the doorman had noticed someone
+knicking around in the lobby and had raised the alarm. The response was
+staggering. Dozens of drones spilled out of tunnels. Marco's drone got
+knocked out of the air, swatted effectively by a long xeno hand. They
+seemed pretty good at it actually. This was going to get out of hand
+quick. "Destroy the entrance!" I ordered. Alice loaded and fired a trio
+of forty millimeter grenades at the roof of the tunnel. Large divits were
+knocked from roof but it held. Janice's rocky ripped into the roof with
+grenades and gun fire. "Damn, that's tough shit!" I growled and more
+grenades rained into Hadley's asshole. Finally the roof gave out and
+bowed more than collapased, the enterance now like a pinched tube, drones
+squirmed out only to be cut down by a fusilade of gunfire. The pile of
+shattered xeno's grew. "Prepare for dust off in thirty seconds." a voice
+came through the command channel. The sleds extended up hard points. As
+the transport latched on, Marco launched a parting trio of grenades into
+the left opening of the collapsed tunnel. The shockwave blew xeno guts and
+body parts out the other side. "Eat shit motherfuckers!" laughed Marco. In
+the channel we heard a hardy "Yeah!" "Standby for shockwave." a voice
+called out. We watched the feeds as a shockwave eminated out from the
+site. I pinged Janice on the private channel. "I promised they wouldn't
+suffer." The DeBe launched another railgun round into the site. Another
+shockwave rippled out. We got the scans, a large depression had formed
+in that spot. We'd pulverized the whole site from orbit.
 
 
 
 
 
-The briefing room was crowded. Any pretense about sitting or desks had faded away. The marines simply nodded at us and let us move to the front. Apparently we'd shown some metal down there. Commander Robinson was standing at the wall screen, "As it stands now, we have an unknown number of civvies on the planet to account for." A marine spoke up, "Sir, they don't have a charter, we're not obligated." The commander shook his head. "Obligated no, but our mission is to secure this planet. We've got evidence of xeno activity and of them doing weird shit down there. Teams one and two splatted no less than sixty of the damn things and bagged a live one." A tech walked to the front of the room. "Knowing we had free booters on the planet, we changed the parameters of our surface scans looking anomolies." The screen changed to a view of the southern hemisphere. "In this case, ground penetrating radar seems to be unable to penetrate this small area. The map zoomed in and an area of irregular triangles highlighted. "Stealth mats?" I asked outloud. "We think so. The computer had to wash the image a bunch of times. They did a really good job breaking up regular shapes. We only found it because we had to change the computers filters." "Any chance you nerds could find more of those nests?" asked a Marine. "Yes in fact." with that the screen changed to show dozens similar openings on the surface. Themographics showed the classic eight legged tunnel system. "Facehugger?" someone asked. It did, the thermals made it look like a facehugger. The tech spoke up, "Sir, that puts an enterance within five clicks of Team three." "Have they been made aware?" asked the commander. "Yes. They've deployed sentries, they've contained the specimen and will be blasting off within the hour." Contained the specimen. That sounded like they were going to be bringing the damn thing on board. "Permission to speak freely?" I asked. "Granted." replied the commander. I took a deep breath, "We've just witnessed that the xenos' are smarter than we thought. We should abandon our assumptions about them. Fine, you want to dissect that one, I'm more than willing to task my rocky to a science tech, on the surface, but not onboard." Other marines nodded their heads in agreement. The commander nodded his head, "Once again your concerns have been noted." "Cyber teams one and two are to be on standby prep until further notice, dismissed." While I knew this was somewhat of a punishment for speaking up, I was glad we were going to be just chilling in the pit ready to drop in a moments notice. Our cradles were also far better and accessing and consuming the petabytes of data that were flowing through the systems. Team two had been as lucky as we had been. Their processing station was also filled with drones, including the small pale ones. The glue had been ineffective at stopping regular drones and it had turned into a turkey shoot. Roxxie's rocky had been damaged by drones, but still functional. Roxxie and Ruvi were in the prep area working on her rocky. Janice and Marco were looking at the drone footage. I peeked in and they were looking at the footage of the weird column. I checked the message queue, still pending. "Alice, what's the current state of our subspace transmitters?" "All Cyber command subspace transmitters are online." it replied. Alice was firewalled into our systems. It didn't know much more than we did. Edgar was the AI that ran the ship. Unlike Alice, it generally lacked personality. More of a glorified central operator, all the ships data flowed through it I connected to Edgar. Query: Status of subspace transmission link with Earth? Result: Link currently offline due to hardware malfunction. Query: Estimate of time to repair? Result: Unknown hardware fault, time to repair unknown. So we're cut off from Earth. Query: Current mission parameters? Result: 	1. Assess habitability of LV426. 	2. Capture and analyze any lifeforms found. 	3. Eliminate any hostile lifeforms. I knew better than to assume there were just three mission parameters. This was a military AI and therefore very cagey. It was telling me the mission parameters I was authorized to see. Query: How much food are we currently carrying? Result: Based on current crew size, 645 days of regular rations. We have literally tons of food on board. They expected us to possibly out here for a long time. Query: What is our current compliment of scientists on board. Result: 14 scientific specialists are on board. Query: How many are currently out of hyper sleep. Result: 14. Okay, so we have nearly as many scientists as we have soldiers, not counting the the addtional squads we had on ice and they're all awake. As a Cybertech, I was trained on a number of systems, including the maintence of subspace radios. I decided to take a different tact. Query: Nature of the hardware malfunction of subspace radio. Result: Unable to communicate with communications module. Query: Do I have clearance to inspect the hardware? I knew based on the pause I knew someone in the CIC was likely having a "WTF?" moment as the ships AI asked them if some cyber tech could go fishing around in the comms space. At this my ear buzzed. "Staff Sargent Hurgs. Can I ask why Edgar is asking us if it's okay if you go poking around in the comms room?" came a voice I didn't recognize over the comm linke. "Sir, I'm a qualified subspace tech, I noticed our link to Earth is offline." I replied. "We've got people working on it, if we need help, we'll let you know. Request denied." the voice replied and disconnected. I'm really making friends on this cruise I laughed to myself. Alarms went off and our boards lit up. "Team 1 deploy in 30 seconds. Bio Science teams is in trouble."
+The briefing room was crowded. Any pretense about sitting or desks
+had faded away. The marines simply nodded at us and let us move to the
+front. Apparently we'd shown some metal down there. Commander Robinson
+was standing at the wall screen, "As it stands now, we have an unknown
+number of civvies on the planet to account for." A marine spoke up, "Sir,
+they don't have a charter, we're not obligated." The commander shook his
+head. "Obligated no, but our mission is to secure this planet. We've got
+evidence of xeno activity and of them doing weird shit down there. Teams
+one and two splatted no less than sixty of the damn things and bagged
+a live one." A tech walked to the front of the room. "Knowing we had
+free booters on the planet, we changed the parameters of our surface
+scans looking anomolies." The screen changed to a view of the southern
+hemisphere. "In this case, ground penetrating radar seems to be unable
+to penetrate this small area. The map zoomed in and an area of irregular
+triangles highlighted. "Stealth mats?" I asked outloud. "We think so. The
+computer had to wash the image a bunch of times. They did a really good
+job breaking up regular shapes. We only found it because we had to
+change the computers filters." "Any chance you nerds could find more
+of those nests?" asked a Marine. "Yes in fact." with that the screen
+changed to show dozens similar openings on the surface. Themographics
+showed the classic eight legged tunnel system. "Facehugger?" someone
+asked. It did, the thermals made it look like a facehugger. The tech
+spoke up, "Sir, that puts an enterance within five clicks of Team
+three." "Have they been made aware?" asked the commander. "Yes. They've
+deployed sentries, they've contained the specimen and will be blasting
+off within the hour." Contained the specimen. That sounded like they
+were going to be bringing the damn thing on board. "Permission to speak
+freely?" I asked. "Granted." replied the commander. I took a deep breath,
+"We've just witnessed that the xenos' are smarter than we thought. We
+should abandon our assumptions about them. Fine, you want to dissect
+that one, I'm more than willing to task my rocky to a science tech,
+on the surface, but not onboard." Other marines nodded their heads in
+agreement. The commander nodded his head, "Once again your concerns
+have been noted." "Cyber teams one and two are to be on standby prep
+until further notice, dismissed." While I knew this was somewhat of a
+punishment for speaking up, I was glad we were going to be just chilling
+in the pit ready to drop in a moments notice. Our cradles were also far
+better and accessing and consuming the petabytes of data that were flowing
+through the systems. Team two had been as lucky as we had been. Their
+processing station was also filled with drones, including the small pale
+ones. The glue had been ineffective at stopping regular drones and it had
+turned into a turkey shoot. Roxxie's rocky had been damaged by drones,
+but still functional. Roxxie and Ruvi were in the prep area working on
+her rocky. Janice and Marco were looking at the drone footage. I peeked
+in and they were looking at the footage of the weird column. I checked
+the message queue, still pending. "Alice, what's the current state of
+our subspace transmitters?" "All Cyber command subspace transmitters are
+online." it replied. Alice was firewalled into our systems. It didn't know
+much more than we did. Edgar was the AI that ran the ship. Unlike Alice,
+it generally lacked personality. More of a glorified central operator,
+all the ships data flowed through it I connected to Edgar. Query: Status
+of subspace transmission link with Earth? Result: Link currently offline
+due to hardware malfunction. Query: Estimate of time to repair? Result:
+Unknown hardware fault, time to repair unknown. So we're cut off
+from Earth. Query: Current mission parameters? Result:	  1. Assess
+habitability of LV426.	      2. Capture and analyze any lifeforms found.
+3. Eliminate any hostile lifeforms. I knew better than to assume there
+were just three mission parameters. This was a military AI and therefore
+very cagey. It was telling me the mission parameters I was authorized
+to see. Query: How much food are we currently carrying? Result: Based
+on current crew size, 645 days of regular rations. We have literally
+tons of food on board. They expected us to possibly out here for
+a long time. Query: What is our current compliment of scientists on
+board. Result: 14 scientific specialists are on board. Query: How many
+are currently out of hyper sleep. Result: 14. Okay, so we have nearly as
+many scientists as we have soldiers, not counting the the addtional squads
+we had on ice and they're all awake. As a Cybertech, I was trained on a
+number of systems, including the maintence of subspace radios. I decided
+to take a different tact. Query: Nature of the hardware malfunction
+of subspace radio. Result: Unable to communicate with communications
+module. Query: Do I have clearance to inspect the hardware? I knew based
+on the pause I knew someone in the CIC was likely having a "WTF?" moment
+as the ships AI asked them if some cyber tech could go fishing around
+in the comms space. At this my ear buzzed. "Staff Sargent Hurgs. Can I
+ask why Edgar is asking us if it's okay if you go poking around in the
+comms room?" came a voice I didn't recognize over the comm linke. "Sir,
+I'm a qualified subspace tech, I noticed our link to Earth is offline." I
+replied. "We've got people working on it, if we need help, we'll let you
+know. Request denied." the voice replied and disconnected. I'm really
+making friends on this cruise I laughed to myself. Alarms went off and
+our boards lit up. "Team 1 deploy in 30 seconds. Bio Science teams is
+in trouble."
 
 
 
 
 
-Once we were out of the blinding plasma of the atmosphere we turned on the external optical sensors. It was a proper shitshow. The Cheyenne dropship was covered in drones. I checked the drop pods tragectory, I adjusted it to get us closer to the ship and put it into a steep ballistic dive. I could see gun fire rippling out from the drop ship. Of the sentries deployed only two remained. Alice brought up the ammo counters, they were ripping through ammo and would be out in moments. Wham, the retros fired, at least three xenos were boiled alive, good. The petals dropped from the drop pod and they were on us in all directions. The chin mounted gun fired near its cyclic rate. The driving rain helped to cool the barrel, but only slightly. We'd landed in front of and aft of each wing of the drop ship creating 120 degree overlapping fields of fire. Marco swept the xenos off the dropship, it's engines cycling up. "Dust off in 15 seconds, thanks for backing us up!" The pilots voice came through the comms. As the ship rocketed upwards, a howl went through the xenos. "Freaky shit" was all Marco go out. We held out for another ten minutes until our ammo ran out. backed against each other, molecularly sharp cutting blades extended and we slashed outwards catching a xeno here and there, but they stayed out of reach. They'd seen us before and now knew we were a dangerous foe. At last they all rushed us. The last images before the feed cut out was of the my heavy cutting arms snipping through the head of a xeno as it's claws dug into the sensor dome. At least I knew I'd killed that asshole. We knew dropping this was a suicide mission. This is why we were in mechs anyway. Climbing out of the pit, "That was a shit pile." "We accomplished the mission at least." replied Janice. "Yeah, we helped them bring xeno aboard, honestly, I'd have been okay with that one failing." repied Marco. I checked in with command. They'd lost three of the eight techs they'd sent down. I could only hope they'd been killed. There were fates worse than death on this forsaken rock. I tasked Alice with looking through the footage. Only two of the three techs were accounted for. I reported my findings and make sure the team knew as well. Janice blew out a long breath, shook her head and walked out of the pit.
+Once we were out of the blinding plasma of the atmosphere we turned on the
+external optical sensors. It was a proper shitshow. The Cheyenne dropship
+was covered in drones. I checked the drop pods tragectory, I adjusted it
+to get us closer to the ship and put it into a steep ballistic dive. I
+could see gun fire rippling out from the drop ship. Of the sentries
+deployed only two remained. Alice brought up the ammo counters, they were
+ripping through ammo and would be out in moments. Wham, the retros fired,
+at least three xenos were boiled alive, good. The petals dropped from
+the drop pod and they were on us in all directions. The chin mounted gun
+fired near its cyclic rate. The driving rain helped to cool the barrel,
+but only slightly. We'd landed in front of and aft of each wing of the
+drop ship creating 120 degree overlapping fields of fire. Marco swept the
+xenos off the dropship, it's engines cycling up. "Dust off in 15 seconds,
+thanks for backing us up!" The pilots voice came through the comms. As
+the ship rocketed upwards, a howl went through the xenos. "Freaky shit"
+was all Marco go out. We held out for another ten minutes until our ammo
+ran out. backed against each other, molecularly sharp cutting blades
+extended and we slashed outwards catching a xeno here and there, but
+they stayed out of reach. They'd seen us before and now knew we were a
+dangerous foe. At last they all rushed us. The last images before the
+feed cut out was of the my heavy cutting arms snipping through the head
+of a xeno as it's claws dug into the sensor dome. At least I knew I'd
+killed that asshole. We knew dropping this was a suicide mission. This is
+why we were in mechs anyway. Climbing out of the pit, "That was a shit
+pile." "We accomplished the mission at least." replied Janice. "Yeah,
+we helped them bring xeno aboard, honestly, I'd have been okay with
+that one failing." repied Marco. I checked in with command. They'd lost
+three of the eight techs they'd sent down. I could only hope they'd
+been killed. There were fates worse than death on this forsaken rock. I
+tasked Alice with looking through the footage. Only two of the three
+techs were accounted for. I reported my findings and make sure the team
+knew as well. Janice blew out a long breath, shook her head and walked
+out of the pit.
 
 
 
 
 
-The next two weeks were stark and grinding. We kept finding nests. The first couple dozen we landed and explored. We found the same horrors. Pigs and humans used as breeding stock. More of the weird pale xenos. Occasionally a queen, who to humans would have been a real foe was simply an slightly harder xeno to kill. We eventually gave up even exploring the nests that didn't look interesting and simply hit them from orbit with railgun rounds. The observation techs looked at the data and discovered more free booter camps. Always torn to pieces. Finally we found a free booters settlement that seemed to be intact. Dug deep into a mountain, they'd found the right magic to keep the xenos at bay.. literally hundreds of meter of extremely dense rock. The bored and by now cranky marines were mustered to land. This was what they'd been waiting for. They were going to save the civvies! Since finding the settlement all manner of comms attempts had been made. Short band, wide band, laser wide and tight beam. All to no avail. Two smaller nests were found a couple clicks from the mountain. We dropped on the two nests, this was the usual 'smash and stomp' as we had taken to calling them. These nests lacked the pig pens and breeding chambers. We'd found several of these 'Bunk houses' as we started calling them. Frankly, it was always nice to just have to deal with angry hostile drones. Janice found the first weird thing. A heavily reinforced blast door in the back wall of the fartest chamber of the nest. Team two reported a similar thing. Optics were above both doors, our sensors showed them active. "Someone is watching us, that's for sure." said Marco. Alice spoke up in the channel. "I'm detecting a low power radio signal." "Whoever or whatever you are, you are trespassing. Return to your ship, do not return." "This is lieutenant Roger Hurgs of the Colonial Marines Cyber corps attempting to make contact with the free booters on planet LV426." "Cyber corps? We take offense to the term free booters. Nothing is free on this planet. We are settlers, fair and square." Here I am hundreds of light years from Earth and I'm dealing with a pedantist. "Apologies, settler. Mightly hostile in these parts, we're concerned for your safety." "We are safe and sound. Leave Acheron and return to your ship and leave this system." Caging and to the point. I had to admire the type of people who were capable of battling the xenos and building themselves a fortress. It was at this point the xenos attacked in force. Dozens of drones came streaming into the chamber. We cut them down until our ammo ran low, finishing the last of them with molyblades. At last we were knee deep in xenos. The occasional head hissing and snapping at our robotic ankles. Even with the resistant ceramic plates all of our machines began complaining. We retreated from the dorm hive and parked our units on the sleds. I jacked out to find commander Robinson standing in the pit with him one of the technicans from the science part of the ship. Erikson something or other. "This shit just keeps getting worse." he started. This was just the way the conversations went with him. I took a deep breath. No hello's, no formalities, just right into it. "The techs have been examining that weird pale xeno Janice bagged. It's been altered." "Altered?" Janice had now jacked out as well. At this, the tech perked up, "Yeah. It has all the hallmarks of being tinkered with by humans." he replied. Now I was interested. "In what ways?" I asked. "That we're still trying to figure out. Definitely smarter, not nearly as strong." the tech replied. "Smarter? I hope we can keep it contained." I noted. I knew I was poking a sore spot and Robinson frowned at me for it. I nodded towards our ready room. "I need coffee." All the time jacked in had turned my on again off again headache into a grinding companion. We sat around our break table. I explained the weird hive and the re-enforced door and the voice. The tech pulled out a tablet and tabbed through a few screens. "Something been bothering the geo guys since we got here. The planet is far more along than they expected, but they couldn't figure out the source." He connected his tablet to our wall screen and showed the projected graph of where the terraforming should be. The graph lines were at least double that. "Our intel said the first plant blowing up accounted of it." I replied. "Yeah, the heating, but not the gases. Nitrogen, oxygen and a bunch of other gases are much higher. "Any chance you guys are collecting data on gas plums?" I asked. The tech tinkered with the pad. "Can you overlay that with the nest locations?" I asked. Janice and Marco got up and walked over to the wall screen as the two maps lined up. "Holy fuck." marco said. Commander Robinson got up and looked at the screen, "So the Xeno's have gotten into the terraforming busines?" Janice snapped her fingers, "Those weird colomns. They've got to their version of atmospheric processors." This brought up so many questions. The Xenos were perfectly happy with the planet the way it was. I had more questions to ask. I jacked in and waded down back into the tunnel. I opened up the comm channel, "You modified the xenos and got them processing the atmosphere." A couple of minutes went by. "Yes, we modified them. Considering it an in-situ use of resources. Fully sanctioned by Wayland I might add. Hence why we aren't free booters, we've got a charter, all be it a classifed one. This explained some things and posed more questions. "Check with your higher ups, the project is known as X1243" This tidbit of knowledege was good to know. "We'd appreciate if you'd stop railgunning the installations and let the controllers rebuild and create additional nests." the voice said. "I'm not in command, but now that we have a fully understanding of the situation, I can talk to those in command." I repied. "Good luck with that." the voice laughed over the comms. "I never asked who I was speaking with" I asked. "No you didn't and I won't be saying my name on this open line in any case." the voice replied. "Well, you'd best clear out. I've sent a message to the controllers xenos to clean up this mess." "How do you communicate with them?" I asked. The comm channel closed. The last question left unanswered. I left the tunnel and returned to the sled. "Heads up, there's a large contingent of drones and what are now known as controller xenos convering on this location. Request extract." I said into the command channel. "Acknowledged. We listened in, a carry all is already en route." came the reply. Over the horizon I saw two odd things. A mass of drones and above them the carry all. A spindley contraption designed by WY to be compact and simple. The sled extended it's carry lugs and the carry all latched on and carried me way from the aliens. A half dozen of the controller xenos looked up as the drones streamed into the tunnel. I'm not going to say I saw intelligence, but for a moment I saw the classic head shake of disgust.
+The next two weeks were stark and grinding. We kept finding
+nests. The first couple dozen we landed and explored. We found the same
+horrors. Pigs and humans used as breeding stock. More of the weird pale
+xenos. Occasionally a queen, who to humans would have been a real foe
+was simply an slightly harder xeno to kill. We eventually gave up even
+exploring the nests that didn't look interesting and simply hit them
+from orbit with railgun rounds. The observation techs looked at the data
+and discovered more free booter camps. Always torn to pieces. Finally
+we found a free booters settlement that seemed to be intact. Dug deep
+into a mountain, they'd found the right magic to keep the xenos at
+bay.. literally hundreds of meter of extremely dense rock. The bored
+and by now cranky marines were mustered to land. This was what they'd
+been waiting for. They were going to save the civvies! Since finding
+the settlement all manner of comms attempts had been made. Short band,
+wide band, laser wide and tight beam. All to no avail. Two smaller nests
+were found a couple clicks from the mountain. We dropped on the two
+nests, this was the usual 'smash and stomp' as we had taken to calling
+them. These nests lacked the pig pens and breeding chambers. We'd found
+several of these 'Bunk houses' as we started calling them. Frankly, it
+was always nice to just have to deal with angry hostile drones. Janice
+found the first weird thing. A heavily reinforced blast door in the
+back wall of the fartest chamber of the nest. Team two reported a
+similar thing. Optics were above both doors, our sensors showed them
+active. "Someone is watching us, that's for sure." said Marco. Alice spoke
+up in the channel. "I'm detecting a low power radio signal." "Whoever
+or whatever you are, you are trespassing. Return to your ship, do
+not return." "This is lieutenant Roger Hurgs of the Colonial Marines
+Cyber corps attempting to make contact with the free booters on planet
+LV426." "Cyber corps? We take offense to the term free booters. Nothing is
+free on this planet. We are settlers, fair and square." Here I am hundreds
+of light years from Earth and I'm dealing with a pedantist. "Apologies,
+settler. Mightly hostile in these parts, we're concerned for your
+safety." "We are safe and sound. Leave Acheron and return to your ship
+and leave this system." Caging and to the point. I had to admire the type
+of people who were capable of battling the xenos and building themselves
+a fortress. It was at this point the xenos attacked in force. Dozens
+of drones came streaming into the chamber. We cut them down until our
+ammo ran low, finishing the last of them with molyblades. At last we
+were knee deep in xenos. The occasional head hissing and snapping at
+our robotic ankles. Even with the resistant ceramic plates all of our
+machines began complaining. We retreated from the dorm hive and parked
+our units on the sleds. I jacked out to find commander Robinson standing
+in the pit with him one of the technicans from the science part of the
+ship. Erikson something or other. "This shit just keeps getting worse." he
+started. This was just the way the conversations went with him. I took
+a deep breath. No hello's, no formalities, just right into it. "The
+techs have been examining that weird pale xeno Janice bagged. It's
+been altered." "Altered?" Janice had now jacked out as well. At this,
+the tech perked up, "Yeah. It has all the hallmarks of being tinkered
+with by humans." he replied. Now I was interested. "In what ways?" I
+asked. "That we're still trying to figure out. Definitely smarter, not
+nearly as strong." the tech replied. "Smarter? I hope we can keep it
+contained." I noted. I knew I was poking a sore spot and Robinson frowned
+at me for it. I nodded towards our ready room. "I need coffee." All the
+time jacked in had turned my on again off again headache into a grinding
+companion. We sat around our break table. I explained the weird hive and
+the re-enforced door and the voice. The tech pulled out a tablet and
+tabbed through a few screens. "Something been bothering the geo guys
+since we got here. The planet is far more along than they expected,
+but they couldn't figure out the source." He connected his tablet to
+our wall screen and showed the projected graph of where the terraforming
+should be. The graph lines were at least double that. "Our intel said the
+first plant blowing up accounted of it." I replied. "Yeah, the heating,
+but not the gases. Nitrogen, oxygen and a bunch of other gases are
+much higher. "Any chance you guys are collecting data on gas plums?" I
+asked. The tech tinkered with the pad. "Can you overlay that with the
+nest locations?" I asked. Janice and Marco got up and walked over to the
+wall screen as the two maps lined up. "Holy fuck." marco said. Commander
+Robinson got up and looked at the screen, "So the Xeno's have gotten
+into the terraforming busines?" Janice snapped her fingers, "Those weird
+colomns. They've got to their version of atmospheric processors." This
+brought up so many questions. The Xenos were perfectly happy with the
+planet the way it was. I had more questions to ask. I jacked in and
+waded down back into the tunnel. I opened up the comm channel, "You
+modified the xenos and got them processing the atmosphere." A couple
+of minutes went by. "Yes, we modified them. Considering it an in-situ
+use of resources. Fully sanctioned by Wayland I might add. Hence why we
+aren't free booters, we've got a charter, all be it a classifed one. This
+explained some things and posed more questions. "Check with your higher
+ups, the project is known as X1243" This tidbit of knowledege was good
+to know. "We'd appreciate if you'd stop railgunning the installations
+and let the controllers rebuild and create additional nests." the voice
+said. "I'm not in command, but now that we have a fully understanding
+of the situation, I can talk to those in command." I repied. "Good luck
+with that." the voice laughed over the comms. "I never asked who I was
+speaking with" I asked. "No you didn't and I won't be saying my name
+on this open line in any case." the voice replied. "Well, you'd best
+clear out. I've sent a message to the controllers xenos to clean up this
+mess." "How do you communicate with them?" I asked. The comm channel
+closed. The last question left unanswered. I left the tunnel and returned
+to the sled. "Heads up, there's a large contingent of drones and what
+are now known as controller xenos convering on this location. Request
+extract." I said into the command channel. "Acknowledged. We listened
+in, a carry all is already en route." came the reply. Over the horizon
+I saw two odd things. A mass of drones and above them the carry all. A
+spindley contraption designed by WY to be compact and simple. The sled
+extended it's carry lugs and the carry all latched on and carried me way
+from the aliens. A half dozen of the controller xenos looked up as the
+drones streamed into the tunnel. I'm not going to say I saw intelligence,
+but for a moment I saw the classic head shake of disgust.
 
 
 
 
 
-"Manual Ejection Triggered" popped up and faded as I found myself nose to nose with commander Robinson in my alcove.
+"Manual Ejection Triggered" popped up and faded as I found myself nose
+to nose with commander Robinson in my alcove.
 
-"We have a serious fucking problem now." starting his conversations in his usual manner.
+"We have a serious fucking problem now." starting his conversations in
+his usual manner.
 
 "How so?" I asked.
 
-"Edgar heard that transmission and it's triggered some type of fail safe. We're locked out of all the major systems."
+"Edgar heard that transmission and it's triggered some type of fail
+safe. We're locked out of all the major systems."
 
-I thanked my lucky stars our systems were firewalled off from the rest of the ships.
+I thanked my lucky stars our systems were firewalled off from the rest
+of the ships.
 
 "Alice, are you still online?" I asked aloud.
 
-"Affirmative. However, I have lost access to all ship systems." it replied.
+"Affirmative. However, I have lost access to all ship systems." it
+replied.
 
 "I take it you haven't heard of Project X1243?" I asked.
 
-"I have, but it was thought a failure." he replied. Janice, Roxxie and Ruvi popped their heads up.
+"I have, but it was thought a failure." he replied. Janice, Roxxie and
+Ruvi popped their heads up.
 
-"Sir, now might be time to put our cards on the table." I said. He climbed out of the pit and poured himself a cup of coffee and sat down with a huff and waved us all over.
+"Sir, now might be time to put our cards on the table." I said. He
+climbed out of the pit and poured himself a cup of coffee and sat down
+with a huff and waved us all over.
 
-"Everybody raise your right hands and solely swear that the information you're about to told is to be kept strictly confidential. You will take this information to your graves."
+"Everybody raise your right hands and solely swear that the information
+you're about to told is to be kept strictly confidential. You will take
+this information to your graves."
 
 In unison we all said, "We solely swear."
 
 "Sit down." he said, and we did.
 
-"It's not widely know, but we've found the damn xenos on lots of planets. Our grasp of bioengineering is good enough to know they were engineered by some other species. Used as a type of forward force to prep a planet. On many planets we've found eggs, just sitting there waiting dormant, on other planets entire civilizations destroyed, only swarms of drones left." he started.
+"It's not widely know, but we've found the damn xenos on lots of
+planets. Our grasp of bioengineering is good enough to know they were
+engineered by some other species. Used as a type of forward force to prep
+a planet. On many planets we've found eggs, just sitting there waiting
+dormant, on other planets entire civilizations destroyed, only swarms
+of drones left." he started.
 
-We all took this in. We'd all been exposed to the "Brighter futures!" propaganda. Colonizing the stars kept looking grimmer by the second.
+We all took this in. We'd all been exposed to the "Brighter
+futures!" propaganda. Colonizing the stars kept looking grimmer by
+the second.
 
-He continued. "Wayland Yutani bio-engineers started tinkering with the xeno's. The XNA that the xenos possess is remarkably malleable. Various research teams came up with proposals to harness this malleability. We figured if we can't out right destroy them, we'd co-op them. Once such project was X1243. The idea was to turn the xenos into a controllable labor force. Given wide latitude, the usual ethical standards were applied."
+He continued. "Wayland Yutani bio-engineers started tinkering with the
+xeno's. The XNA that the xenos possess is remarkably malleable. Various
+research teams came up with proposals to harness this malleability. We
+figured if we can't out right destroy them, we'd co-op them. Once such
+project was X1243. The idea was to turn the xenos into a controllable
+labor force. Given wide latitude, the usual ethical standards were
+applied."
 
-This brought a snicker from everybody. WY was well known to place the success of a project over the lives of people, especially low level specialists. "It would appear this project has had some limited success." he finished. "I wonder what Edgar's orders were?" asked Roxxie.
+This brought a snicker from everybody. WY was well known to place
+the success of a project over the lives of people, especially low
+level specialists. "It would appear this project has had some limited
+success." he finished. "I wonder what Edgar's orders were?" asked Roxxie.
 
-"That I know. Upon entering orbit, it was to try to make contact with the scientists involved with the project. However, at last check they weren't even listening on subspace. Our take from that was when they made planetfall they'd simply been swarmed and destroyed.
+"That I know. Upon entering orbit, it was to try to make contact with
+the scientists involved with the project. However, at last check they
+weren't even listening on subspace. Our take from that was when they
+made planetfall they'd simply been swarmed and destroyed.
 
-I thought about the three simpler orders that Edgar had shown me. I wondered what the "simple" orders the commander had been shown and what the fuller set of orders actually were.
+I thought about the three simpler orders that Edgar had shown me. I
+wondered what the "simple" orders the commander had been shown and what
+the fuller set of orders actually were.
 
-This is the dangers of a cagey military AIs that had their agendas set by who knows who.
+This is the dangers of a cagey military AIs that had their agendas set
+by who knows who.
 
-Robinson went to the door but the access light stayed red. He waved his hand a couple more times growing more frustrated. Finally he turned to us. "Can somebody run a bypass on this damn door so I can get back to the CIC?" he stammered.
+Robinson went to the door but the access light stayed red. He waved his
+hand a couple more times growing more frustrated. Finally he turned to
+us. "Can somebody run a bypass on this damn door so I can get back to
+the CIC?" he stammered.
 
 Marco stepped up and put his hand on the door.
 
-"Sir, I believe opening this door would be a bad idea." he replied. "Why do you think that?" the commander asked.
+"Sir, I believe opening this door would be a bad idea." he replied. "Why
+do you think that?" the commander asked.
 
-"Sir, the door is ice cold. I believe this habitat spar has been vented." he replied.
+"Sir, the door is ice cold. I believe this habitat spar has been
+vented." he replied.
 
-It made sense from a tactical point of view. The last thing as a computer you need is humans running around mucking with stuff.
+It made sense from a tactical point of view. The last thing as a computer
+you need is humans running around mucking with stuff.
 
 "Marco, isolate the door controls" I replied.
 
-He nodded, opened the panel next to the door and started tinkering. "Alice, outside of our isolated pod do you have any data?" I asked. "No. I'm cut off from all our external data feeds originating from the Edgar." Alice replied.
+He nodded, opened the panel next to the door and started
+tinkering. "Alice, outside of our isolated pod do you have any data?" I
+asked. "No. I'm cut off from all our external data feeds originating
+from the Edgar." Alice replied.
 
-The DeBe despite it's impressive bulk was actually just a serious of stacked modules connected to four redundant load bearing spars that ran the length of the ship. Two klicks long with hard points every fifty meters for various modules. Modules could be isolated, disconnected or jettisoned. Most modules contained some level of internal redundancy.
+The DeBe despite it's impressive bulk was actually just a serious of
+stacked modules connected to four redundant load bearing spars that ran
+the length of the ship. Two klicks long with hard points every fifty
+meters for various modules. Modules could be isolated, disconnected or
+jettisoned. Most modules contained some level of internal redundancy.
 
 "Alice, are any of our external sensors effected?" I asked.
 
@@ -254,61 +964,512 @@ The DeBe despite it's impressive bulk was actually just a serious of stacked mod
 
 Edgar had us on basic rations. Basically air, water and power.
 
-"Alice, using our sensors, can you assess the state of the ship?" I asked. A couple moments passed as Alice processes the data.
+"Alice, using our sensors, can you assess the state of the ship?" I
+asked. A couple moments passed as Alice processes the data.
 
-"At present the DeBraso is configured as designated in the initial manifest." My fears that Edgar had simply dumped the modules overboard, I'm glad that it hadn't.
+"At present the DeBraso is configured as designated in the initial
+manifest." My fears that Edgar had simply dumped the modules overboard,
+I'm glad that it hadn't.
 
 "What do you think your marines are up to?" asked Ruvi.
 
-"Regaining access to the ship I would imagine." replied the commander. The marine combat modules (MCM's) were very robust. Ships in their own right, they could be detached and left in orbit if need be. I envisioned them donning vac suits and using their airlocks to escape their module.
+"Regaining access to the ship I would imagine." replied the commander. The
+marine combat modules (MCM's) were very robust. Ships in their own right,
+they could be detached and left in orbit if need be. I envisioned them
+donning vac suits and using their airlocks to escape their module.
 
-"Sir, do they know where your current location is?" I asked. "Likely no. They'll head for the CIC first." he replied. Alice spoke up, "I haven't picked up any transmissions on tactical channels." The commander spoke aloud, "I doubt you would. I suspect when the doors slammed shut they assumed Edgar went bug nuts and they're talking on a tether or tight beam."
+"Sir, do they know where your current location is?" I asked. "Likely
+no. They'll head for the CIC first." he replied. Alice spoke up, "I
+haven't picked up any transmissions on tactical channels." The commander
+spoke aloud, "I doubt you would. I suspect when the doors slammed shut
+they assumed Edgar went bug nuts and they're talking on a tether or
+tight beam."
 
-Jeremy added to the conversation. He was the only member of our team who'd started as a marine and moved over to the Cyber team. "It's only been twenty minutes. I figure a couple minutes for them to figure what's going on, five to don vac suits, five to get to the edge of their module, their module is to port side and there are four hundred meters of storage between us and their air lock. I could shuffle okay with mag boots, they're probably better, I figure they'll be by our airlock in another fifteen or so minutes."
+Jeremy added to the conversation. He was the only member of our team
+who'd started as a marine and moved over to the Cyber team. "It's only
+been twenty minutes. I figure a couple minutes for them to figure what's
+going on, five to don vac suits, five to get to the edge of their module,
+their module is to port side and there are four hundred meters of storage
+between us and their air lock. I could shuffle okay with mag boots,
+they're probably better, I figure they'll be by our airlock in another
+fifteen or so minutes."
 
-The commander nodded along to this, "Probably fifteen or less. These guys just got done doing zero-g drills the other day."
+The commander nodded along to this, "Probably fifteen or less. These
+guys just got done doing zero-g drills the other day."
 
-Jeremy nodded at this. "I'll grab a light and head to the airlock and keep an eye out."
+Jeremy nodded at this. "I'll grab a light and head to the airlock and
+keep an eye out."
 
-The commander snickered, "Real shame he decided to become a geek." To this the team all looked at each other and then back at the commander, it was clear he'd hit a nerve and realized it.
+The commander snickered, "Real shame he decided to become a geek." To
+this the team all looked at each other and then back at the commander,
+it was clear he'd hit a nerve and realized it.
 
-He blew his cheeks out in his classic fashion, "He was a good marine, it just seemed and odd choice."
+He blew his cheeks out in his classic fashion, "He was a good marine,
+it just seemed and odd choice."
 
-Ruvi cleared his throat, "Sir, he is a marine, as are we." To this the commander nodded. "I appreciate the training and hardwork you people put in, it's just outside of our standards."
+Ruvi cleared his throat, "Sir, he is a marine, as are we." To this the
+commander nodded. "I appreciate the training and hardwork you people
+put in, it's just outside of our standards."
 
 I could see this entire converation going off the rails.
 
-"I definitely think this conversation is important, but right now let's focus on the problem at hand."
+"I definitely think this conversation is important, but right now let's
+focus on the problem at hand."
 
-Robinson could see I was saving his bacon a bit and picked up on the theme. "What are your current capabilites?" he asked.
+Robinson could see I was saving his bacon a bit and picked up on the
+theme. "What are your current capabilites?" he asked.
 
-We detailed our current load out and equipment on the ground as well as options for deploying our additional rockies shipside.
+We detailed our current load out and equipment on the ground as well as
+options for deploying our additional rockies shipside.
 
-Jeremy came jogging into the room with six marines in tow, helmets head under arms.
+Jeremy came jogging into the room with six marines in tow, helmets head
+under arms.
 
 "Sir, I found these guys on our doorstep." replied Jeremy.
 
 The commander turned to the marines. "Status report."
 
-The lead marine started in, "Both habitable spars are vented to space. Three guys are MIA, presumed lost. The CIC was also vented, you were assumed lost with the other people in the CIC. Glad to see you're alive. Both marine combat modulars are intacted. We've disabled the door controls to Edgar won't try to vent us."
+The lead marine started in, "Both habitable spars are vented to
+space. Three guys are MIA, presumed lost. The CIC was also vented, you
+were assumed lost with the other people in the CIC. Glad to see you're
+alive. Both marine combat modulars are intacted. We've disabled the door
+controls to Edgar won't try to vent us."
 
-"Status of the other MCM module?" the commander asked. "Locked down as well. No word from those guys though our first priority was the CIC until we saw Jeremy flashing a light at us. Another weird thing you should know, one of the storage modules as extended weird looking antennae. We didn't get near them. None of us knew what they were for."
+"Status of the other MCM module?" the commander asked. "Locked down as
+well. No word from those guys though our first priority was the CIC until
+we saw Jeremy flashing a light at us. Another weird thing you should know,
+one of the storage modules as extended weird looking antennae. We didn't
+get near them. None of us knew what they were for."
 
-More secret squirrel bullshit was what it sounded like to me. "Roxxie, please investigate those antennas." I said. She nodded and headed towards the pit. "Alice, please put Roxxie's feeds up on the main wall." I said. "Roger that." replied Alice. In short order we got a view of Roxxie crabbing a rocky across the surface of the ship. Sure enough from one of the storage modules long spindly antenna had extended out several hundred meters. "Alice, identify." I asked aloud. "Unknown, does not fit any known antenna configuration." replied the AI. Janice spoke up "More project X1243 stuff I'd bet." I agreed on this part, there were more moving parts to this and I found myself with five cyber jockies, a handful of marines, a commanding officer and a tech nerd. The commander spoke up at this point. "Establish contact with the other MCM. Use tethers, who knows what those those antenna can pick up. See if you can get to the CIC and reestablish control of this ship." Jeremy hustled them back to the airlock. Reestablish control of the ship meant crippling Edgar. "Sir, was the subspace radio to earth ever brought back online?" I asked. "No son, I suspect without this, not much got fixed." he laughed and pulled out a credit card sized module from his pocket. Magnetically Intertwined Confined Particle. Everybody just calls them PIPs. I'm sure there's some other backronym for it, but it was why the deep space radio wasn't working. "I pulled it when we came out of transit." he quipped. "Why?" I asked. "Do you like having every one of your orders countermanded, debated, looked over, argued over from hundreds of light years away?" he asked. I could see his frustration, but I also knew this was an excuse. Janice spoke up, "Fine, we put that in one of our subspace radios and call home." I shook my head, "It doesn't work that way. It comes down to how many hawkings you can generate and create the tunnel. Our systems barely create a hundredth of a hawking, the DeBe's deep space transmitter generates a field in the hundreds." Jeremy spoke up, "Okay then, we put on vac suits and go install it." I laughed, "Ironically if we could tell Edgar we've got this, he'd probably let us install it." The commander scoffed, "He'd probably then lock the doors in the engine section and cook us." Then the alarms started sounding.
+More secret squirrel bullshit was what it sounded like to me. "Roxxie,
+please investigate those antennas." I said. She nodded and headed towards
+the pit. "Alice, please put Roxxie's feeds up on the main wall." I
+said. "Roger that." replied Alice. In short order we got a view of
+Roxxie crabbing a rocky across the surface of the ship. Sure enough
+from one of the storage modules long spindly antenna had extended out
+several hundred meters. "Alice, identify." I asked aloud. "Unknown,
+does not fit any known antenna configuration." replied the AI. Janice
+spoke up "More project X1243 stuff I'd bet." I agreed on this part,
+there were more moving parts to this and I found myself with five cyber
+jockies, a handful of marines, a commanding officer and a tech nerd. The
+commander spoke up at this point. "Establish contact with the other
+MCM. Use tethers, who knows what those those antenna can pick up. See
+if you can get to the CIC and reestablish control of this ship." Jeremy
+hustled them back to the airlock. Reestablish control of the ship meant
+crippling Edgar. "Sir, was the subspace radio to earth ever brought
+back online?" I asked. "No son, I suspect without this, not much got
+fixed." he laughed and pulled out a credit card sized module from his
+pocket. Magnetically Intertwined Confined Particle. Everybody just
+calls them PIPs. I'm sure there's some other backronym for it, but it
+was why the deep space radio wasn't working. "I pulled it when we came
+out of transit." he quipped. "Why?" I asked. "Do you like having every
+one of your orders countermanded, debated, looked over, argued over from
+hundreds of light years away?" he asked. I could see his frustration, but
+I also knew this was an excuse. Janice spoke up, "Fine, we put that in
+one of our subspace radios and call home." I shook my head, "It doesn't
+work that way. It comes down to how many hawkings you can generate and
+create the tunnel. Our systems barely create a hundredth of a hawking, the
+DeBe's deep space transmitter generates a field in the hundreds." Jeremy
+spoke up, "Okay then, we put on vac suits and go install it." I laughed,
+"Ironically if we could tell Edgar we've got this, he'd probably let us
+install it." The commander scoffed, "He'd probably then lock the doors
+in the engine section and cook us." Then the alarms started sounding.
 
 
 
 
 
-Alice went to full volume on all channels, "General breach alarm detected in science module." Janice throws her hands up, "How am I not surprised!" "Stow it." I say. "Roxxie, can you see anything outside?" I ask. "Yes. The marines just returned to the port side MCM. Sir, the starboard MCM just detached and is tumbling." "Alice, any danger to us?" I ask. "No. Based on current trajectory, the module will enter the atmosphere in approximately two hours, eight minutes." The AI replies. "Alice, any more alerts?" I ask. Alice pipes back in, "No. Just the repeating breach alarm." "Roxxie can you see any of the air locks?" I ask. "Sir, its tumble is slow, I can see if the airlocks are intact." she replies. "That doesn't look like a very controlled detach." I point out. "No. I wouldn't expect Marines to do that. They've got plenty of firepower, I'd expect them to deal with the xeno." replies the commander. "Sir, I've got a visual on airlock number one." Roxxie calls out. On the screen we could see the airlock and what clearly is blood splattered on the inside. "Maybe they ditched to isolate the xeno?" Jeremy asks. At this the tech spoke up, "Possibly. That doesn't account for the other xeno material." We stop and looked at the tech. He turns and looks at the commander who nods. "After you cleared out the processing plant we found several intact eggs. We encased them and were brought onboard with the xeno." Marc lets out a slow and exaggerated "Fuck." I don't disagree with that sentiment. "How many is several?" I ask. "Four." the tech replies. "Hopefully encased in something stronger that first container." Marco quips. "Yes. A resin embedded with micro particles of a strong base to neutralize the xenos acid." the tech replies. I could see the team mulling this over. "This material was tested?" asks Marco. The tech shrugs, "I was told it would hold them." "We need to get into that module and assess the situation." I order. Robinson could see that I am starting to take charge and wants to make sure he was still the top dog. Nodding along, "This module is your show, I'm going to get over into the other MCM and see what I can do from there. Use your rockies to investigate that science module and relay the information to our MCM via the tether." "What about the other MCM?" asks Janice. "It's got power, while the tumble is uncontrolleed once atmospheric drag starts automatic systems will engage, it'll land of it's own accord. I need to worry about the here and now. Figure out what's going on in that science module." Roxxie spoke up, "Sir, permission to proceed to the science module and breech if needed?" I look at the commander, he nods. "Permission granted." I say. Despite the commanders talk of heading over to the other MCM, he sats down and watchs Roxxie's feed. In that moment I think he realizes likely the safest spot to be is here. Crawling on the nadar side of the ship she mades her way to the science section external hard point and airlock. Extending her smaller dexterous hands she manipulates the controls, when that failed she override the controls and entered the airlock closing the external door behind her. Carefully she opens the inner door, to cavernous darkness. Immediately shifting to infrared she launches a drone. The science module is a mess. Drawers ripped open, lab equipment strewn across counters and floor. It looks like it had been and ugly fight. The tech who I now knew as Eric quietly says, "The eggs are stored in the room to your right." Roxxie extended one of her larger manipulator arms and opens the door a crack to allow the drone in. The drone does a juke and slipped through the crack. Against the far wall four isolation chambers are lit by a blue lights. The four containers smashed, the eggs open, the petal peeled back, their horrifying contents missing. "You getting this?" asked Roxxie. "Five by five." I replied. "So much for your fucking wonder material" huffs Marco. Roxxie opens the door and the drone flies out, laser and doppler mapping as it goes. Roxxie moves her rocky deeper into the science module. "How many people were in this module?" she asks. "Fourteen" I reply. Across the hall the holding cell was open, the pale xeno missing. "No signs it forced its way out." Roxxie notes. Alice speaks up, "MCM 2 has reoriented and is firing retros for re-entry. I've plotted its approximate landing site." "Let us known when it's landed." I replied. Deeper into the science module, the xeno had converted a meeting room into a hatchery. Four people are cocooned against the wall. All dead, their chests burst open.
+Alice went to full volume on all channels, "General breach alarm
+detected in science module." Janice throws her hands up, "How am I not
+surprised!" "Stow it." I say. "Roxxie, can you see anything outside?" I
+ask. "Yes. The marines just returned to the port side MCM. Sir, the
+starboard MCM just detached and is tumbling." "Alice, any danger
+to us?" I ask. "No. Based on current trajectory, the module will
+enter the atmosphere in approximately two hours, eight minutes." The
+AI replies. "Alice, any more alerts?" I ask. Alice pipes back in,
+"No. Just the repeating breach alarm." "Roxxie can you see any of the
+air locks?" I ask. "Sir, its tumble is slow, I can see if the airlocks
+are intact." she replies. "That doesn't look like a very controlled
+detach." I point out. "No. I wouldn't expect Marines to do that. They've
+got plenty of firepower, I'd expect them to deal with the xeno." replies
+the commander. "Sir, I've got a visual on airlock number one." Roxxie
+calls out. On the screen we could see the airlock and what clearly
+is blood splattered on the inside. "Maybe they ditched to isolate the
+xeno?" Jeremy asks. At this the tech spoke up, "Possibly. That doesn't
+account for the other xeno material." We stop and looked at the tech. He
+turns and looks at the commander who nods. "After you cleared out the
+processing plant we found several intact eggs. We encased them and were
+brought onboard with the xeno." Marc lets out a slow and exaggerated
+"Fuck." I don't disagree with that sentiment. "How many is several?" I
+ask. "Four." the tech replies. "Hopefully encased in something stronger
+that first container." Marco quips. "Yes. A resin embedded with micro
+particles of a strong base to neutralize the xenos acid." the tech
+replies. I could see the team mulling this over. "This material was
+tested?" asks Marco. The tech shrugs, "I was told it would hold them." "We
+need to get into that module and assess the situation." I order. Robinson
+could see that I am starting to take charge and wants to make sure he was
+still the top dog. Nodding along, "This module is your show, I'm going to
+get over into the other MCM and see what I can do from there. Use your
+rockies to investigate that science module and relay the information to
+our MCM via the tether." "What about the other MCM?" asks Janice. "It's
+got power, while the tumble is uncontrolleed once atmospheric drag
+starts automatic systems will engage, it'll land of it's own accord. I
+need to worry about the here and now. Figure out what's going on in
+that science module." Roxxie spoke up, "Sir, permission to proceed to
+the science module and breech if needed?" I look at the commander, he
+nods. "Permission granted." I say. Despite the commanders talk of heading
+over to the other MCM, he sats down and watchs Roxxie's feed. In that
+moment I think he realizes likely the safest spot to be is here. Crawling
+on the nadar side of the ship she mades her way to the science section
+external hard point and airlock. Extending her smaller dexterous hands
+she manipulates the controls, when that failed she override the controls
+and entered the airlock closing the external door behind her. Carefully
+she opens the inner door, to cavernous darkness. Immediately shifting
+to infrared she launches a drone. The science module is a mess. Drawers
+ripped open, lab equipment strewn across counters and floor. It looks like
+it had been and ugly fight. The tech who I now knew as Eric quietly says,
+"The eggs are stored in the room to your right." Roxxie extended one of
+her larger manipulator arms and opens the door a crack to allow the drone
+in. The drone does a juke and slipped through the crack. Against the far
+wall four isolation chambers are lit by a blue lights. The four containers
+smashed, the eggs open, the petal peeled back, their horrifying contents
+missing. "You getting this?" asked Roxxie. "Five by five." I replied. "So
+much for your fucking wonder material" huffs Marco. Roxxie opens the door
+and the drone flies out, laser and doppler mapping as it goes. Roxxie
+moves her rocky deeper into the science module. "How many people were
+in this module?" she asks. "Fourteen" I reply. Across the hall the
+holding cell was open, the pale xeno missing. "No signs it forced its way
+out." Roxxie notes. Alice speaks up, "MCM 2 has reoriented and is firing
+retros for re-entry. I've plotted its approximate landing site." "Let
+us known when it's landed." I replied. Deeper into the science module,
+the xeno had converted a meeting room into a hatchery. Four people are
+cocooned against the wall. All dead, their chests burst open.
 
-Seeing this Eric let out a moan, "No." and begins to weep. The floor is littered with the remains of the other nine scientists. The recognition software automatically counting bodies but unable to easily identify them. They'd been consumed. Roxxie let out a sigh, "All accounted for." Ruvi speaks up, "Where are the xenos then?" he asks quietly. It is a question we are all wondering.
+Seeing this Eric let out a moan, "No." and begins to weep. The floor is
+littered with the remains of the other nine scientists. The recognition
+software automatically counting bodies but unable to easily identify
+them. They'd been consumed. Roxxie let out a sigh, "All accounted
+for." Ruvi speaks up, "Where are the xenos then?" he asks quietly. It
+is a question we are all wondering.
 
 
 
 
 
-Immediately Robinson goes on the tether to the MCM, "Be advised there are possibly up to five xenos onboard. One pale and likely four standard drones." A voice I know well, Wikowsky comes back. "Roger that, motion trackers are deployed. We sent a fire team down the main spar a half an hour ago to attempt to access the CIC and disconnect Edgar. So far, no word. My only experience with somewhat sentient AI's was Alice. The fact that a four man fire team had been gone for half an hour and they weren't sending people out to look for them made think it wasn't going too well. Edgar had already depressurized the ship and apparently killed the crew in the CIC, I wondered idly what Alice might do if the mission parameters were more important than our lives. Roxxie speaks up, "I've got something." We turned our attention back to the feed. Roxxie's Rocky is holding a bulkhead hatch with long tear marks in it. "Looks like they decided to get into the utility spars." These damn things are clever, I'd give them that. The utility spars run the length of the ship. Tubes of durasteel full of hand holds, cables and pipes, not created for a human to stroll down but for xenos who have a weird thing about climbing around in tight spaces, it's perfect. Immediately my mind begins to work and worry about the ingress points to this module. I speak up, "Roxxie, see if you can get to the habitat spar and aid the other marines." "Roger that. I'll keep you posted." comes a reply. I have three rockies on the ground, one in the science lab and two more currently in the maintenance bay as well as two more as assembled spares and enough parts to probably get a couple more up and running. I looked at Ruvi, "Jack in and get your rocky positioned in front of the panel to the utility access." I don't even get a "yes sir" before Ruvi takes off for the pit to jack in. I can see the look on the commanders face, he'd have chewed someone out for such a lack of protocol. My module, my rules. The problem I have now is a lack access to the cameras in the habitable spars. I know they were depressurized but I didn't know what was going on. Alice breaks this train of thought. "Sir, there's a radio call coming in on the surface directed to you." "From who?" I asked. "Origin unknown, triangulated to a surface transmitter six hundred and fifty meters from rocky one, the message is repeating." Alice replies. "Play it" I say. Immediately the room is filled with the voice I'd spoken to earlier. "This message is for Hurgs. Please contact us on this frequency, ASAP." Alice then says, "The message just repeats." "Alice, what is the current location of our rockies in relation to the cave we were in earlier?" I ask. "Approximately nine hundred and fifty meters." it replies. I'd been ejected as the carry all had lifted off, I didn't actually know where my rocky was. I drop into my cradle and initiate a fast jack as it's called. I find myself on the sled on a low plateau, the storm in the north seems even angrier than the last time I'd jacked in. Because of the fast jack, not everything is fully synced up yet. Details are still filling in. Waves of rain lash across the sensor bulb. Ironically this rocky literally has everything, but lacks wipers, blowers or sonics to keep the rain off. I bring the radio online and boost its power to the max. I also configure the channels so that my audio will bounce into the meeting room. "This is Hurgs responding." I watch as a timer ticks. Thirty seconds elapse. "I repeat this is 1st class cyper specialist Hurgs." Then I hear it, a faint crackle, then the power boosts up. "Hurgs, we hear you. What have you guys done? The drones have gone crazy!" the voice says faintly. "Sir, please explain." I say. "After our last message, I called the controllers to clean up the the mess you made with your robots. Things went normally, then suddenly the controllers stopped responding to our commands. Drones attempted to breach our compounds. We've stayed secure but we've lost contact with the beta site and the main habitat site." In my ear I hear Janice on a side channel, "I don't think any of this is a coincidence." I agree. The mentioning of project X1243, the sudden sprouting of the antenna, the weird behavior of Edgar, the drones, the controllers, the opened confinement cell and the smashed eggs. "Okay. I'm about a klick away from the entrance to your tunnel, do you need me to clean that tunnel out?" I ask. "No currently there only a handful of drones and a single controller. Once they were unable to breach our defenses the mass of them left." the voice replies. "We found the location of the beta site, where is the location of your main habitat compound?" At this there is a pause, I'm sure there are others in the background likely not that excited to give away such a vital piece of intel. To me, this pause seems crazy. I open a side channel to the main room with the commander. "Robinson, should I let them know about what's going on the Debe?" I ask. A pause at our end this time.. "No. We don't know these people or their capabilities. I have no reason to trust these people. This guy, who I should remind you hasn't told us his name, said a magic word that managed to fuck us up and get more than a couple marines killed." came the response. I had to grudgingly agree with the commander. Shit truly had gone sideways once he said the project name. On the other hand it looked like his goose was getting cooked as well. "Okay Hurgs, the main habitat is about 250km north of this current location at the base of a formation we call "Hadley's chin." Immediately Alice brings up a topo map and it was clear why they called it that. A prominence of rock, wide and square. "I see it on the topo map. There's serious storm brewing though." I reply. "Yes. The queens crown we call it. A product of the original detonation, the storm has been raging for a couple of decades, we're now in the season when it really ramps up. Between it and the xeon's it's why we ended up under ground. Hurgs, you asked before, the names Zeigler." comes a reply. "Glad to finally put a name to the voice, I'm going to investigate the beta site and we'll get people to the habitat." I say. "Thanks. Keep me posted." he replies. At that the comm channel goes dead. "Alice, please plot a course to the beta site, let me know when rocky one is five hundred meters out." I say. "Roger that. Course plotted. ETA nineteen minutes. My mind registered that was fifty six point eight kilometers an hour. Gotta love implants. I eject from the cradle, climb out of the pit and head back to the conference room. "Zeigler, eh? Didn't expect to find that mother fucker on this rock." laughs the commander. That's going to merit some explanation. I grabbed a cup of coffee, a snack packet and pain meds. Fast jacking is a sure fire way to end up in bed stunned if you do it too often. Already I could feel the tightness in my temples and I have a slight tremor in my left arm. The commander looked at my arm and then me. I simply shrug, "Dangers of cybernetics." "So who is this Zeigler guy you seem so fond of?" I ask. To this, the commander just laughs. "Oh Mike and I go way back, you could say we haven't seen eye to eye about the xenomorphs since day one." The prospect of story time brings people to the table. Seeing that he had an audience, the commander sits back and folds his hands across his chest. "Dr. Mike Ziegler is a brilliant scientist who falls into the category of men too consumed with the could, they never stop to ask if they should. To him, he sees the xenomorph and their straightforward bio-engineering as an opportunity. He calls it a gift from the gods. He's convinced he can tame the damn things, use them as a labor force, communicate with them. I attended more than a half dozen proposals where he spoke of using what they'd learned to create a whole bestiary of creatures that can work in conditions we wouldn't even want to send robots. Based on what you've reported, it appears he's had some success, and based on his latest radio messages, as usual when dealing with the xenomorph's invariably these scientists bite off more than they can chew." at that he puts his hands on the table. Turning to me, he says sternly, "This guy is a snake in the grass. Results driven to a level that would make Wayland VP blush, he's shrewd and smart. To quote an old North American thing that they used to say before they'd arrest you, everything you say can and will be used against you. Think before you speak. Whatever his charter was with project X1243, the only info I had was that we were to make contact. The details were entirely lacking. I don't even know how many people are here or where was his charter." I nod taking this in. "So this scientist is some kinda of megalomanic loon who will stop at nothing until he creates super xenos?" I laugh. Robinson just shakes his head, "You've already seen the leader xeno's. He's already doing that, who knows what other horrors he's cooked up." Janice who'd sat silent spoke up, "I'd like to know how he's communicating with them." Alice broke in, "The secondary MCM has made landfall successfully. On the screen the location was plotted. It put it nearly fifty klicks from the entry to the main habitat site." Marco quipped, "Geez, if anybody is still alive in that module, the last twenty minutes must have felt like a ride in an auto dryer." "Any comms from the module?" I ask Alice. "No. Emergency beacon only. However, the module may be transmitting on low power. I lack resources to evaluate that." came the reply. I turn to Jeremy. "Prep your rocky to drop near that module." Jeremy replies with a crisp "Yes Sir." and makes haste to the pit. The commander nods approvingly. "What's your plan?" asked the commander. "That MCM is full of weapons and hopefully functional marines. Worse case we can hand out weapons to civvis, best case, we'll have functional marines and we'll hand out weapons to civvis." "I'm hearing a lot of hope in that plan." Robinson noted. That was the truth. If dozens and dozens of xenos decide to storm your position, short of a tactical nuke, your options run out quickly. But the MCM did have point defense weapons that could easily shred a xeno. Hope is all I'm running on at this point. "Sir, I've landed a hundred meters from the MCM. Landing struts deployed, it looks functional." Jeremy's voice came over the comms. "Any sign of marines?" asked Robinson. "Negative." replied Jeremy. On the main screen Jeremy's rocky approaches the MCM. Pops and clicks as the module cools aided by the driving rain flashing to steam as it touches the heat shields on the module. Approaching the main airlock, it was apparent there had been a hell of a fight inside. Jeremy punches an override code into the airlock and both doors open. Out of the airlock a drone launches itself at the rocky. The machine rocks back from the blow, brings its heavy manipulators up and slams the drone into the ground. He dragged the drone away from the airlock, kicking and thrashing. Pinning it to the ground, he puts a single ten mil armor piercing round through its head, it's green blood splashes the ground and sizzles. I had to give Jeremy credit for the brutal efficiency of it. We'd had two weeks of slogging through drones. Dozens of times they'd leapt on the Rockies. While the commander and the tech had jumped we hadn't. Just another horrifying day at the office. Laughing he zoomed into the shoulder of the drone, an ugly gash from below the neck to the armpit. "God Damn! That's the work of a vibrablade!" The commander grinned. His marines had put up a fight. Climbing into the MCM, it's a scene. Two dead marines lay on the module floor one of them holding a shattered vibrablade. The other slashed across the chest. Jeremy plugs into the general quarters system. "This is private Hopkins. The xeno has been dealt with." "Hopkins? Jesus I'm glad to hear your voice" comes a reply. At this the armored door to the armory opened. A half dozen fully kitted marines tumbled out to see the rocky and stop. "Ah fuck Henderson and Alverez really did it!" one of them say. "Wrestled a fucking xeno to the ground and nearly took its head off with a viroblade!" The marines stood around their fallen comrades. "A hero's death." says another. At once they beat their chests and said "Hoo-Rah." "What happened?" asks Jeremy. They all turn their attention back to the rocky. "Fucking thing came out of the access panel and landed on Alverez. When we lost contact with everybody, we kitted up. Henderson slammed the door and as the doors shut he yelled he was going to "take care of it" drawing his vibrablade. Then we lost gravity and started tumbling. We strapped in and watched the external monitors. The Xeno beat against the door but a ten mil would pop us like a balloon. We held on and planned on popping the door and shredding the fucker when you showed up." replied a marine whose name plate read Fisher. "Corporeal Fisher, Welcome to the Asheron. I'd advise you get to a terminal and get the point defenses up and running." Nodding another marine immediately got to a terminal. "Apparently there's some scientists here who had some control over the xeno's and that's all gone to hell. They're hold up in some compound fifty clicks from here. Hurgs is heading over to their other research base or something." Fisher nodded. "Glad to have your rocky and the extra firepower." Jeremy replies. "Roger that. With Edgar acting up, this unit won't be going anywhere soon. To this Fisher perks up, "What the fuck happened?" "Dunno. Something to do with these scientists, it triggered some failsafe. I don't know anymore." replies Jeremy. A marine comes up to Fisher, "Sir, I've got the point defenses on line, but the weather is playing hell with the system. I'm seeing movement five hundred meters out, but I can't make much of it." At this Jeremy backs his Rocky out of the unit and they close the airlocks. The two marines in body bags have been placed under the MCM. "Sir, I'm going to launch a drone to get a better vantage point." "Sounds good. We're pretty blind up here without Edgar." I reply. Jeremy launches the drone. Quickly Alice starts integrating the input. The MCM has landed among at least eight nests, the nearest is about a hundred and fifty meters away. Jeremy jokes over the channel, "Picked the right side to land on!" We all nod. He could have easily bingoed right on a nest opening. One rocky is pretty badass, but on flat ground against an unknown number of drones, it's at best a delaying action. Roxxie joins into the channel. "Sir, I've managed to opened the door to the main habitat spar, you'll want to see this." On the monitors, the feet of a marine are seen sticking out of a vent, frozen blood has pooled around the ankles. Another marine is on the floor his helmet and face mask a shattered ruin. Past this the entire corridor has been plastered with the alien resin. "Looks like they were ambushed." Roxxie smashes her way through the resin to find two drones crouching in the hallway and behind them the controller xeno. It's brief and bloody. Roxxie obliterates all three in moments. The blood splashes against the corridor walls and begins to eat into them. "I was afraid of that." she says. Alice pipes up, "Structural integrity warnings from habitat spar two grid section 43." We all nod. Three xenos worth of blood can do plenty of damage. "Alice, how serious is this?" I ask. "Full extent of damage unknown. Gladiator ships are build with a high level of redundancy." I'd worked with Alice long enough to read between the lines. Shit was broken, but the AI was too cagey to say things were dire outright. "Rocky one is now five hundred meters from the entrance to the beta site." I head back into the pit and this time I do a clean jack in. Seeing the weather on the screen and experiencing it through the neural jack are two different things. Heat lightning crackles across the sky and rain lashes the rocky. At least I didn't have to worry about waste heat. The trash can sized nuclear reactor at the core of my rocky was pumping out serious amounts of power. Under some circumstances cooling such a thing would be a problem. I checked the power levels and was pleased to see that even over two weeks of daily use, the reactor had only used a couple percentage of its fuel. I wondered what fresh hell I was descending into. I was now a hundred and seventy five meters out. I stopped the sled and contemplated my options. I was a single rocky, I needed to play this smart. "Alice, launch a drone to give me over watch and send one down the tunnel to see what I'm up against." Immediately drones took off from the sled. I rode shotgun as Alice dove the little saucer shaped ariel vehicle down into the opening. Into the center chamber I could see that the durasteel door like in the alpha site was ajar, peeled from the wall on one side. They couldn't go through it, so they simply went around it. The drone spun in the center of the chamber sending lidar pulses down the tunnels that radiated out. No movement, but we knew better. In a moments notice xenos could come out of every damn crevice. Alice moved the drone through the doors. The rough surfaces gave way to gleaming labs. On emergency power and with smashed lights an eerie flicker of yellow filled the labs. The scene was grizzly. Blood streaked the walls. Cages were broken open, lab equipment was smashed. There was a level of violence here that shocked me. Freezers were ripped open, their shelves and vials scattered. This was beyond the base xeno need to find vessels to reproduce, this was hate filled. The drone flew on, the horrors growing. Robinson had been right, Ziegler had been a busy man. Alice stops in front of a stasis tube, the upper half of an armless drone floats in the water, electrodes bristle from it's elongated head. Alice flies on. Laying dead in a hospital bed is girl, clearly a hybrid of human and xeno XNA/DNA. Her angelic face is contrasted against her bio mechanical head wearing a crown of electrodes. Her chest is slashed open. The gleam of bio mechanical anatomy and petite human features are intermixed in a vaguely elegant way. Janice gasps "What in the unholy christ has this madman been doing?" she whispers. Robinson just snickers, "What he always dreamed to do. Get far away from anyone who would ask any questions and play god." I agree with him on this. The drone flies down a couple tunnels but finds nothing. This site is a tomb. I bring the radio up to full power. "Hurgs here, calling Zigler." "Zielger here. What's the status of the Beta site?" he asks. "Destroyed" I reply. Over the link I hear a heavy sigh. "In the lab there was a very special creature." "It is dead." I reply. "It was a she and her name was Eliana." he replies flatly over the link. Clearly I'd touched a nerve so I backed off a bit. "I didn't find any survivors. The lab had been wrecked." I replied. "Any status on the main habitat?" he asks. "We've got people fifty clicks out and we're formulating a plan." I reply. "Well, formulate faster. If what I'm being told is correct, there's a large assault being planned." he replied. Janice whispered in my ear, "How can he know that?" I replied off channel, "He's got more of these hybrids, it must be his link to the controller xeno's." "Please define large scale." I replied. "That I don't know. But I can easily guess, hundreds? I also think the controllers have made some deal with the queens." Just fucking wonderful.. the millipede worth of shoes kept dropping. "Ziegler, when were you going to let us in on this?" I asked. "I'm learning this now I promise. Please get your troops to the main habitat." Alice now whispered in my ear, "Based on vocal strain, this person is under extreme stress." Thanks Alice. I appreciated the analysis and it confirmed my fears. "Is the Alpha site still intact?" I ask. "Barely. They've been pounding and scratching around the door for an hour, but don't seem to be making much headway. "They undermined the door in the beta facility, if these things are even smarter than we thought, it won't be long until they go for that tactic as well." I reply. "Shit. I know I just sent you to the beta site, but I think I'm in trouble here." he replies. I sense the sled shifting under my feet. "I can be there in twenty minutes." Alice points out that she can probably push it and do it in less. I agree with the AI, now that the track has been made it's not worried about flipping the sled. She wasn't kidding. The AI is pouring on the speed. Even in the driving rain, the sled is easily doing seventy. I see the steam coming up from the sled, as its reactor is busy working at max power. I ask Alice to keep me posted and keep the drones flying. Janice pings me to head to the conference room, I eject. I wander in to some seriously long faces. "What's up?" I ask. Roxxie is sitting at the table. "I finally found the other xeno." she replies. "That's good?" I ask. "Yes, and no. That fucker is dead, but not before they managed to tear into a good chunk of our food, broke a bunch of stuff in the muster module and then made its way down to the engine module and tried and thankfully failed to do any damage. "Any thing about Edgar?" I asked. Ruvi shrugged. "Still doing whatever its crazy cyber brain is doing. The CIC module is still intact, and the xeno's are all dead so we should be able to get in there and at least disconnect him if not more." Janice laughed at this. "There's also the damage that was done to the habitat spar. I'd run some calculations and it's going to be real dodgy getting up to luminal speed with that spar." I trusted Janice in this regard, she'd started as an engineer before getting recruited into the program. I turned to Robinson, "Think you can persuade some marines to go unplug a crazy computer?" He nods and gets on the tether and explains what he wants them to do. Quickly Marines make their way to the CIC. Edgar is isolated from the DeBe. Hatches are closed, sections are re-pressurized. Finally we start to get a handle on the ship. Getting home without Edgar is going to be complicated, but that's a bridge we'll burn when we get there. Robinson makes a show of it returning to the CIC like a triumphant hero.
+Immediately Robinson goes on the tether to the MCM, "Be advised there
+are possibly up to five xenos onboard. One pale and likely four standard
+drones." A voice I know well, Wikowsky comes back. "Roger that, motion
+trackers are deployed. We sent a fire team down the main spar a half
+an hour ago to attempt to access the CIC and disconnect Edgar. So far,
+no word. My only experience with somewhat sentient AI's was Alice. The
+fact that a four man fire team had been gone for half an hour and they
+weren't sending people out to look for them made think it wasn't going
+too well. Edgar had already depressurized the ship and apparently killed
+the crew in the CIC, I wondered idly what Alice might do if the mission
+parameters were more important than our lives. Roxxie speaks up, "I've
+got something." We turned our attention back to the feed. Roxxie's Rocky
+is holding a bulkhead hatch with long tear marks in it. "Looks like they
+decided to get into the utility spars." These damn things are clever,
+I'd give them that. The utility spars run the length of the ship. Tubes
+of durasteel full of hand holds, cables and pipes, not created for a
+human to stroll down but for xenos who have a weird thing about climbing
+around in tight spaces, it's perfect. Immediately my mind begins to work
+and worry about the ingress points to this module. I speak up, "Roxxie,
+see if you can get to the habitat spar and aid the other marines." "Roger
+that. I'll keep you posted." comes a reply. I have three rockies on the
+ground, one in the science lab and two more currently in the maintenance
+bay as well as two more as assembled spares and enough parts to probably
+get a couple more up and running. I looked at Ruvi, "Jack in and get your
+rocky positioned in front of the panel to the utility access." I don't
+even get a "yes sir" before Ruvi takes off for the pit to jack in. I can
+see the look on the commanders face, he'd have chewed someone out for
+such a lack of protocol. My module, my rules. The problem I have now is
+a lack access to the cameras in the habitable spars. I know they were
+depressurized but I didn't know what was going on. Alice breaks this
+train of thought. "Sir, there's a radio call coming in on the surface
+directed to you." "From who?" I asked. "Origin unknown, triangulated to
+a surface transmitter six hundred and fifty meters from rocky one, the
+message is repeating." Alice replies. "Play it" I say. Immediately the
+room is filled with the voice I'd spoken to earlier. "This message is
+for Hurgs. Please contact us on this frequency, ASAP." Alice then says,
+"The message just repeats." "Alice, what is the current location of our
+rockies in relation to the cave we were in earlier?" I ask. "Approximately
+nine hundred and fifty meters." it replies. I'd been ejected as the
+carry all had lifted off, I didn't actually know where my rocky was. I
+drop into my cradle and initiate a fast jack as it's called. I find
+myself on the sled on a low plateau, the storm in the north seems even
+angrier than the last time I'd jacked in. Because of the fast jack, not
+everything is fully synced up yet. Details are still filling in. Waves
+of rain lash across the sensor bulb. Ironically this rocky literally
+has everything, but lacks wipers, blowers or sonics to keep the rain
+off. I bring the radio online and boost its power to the max. I also
+configure the channels so that my audio will bounce into the meeting
+room. "This is Hurgs responding." I watch as a timer ticks. Thirty
+seconds elapse. "I repeat this is 1st class cyper specialist Hurgs." Then
+I hear it, a faint crackle, then the power boosts up. "Hurgs, we hear
+you. What have you guys done? The drones have gone crazy!" the voice says
+faintly. "Sir, please explain." I say. "After our last message, I called
+the controllers to clean up the the mess you made with your robots. Things
+went normally, then suddenly the controllers stopped responding to
+our commands. Drones attempted to breach our compounds. We've stayed
+secure but we've lost contact with the beta site and the main habitat
+site." In my ear I hear Janice on a side channel, "I don't think any
+of this is a coincidence." I agree. The mentioning of project X1243,
+the sudden sprouting of the antenna, the weird behavior of Edgar, the
+drones, the controllers, the opened confinement cell and the smashed
+eggs. "Okay. I'm about a klick away from the entrance to your tunnel,
+do you need me to clean that tunnel out?" I ask. "No currently there
+only a handful of drones and a single controller. Once they were unable
+to breach our defenses the mass of them left." the voice replies. "We
+found the location of the beta site, where is the location of your main
+habitat compound?" At this there is a pause, I'm sure there are others in
+the background likely not that excited to give away such a vital piece
+of intel. To me, this pause seems crazy. I open a side channel to the
+main room with the commander. "Robinson, should I let them know about
+what's going on the Debe?" I ask. A pause at our end this time.. "No. We
+don't know these people or their capabilities. I have no reason to trust
+these people. This guy, who I should remind you hasn't told us his name,
+said a magic word that managed to fuck us up and get more than a couple
+marines killed." came the response. I had to grudgingly agree with the
+commander. Shit truly had gone sideways once he said the project name. On
+the other hand it looked like his goose was getting cooked as well. "Okay
+Hurgs, the main habitat is about 250km north of this current location at
+the base of a formation we call "Hadley's chin." Immediately Alice brings
+up a topo map and it was clear why they called it that. A prominence of
+rock, wide and square. "I see it on the topo map. There's serious storm
+brewing though." I reply. "Yes. The queens crown we call it. A product
+of the original detonation, the storm has been raging for a couple of
+decades, we're now in the season when it really ramps up. Between it and
+the xeon's it's why we ended up under ground. Hurgs, you asked before,
+the names Zeigler." comes a reply. "Glad to finally put a name to the
+voice, I'm going to investigate the beta site and we'll get people to
+the habitat." I say. "Thanks. Keep me posted." he replies. At that the
+comm channel goes dead. "Alice, please plot a course to the beta site,
+let me know when rocky one is five hundred meters out." I say. "Roger
+that. Course plotted. ETA nineteen minutes. My mind registered that was
+fifty six point eight kilometers an hour. Gotta love implants. I eject
+from the cradle, climb out of the pit and head back to the conference
+room. "Zeigler, eh? Didn't expect to find that mother fucker on this
+rock." laughs the commander. That's going to merit some explanation. I
+grabbed a cup of coffee, a snack packet and pain meds. Fast jacking is a
+sure fire way to end up in bed stunned if you do it too often. Already
+I could feel the tightness in my temples and I have a slight tremor in
+my left arm. The commander looked at my arm and then me. I simply shrug,
+"Dangers of cybernetics." "So who is this Zeigler guy you seem so fond
+of?" I ask. To this, the commander just laughs. "Oh Mike and I go way
+back, you could say we haven't seen eye to eye about the xenomorphs since
+day one." The prospect of story time brings people to the table. Seeing
+that he had an audience, the commander sits back and folds his hands
+across his chest. "Dr. Mike Ziegler is a brilliant scientist who
+falls into the category of men too consumed with the could, they never
+stop to ask if they should. To him, he sees the xenomorph and their
+straightforward bio-engineering as an opportunity. He calls it a gift
+from the gods. He's convinced he can tame the damn things, use them as
+a labor force, communicate with them. I attended more than a half dozen
+proposals where he spoke of using what they'd learned to create a whole
+bestiary of creatures that can work in conditions we wouldn't even want
+to send robots. Based on what you've reported, it appears he's had some
+success, and based on his latest radio messages, as usual when dealing
+with the xenomorph's invariably these scientists bite off more than they
+can chew." at that he puts his hands on the table. Turning to me, he says
+sternly, "This guy is a snake in the grass. Results driven to a level that
+would make Wayland VP blush, he's shrewd and smart. To quote an old North
+American thing that they used to say before they'd arrest you, everything
+you say can and will be used against you. Think before you speak. Whatever
+his charter was with project X1243, the only info I had was that we were
+to make contact. The details were entirely lacking. I don't even know
+how many people are here or where was his charter." I nod taking this
+in. "So this scientist is some kinda of megalomanic loon who will stop at
+nothing until he creates super xenos?" I laugh. Robinson just shakes his
+head, "You've already seen the leader xeno's. He's already doing that,
+who knows what other horrors he's cooked up." Janice who'd sat silent
+spoke up, "I'd like to know how he's communicating with them." Alice
+broke in, "The secondary MCM has made landfall successfully. On the
+screen the location was plotted. It put it nearly fifty klicks from
+the entry to the main habitat site." Marco quipped, "Geez, if anybody
+is still alive in that module, the last twenty minutes must have
+felt like a ride in an auto dryer." "Any comms from the module?" I ask
+Alice. "No. Emergency beacon only. However, the module may be transmitting
+on low power. I lack resources to evaluate that." came the reply. I turn
+to Jeremy. "Prep your rocky to drop near that module." Jeremy replies
+with a crisp "Yes Sir." and makes haste to the pit. The commander nods
+approvingly. "What's your plan?" asked the commander. "That MCM is full
+of weapons and hopefully functional marines. Worse case we can hand
+out weapons to civvis, best case, we'll have functional marines and
+we'll hand out weapons to civvis." "I'm hearing a lot of hope in that
+plan." Robinson noted. That was the truth. If dozens and dozens of xenos
+decide to storm your position, short of a tactical nuke, your options
+run out quickly. But the MCM did have point defense weapons that could
+easily shred a xeno. Hope is all I'm running on at this point. "Sir,
+I've landed a hundred meters from the MCM. Landing struts deployed,
+it looks functional." Jeremy's voice came over the comms. "Any sign of
+marines?" asked Robinson. "Negative." replied Jeremy. On the main screen
+Jeremy's rocky approaches the MCM. Pops and clicks as the module cools
+aided by the driving rain flashing to steam as it touches the heat shields
+on the module. Approaching the main airlock, it was apparent there had
+been a hell of a fight inside. Jeremy punches an override code into the
+airlock and both doors open. Out of the airlock a drone launches itself
+at the rocky. The machine rocks back from the blow, brings its heavy
+manipulators up and slams the drone into the ground. He dragged the
+drone away from the airlock, kicking and thrashing. Pinning it to the
+ground, he puts a single ten mil armor piercing round through its head,
+it's green blood splashes the ground and sizzles. I had to give Jeremy
+credit for the brutal efficiency of it. We'd had two weeks of slogging
+through drones. Dozens of times they'd leapt on the Rockies. While the
+commander and the tech had jumped we hadn't. Just another horrifying
+day at the office. Laughing he zoomed into the shoulder of the drone,
+an ugly gash from below the neck to the armpit. "God Damn! That's the
+work of a vibrablade!" The commander grinned. His marines had put up a
+fight. Climbing into the MCM, it's a scene. Two dead marines lay on the
+module floor one of them holding a shattered vibrablade. The other slashed
+across the chest. Jeremy plugs into the general quarters system. "This
+is private Hopkins. The xeno has been dealt with." "Hopkins? Jesus I'm
+glad to hear your voice" comes a reply. At this the armored door to the
+armory opened. A half dozen fully kitted marines tumbled out to see the
+rocky and stop. "Ah fuck Henderson and Alverez really did it!" one of them
+say. "Wrestled a fucking xeno to the ground and nearly took its head off
+with a viroblade!" The marines stood around their fallen comrades. "A
+hero's death." says another. At once they beat their chests and said
+"Hoo-Rah." "What happened?" asks Jeremy. They all turn their attention
+back to the rocky. "Fucking thing came out of the access panel and landed
+on Alverez. When we lost contact with everybody, we kitted up. Henderson
+slammed the door and as the doors shut he yelled he was going to "take
+care of it" drawing his vibrablade. Then we lost gravity and started
+tumbling. We strapped in and watched the external monitors. The Xeno beat
+against the door but a ten mil would pop us like a balloon. We held on
+and planned on popping the door and shredding the fucker when you showed
+up." replied a marine whose name plate read Fisher. "Corporeal Fisher,
+Welcome to the Asheron. I'd advise you get to a terminal and get the
+point defenses up and running." Nodding another marine immediately got
+to a terminal. "Apparently there's some scientists here who had some
+control over the xeno's and that's all gone to hell. They're hold up in
+some compound fifty clicks from here. Hurgs is heading over to their other
+research base or something." Fisher nodded. "Glad to have your rocky and
+the extra firepower." Jeremy replies. "Roger that. With Edgar acting
+up, this unit won't be going anywhere soon. To this Fisher perks up,
+"What the fuck happened?" "Dunno. Something to do with these scientists,
+it triggered some failsafe. I don't know anymore." replies Jeremy. A
+marine comes up to Fisher, "Sir, I've got the point defenses on line,
+but the weather is playing hell with the system. I'm seeing movement five
+hundred meters out, but I can't make much of it." At this Jeremy backs his
+Rocky out of the unit and they close the airlocks. The two marines in body
+bags have been placed under the MCM. "Sir, I'm going to launch a drone
+to get a better vantage point." "Sounds good. We're pretty blind up here
+without Edgar." I reply. Jeremy launches the drone. Quickly Alice starts
+integrating the input. The MCM has landed among at least eight nests,
+the nearest is about a hundred and fifty meters away. Jeremy jokes over
+the channel, "Picked the right side to land on!" We all nod. He could
+have easily bingoed right on a nest opening. One rocky is pretty badass,
+but on flat ground against an unknown number of drones, it's at best a
+delaying action. Roxxie joins into the channel. "Sir, I've managed to
+opened the door to the main habitat spar, you'll want to see this." On
+the monitors, the feet of a marine are seen sticking out of a vent,
+frozen blood has pooled around the ankles. Another marine is on the
+floor his helmet and face mask a shattered ruin. Past this the entire
+corridor has been plastered with the alien resin. "Looks like they were
+ambushed." Roxxie smashes her way through the resin to find two drones
+crouching in the hallway and behind them the controller xeno. It's
+brief and bloody. Roxxie obliterates all three in moments. The blood
+splashes against the corridor walls and begins to eat into them. "I
+was afraid of that." she says. Alice pipes up, "Structural integrity
+warnings from habitat spar two grid section 43." We all nod. Three xenos
+worth of blood can do plenty of damage. "Alice, how serious is this?" I
+ask. "Full extent of damage unknown. Gladiator ships are build with a
+high level of redundancy." I'd worked with Alice long enough to read
+between the lines. Shit was broken, but the AI was too cagey to say
+things were dire outright. "Rocky one is now five hundred meters from
+the entrance to the beta site." I head back into the pit and this time I
+do a clean jack in. Seeing the weather on the screen and experiencing it
+through the neural jack are two different things. Heat lightning crackles
+across the sky and rain lashes the rocky. At least I didn't have to worry
+about waste heat. The trash can sized nuclear reactor at the core of my
+rocky was pumping out serious amounts of power. Under some circumstances
+cooling such a thing would be a problem. I checked the power levels and
+was pleased to see that even over two weeks of daily use, the reactor had
+only used a couple percentage of its fuel. I wondered what fresh hell I
+was descending into. I was now a hundred and seventy five meters out. I
+stopped the sled and contemplated my options. I was a single rocky, I
+needed to play this smart. "Alice, launch a drone to give me over watch
+and send one down the tunnel to see what I'm up against." Immediately
+drones took off from the sled. I rode shotgun as Alice dove the little
+saucer shaped ariel vehicle down into the opening. Into the center
+chamber I could see that the durasteel door like in the alpha site was
+ajar, peeled from the wall on one side. They couldn't go through it, so
+they simply went around it. The drone spun in the center of the chamber
+sending lidar pulses down the tunnels that radiated out. No movement,
+but we knew better. In a moments notice xenos could come out of every damn
+crevice. Alice moved the drone through the doors. The rough surfaces gave
+way to gleaming labs. On emergency power and with smashed lights an eerie
+flicker of yellow filled the labs. The scene was grizzly. Blood streaked
+the walls. Cages were broken open, lab equipment was smashed. There was a
+level of violence here that shocked me. Freezers were ripped open, their
+shelves and vials scattered. This was beyond the base xeno need to find
+vessels to reproduce, this was hate filled. The drone flew on, the horrors
+growing. Robinson had been right, Ziegler had been a busy man. Alice
+stops in front of a stasis tube, the upper half of an armless drone
+floats in the water, electrodes bristle from it's elongated head. Alice
+flies on. Laying dead in a hospital bed is girl, clearly a hybrid of
+human and xeno XNA/DNA. Her angelic face is contrasted against her bio
+mechanical head wearing a crown of electrodes. Her chest is slashed
+open. The gleam of bio mechanical anatomy and petite human features are
+intermixed in a vaguely elegant way. Janice gasps "What in the unholy
+christ has this madman been doing?" she whispers. Robinson just snickers,
+"What he always dreamed to do. Get far away from anyone who would ask any
+questions and play god." I agree with him on this. The drone flies down a
+couple tunnels but finds nothing. This site is a tomb. I bring the radio
+up to full power. "Hurgs here, calling Zigler." "Zielger here. What's the
+status of the Beta site?" he asks. "Destroyed" I reply. Over the link I
+hear a heavy sigh. "In the lab there was a very special creature." "It is
+dead." I reply. "It was a she and her name was Eliana." he replies flatly
+over the link. Clearly I'd touched a nerve so I backed off a bit. "I
+didn't find any survivors. The lab had been wrecked." I replied. "Any
+status on the main habitat?" he asks. "We've got people fifty clicks out
+and we're formulating a plan." I reply. "Well, formulate faster. If what
+I'm being told is correct, there's a large assault being planned." he
+replied. Janice whispered in my ear, "How can he know that?" I replied
+off channel, "He's got more of these hybrids, it must be his link to the
+controller xeno's." "Please define large scale." I replied. "That I don't
+know. But I can easily guess, hundreds? I also think the controllers
+have made some deal with the queens." Just fucking wonderful.. the
+millipede worth of shoes kept dropping. "Ziegler, when were you going to
+let us in on this?" I asked. "I'm learning this now I promise. Please
+get your troops to the main habitat." Alice now whispered in my ear,
+"Based on vocal strain, this person is under extreme stress." Thanks
+Alice. I appreciated the analysis and it confirmed my fears. "Is the
+Alpha site still intact?" I ask. "Barely. They've been pounding and
+scratching around the door for an hour, but don't seem to be making much
+headway. "They undermined the door in the beta facility, if these things
+are even smarter than we thought, it won't be long until they go for that
+tactic as well." I reply. "Shit. I know I just sent you to the beta site,
+but I think I'm in trouble here." he replies. I sense the sled shifting
+under my feet. "I can be there in twenty minutes." Alice points out that
+she can probably push it and do it in less. I agree with the AI, now that
+the track has been made it's not worried about flipping the sled. She
+wasn't kidding. The AI is pouring on the speed. Even in the driving rain,
+the sled is easily doing seventy. I see the steam coming up from the sled,
+as its reactor is busy working at max power. I ask Alice to keep me posted
+and keep the drones flying. Janice pings me to head to the conference
+room, I eject. I wander in to some seriously long faces. "What's up?" I
+ask. Roxxie is sitting at the table. "I finally found the other xeno." she
+replies. "That's good?" I ask. "Yes, and no. That fucker is dead, but
+not before they managed to tear into a good chunk of our food, broke a
+bunch of stuff in the muster module and then made its way down to the
+engine module and tried and thankfully failed to do any damage. "Any
+thing about Edgar?" I asked. Ruvi shrugged. "Still doing whatever its
+crazy cyber brain is doing. The CIC module is still intact, and the
+xeno's are all dead so we should be able to get in there and at least
+disconnect him if not more." Janice laughed at this. "There's also the
+damage that was done to the habitat spar. I'd run some calculations
+and it's going to be real dodgy getting up to luminal speed with that
+spar." I trusted Janice in this regard, she'd started as an engineer
+before getting recruited into the program. I turned to Robinson, "Think
+you can persuade some marines to go unplug a crazy computer?" He nods and
+gets on the tether and explains what he wants them to do. Quickly Marines
+make their way to the CIC. Edgar is isolated from the DeBe. Hatches are
+closed, sections are re-pressurized. Finally we start to get a handle
+on the ship. Getting home without Edgar is going to be complicated, but
+that's a bridge we'll burn when we get there. Robinson makes a show of
+it returning to the CIC like a triumphant hero.
 
 
 
