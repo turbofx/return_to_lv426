@@ -303,8 +303,10 @@ I came over to look at his tablet. "Glue dispensors?" pointing to the
 tablet. I took a deep breath, time for the rest of the briefing. "Everybody 
 take a seat." I said. "The marines got told what they needed, we have 
 secondary orders to capture a xenomorph if possible. Hence the aformentioned 
-glue dispensors." "And then do what? Bring it on this ship? No fucking way." 
-repied Janice. "According to the brass they've got some magic resin to encased 
+glue dispensors." 
+
+"And then do what? Bring it on this ship? No fucking way." repied Janice. 
+"According to the brass they've got some magic resin to encased 
 and rendered them inert." I explained. "Jesus have mercy on us." mumbles Mike. 
 The last member of our group was a petite woman named Joanne, but went by the
 handle Roxxie. "Roxxie, I've been quiet through all this. Feel free to
@@ -318,29 +320,29 @@ case, we're going to have to roll with it." Everybody nods. We all
 know the score. There were bigger things afoot here, we just weren't
 entirely privy to all the details. "Look on the bright side, we've got
 lattitude on our loadouts. Pack for a party!" Like kids in a candy store,
-they went to work. Ammo drums were hosted into place, bolts tightened,
-connectors checked. over the next three hours drop details were fed to my
-tablet. Ruvi pinged me. "Do we even know the drop point?" he asked. In
-response, I forwarded the entire intel packet to everybody on the
-team. "Sir, you just gave me everything." replied Ruvi. "Yes. I've got
+they go to work. Ammo drums are hosted into place, bolts tightened,
+connectors checked. Over the next three hours drop details are fed to my
+tablet. Ruvi pings me. "Do we even know the drop point?" he asks. In
+response, I forward the entire intel packet to everybody on the
+team. "Sir, you just gave me everything." replies Ruvi. "Yes. I've got
 that power and I'm using it. Let's not go in with eyes half open. Two
 teams. Team 1 is Myself, Marco and Janice. Team two is Ruvi, Roxxie and Jeremy." 
+
 I wanted to make sure there was someone senior on each team. Roxxie had a cool
 head and was a solid respected leader in the group. More data flows
-in. My team is going to investigate why the atmospheric processor two isn't
+in. My team is going to investigate why atmospheric processor two isn't
 calling home. Team two is going to investigate the third processor
-plant. Everybody nodded happy with this arrangement. "Let's get some rest,
-0500 I expect everybody ready to enter cradles and jack in."
-
+plant. Everybody nods happy with this arrangement. "Let's get some rest,
+0500 I expect everybody ready to enter their cradles and jack in."
 
 Chapter 4.
 
 
-Dinner was somewhat nicer than our wake up meal. Apparently a tech
-somewhere had tinkered with something because I got something that
-resembled an actual hamburger. Not ones to complain, we ate our soy
-protein burgers, headed back and hit the sack. We got the usual side
-eye and head shakes but were left unmolested otherwise.
+Dinner is somewhat nicer than our wake up meal. Apparently a tech
+somewhere had tinkered with something because I get something that
+resembles an actual hamburger. Not ones to complain, we eat our soy
+protein burgers, head back and hit the sack. We get the usual side
+eye and head shakes but we're left unmolested otherwise.
 
 Four thirty is damn early, anyway you cut it. The marines make you used
 to it, but it's still rough. I get up, bang on doors and got assundry
@@ -348,66 +350,66 @@ mumbles. Roxxie and Ruvi appear to be rooming together, honestly, I not
 surprised and I'm happy for them.
 
 Janice strides out of her quarters, haptic suit on and ready to roll. The
-two of us exchange knowing glances and Janice simply raises her eyebrows.
+two of us exchange knowing glances and Janice glances at Roxxie's door 
+and simply raises her eyebrows. I shrug back. Frankly, I was hoping for
+a late night knock that didn't come.
 
 As Janice and I are warming up our cradles, the other members stroll
-in, hot coffee in hand and climb down into their cradles and start up
-the warm up procedure. For cybernetics technicians, jacking in has a
+in, hot coffee in hand and climb down into their cradles and start the 
+warm up procedures. For cybernetics technicians, jacking in has a
 number of serious dangers. The most common to newer users is known as
 transition shock. Your brain is quite happy with all the usual sensory
 input and then you pull the rug out and give it different and additional
 inputs. Our group at this point has been jacking in at the low end for
 two years and at the high end like myself for nearly a decade. I slide
-my head back into the cradle and feel the click of the interfacer to
-my neural shunt. My head is now locked in place, I feel the various
-cinch points as the haptic suit pins me down. "Initiate transition"
-I say. Immediately I'm dropped into darkness. "Commander, unit number
-one is ready." I say "Thank you Alice" but my lips don't move. I'm fully
-shunted in. Alice is the AI for our group. We're encouraged to give them
-names and interact with them. There's so much data flowing in, without
-an AI to help collate it, you'd quickly be overwhelmed. "Status check"
-I say into the comms channel. "Team 1 ready, team 2 ready." I get firm
-replies. Good, everybody has jacked in without issue. I switch over to
-the command channel. "Cybertech teams one and two ready." I say into
-the channel. "Roger that. Hold tight, we are adjusting our orbit for
-optimal insertion." a voice says back. Into the channel I've designated
-"Team 1" the operational CO speaks up. "Team 1, prepare for drop in
-thirty seconds. Team 2, drop in 45 seconds." This part is a bit of a
-nothing burger for us. The sleds and our rockies will either make it to
-the ground in one piece or they simply drop another unit. We have six
-units, plus an additional six ready to go and just as many in spares 
-that can be assembled. During this time we access the various optical 
-systems on the nadar side of the ship. Janice pings me. "Glad we've got 
-subspace on the rockys, it looks like one hell of storm in the north." 
-I change my perspective and she is right. While always harsh, the 
-detonation of the primary processor had thrown gigatons of dust into the 
-atmosphere, helping to trap more heat and ironically speeding up the 
-terraforming process. A wet and rainy planet now with extra heat pumped 
-into it, meant big storms. "I wonder if the issue with unit three is water 
-intrusion or a bolt of lightning?" remarked Marco into our group channel. 
-Privately I hoped, though these stations were built to be dropped from orbit and
-"just work." 
+my head back into the cradle and feel the click of the interface to
+my neural shunt. My head is now locked in place, the visor slides down and
+I feel the various cinch points as the haptic suit pins me down. 
+"Initiate transition" I say. Immediately I'm dropped into darkness. 
+"Commander, unit number one is ready." I say "Thank you Alice" but my lips 
+don't move. I'm fully shunted in. Alice is the AI for our group. We're 
+encouraged to give them names and interact with them as full team members. 
+There's so much data flowing in, without an AI to help collate it, you'd 
+quickly be overwhelmed. "Status check" I say into the comms channel. 
+"Team 1 ready, team 2 ready." I get firm replies. Good, everybody has jacked 
+in without issue. I switch over to the command channel. "Cybertech teams 
+one and two ready." I say into the channel. "Roger that. Hold tight, we 
+are adjusting our orbit for optimal insertion." a voice says back. Into 
+the channel I've designated "Team 1" the operational CO speaks up. 
+"Team 1, prepare for drop in thirty seconds. Team 2, drop in 45 seconds." 
+This part is a bit of a nothing burger for us. The sleds and our rockies 
+will either make it to the ground in one piece or they simply drop another 
+unit. We have six units, plus an additional six ready to go and just as many 
+in spares  that can be assembled. During this time we access the various 
+optical systems on the nadar side of the ship. Janice pings me. "Glad we've 
+got  subspace on the rockys, it looks like one hell of storm in the north." 
+I change my perspective and she is right. While always harsh, the detonation 
+of the primary processor had thrown gigatons of dust into the atmosphere, 
+helping to trap more heat and ironically speeding up the terraforming process. 
+A wet and rainy planet now with extra heat pumped into it, meant big storms. 
+"I wonder if the issue with unit three is water intrusion or a bolt of lightning?" 
+remarked Marco into our group channel. Privately I hoped, though these stations 
+were built to be dropped from orbit and "just work." 
 
 Bingo, five by five, confirmation of soft landing. The
-petals of the drop capsule unfold. Already the sensors on my rocky
-were registering a gust of 50km/h. Alice shifts through the spectrums,
-nothing. Without needing any urging we proceeded towards the processing
-plant. Fuck. The blast doors are ajar, at least a half meter. "I was
-really hoping to find nobody home." Janice whispered into the chat. "Me
-too." I whisper back. I notice that Alice had already brought all the
-weapons online. Alice and I had been paired more than five years ago,
-it had gotten some intutition about it and I appreciated it. "No damage
-to the doors" Alice notes. Maybe just a mechanical screwup? Marco creeps
-forward, deploying his smaller set of dexterous hands he manipulated the
-controls. The door grinds open a couple more centimenters. "That's all
-I'm going to get, the mechanism is seized or jammed, I can't tell from here." 
-Not surprising, water likely got into the track. I move forward and look
-closer. I unlimbered my big arms. I attempted to pry the doors, but
-they only start to deform. Time to ask to break stuff. "Permission to cut 
+petals of the drop capsule unfold. The sleds treads lock down. All green. Already 
+the sensors on my rocky were registering a gust of 50km/h. Alice shifts through 
+the spectrums, nothing. Without needing any urging we proceeded towards the 
+processing plant. Fuck. The blast doors are ajar, at least a half meter. "I was
+really hoping to find nobody home." Janice whispered into the chat. "Me too." 
+I whisper back. I notice that Alice had already brought all the weapons online. 
+Alice and I had been paired more than five years ago, it had gotten some intutition 
+about it and I appreciated it. "No damage to the doors" Alice notes. Maybe just 
+a mechanical screwup? Marco creeps forward, deploying his smaller set of 
+dexterous hands he manipulated the controls. The door grinds open a couple more 
+centimenters. "That's all I'm going to get, the mechanism is seized or jammed, 
+I can't tell from here." Not surprising, water likely got into the track. I move 
+forward and look closer. I unlimbered my big arms. I attempted to pry the doors, 
+but they only start to deform. Time to ask to break stuff. "Permission to cut 
 into the blast doors?" I ask. "Granted. Breach the doors and enter." the CO 
 orders. My plasma torch makes quick work of the blast doors. Plates of durasteel 
-fall to the mud with a sizzle. All three of us stalk through the steaming opening into
-the lower entry bay of atmospheric processor number 3. "Fuck me." whispers
+fall to the mud with a sizzle. All three of us stalk through the steaming opening 
+into the lower entry bay of atmospheric processor number 3. "Fuck me." whispers
 Marco. Behind me I can see that the door mechanism is gummed up with Alien
 excretion. Every wall surface and the ceiling are caked with it. Frozen
 into the walls are various shapes, their chests burst open, but so coated
