@@ -401,7 +401,7 @@ I whisper back. I notice that Alice had already brought all the weapons online.
 Alice and I had been paired more than five years ago, it had gotten some intutition 
 about it and I appreciated it. "No damage to the doors" Alice notes. Maybe just 
 a mechanical screwup? Marco creeps forward, deploying his smaller set of 
-dexterous hands he manipulated the controls. The door grinds open a couple more 
+dexterous hands he manipulates the controls. The door grinds open a couple more 
 centimenters. "That's all I'm going to get, the mechanism is seized or jammed, 
 I can't tell from here." Not surprising, water likely got into the track. I move 
 forward and look closer. I unlimbered my big arms. I attempted to pry the doors, 
@@ -427,7 +427,7 @@ the vibration is enough I can feel it through the haptic suit. "Deploy
 recon drones" I order. A small triangular drone lifts off from the
 top of each of our sensor stacks. "Marco, Up, Janice down, I'll take
 straight ahead." I call out. This is for the benefit of the marines I
-know are watching the feed. Alice controls the drone as it flies through
+know are watching the feed. Alice controls the drones as they fly through
 the facility. Dopplar pulses, wide band IR and optical scanners feed
 information back to Alice and into my mind mapping out the facility and
 comparing it to schematics. I locate the nearest network interface and
@@ -438,14 +438,14 @@ channel. "Lower level, My drone was swatted out of the air. I got four
 distinct things moving." "Xenomorphs?" I ask. "It happened fast sir, the
 drone was nailed from above." A quick reply shows the drone be swatted
 by the dark vaguely biomechancial hand of a xeno. "Deploy another?" she
-asks. "Save them. They know we're here. I brought the camera feeds
-up. Dozens of cameras and only 7 were operational? Those operational ones
-had been encased, their feeds useless. It seemed the Xenomorphs
+asks. "Save them. They know we're here. I bring the camera feeds
+up. Dozens of cameras and only 7 were operational? The operational ones
+have been encased, their feeds useless. It seems the Xenomorphs
 intentionally covered them or destroyed them, but why would they know
 or care? Yet another question to file away. My drone returns. Nobody
 home on the ground level. "Movement, upper level, and lower." Marco was
 right. I heard the tromping of feet on steel treads from above. These
-remote processors weren't that elaborate. Just a fusion reactor,
+remote processors weren't that elaborate. Three levels, Just a fusion reactor,
 large vents to draw in air, machinery to split out the bad stuff, add
 in the good stuff and shoot the atmosphere out. No control room, just
 a single console, spare parts storage and miles of pipe and wire. A
@@ -456,9 +456,9 @@ I tracked and fired a three round burst through the closest drone.
 Configured to burst in the chest cavity, the first drone blows in half 
 throwing green acidic blood and guts in every direction. Immediately a 
 stripe of optics goes out, Automatically the sensor rotates to put the 
-dark spot at the back. Janice nailed a smaller xenomorph with the glue. 
-A thick mesh of adhesive had entangled the chreature. Identicial to it's 
-larger cousin, it struggled and snarled as the glue set. "Not sure how 
+dark spot at the back. Janice nails one ofbthe pale smaller xenomorphs with the glue canister.
+A thick mesh of adhesive has entangled the chreature. Identicial to it's 
+larger cousin, it struggles and snarls as the glue sets. "Not sure how 
 it would work a big one, but we bagged ourselves a mini." Marco our resident 
 nerd about this chimed in, "None of the intel I've seen have shown one 
 this small, or skinny." Small was realative. This creature was still 
@@ -466,34 +466,34 @@ over 1.5 meters tall, just very thin and pale, with an oddly shaped head.
 Drones keep stalking forward likely unsure what to do with these new foes. 
 I order our team to back out of the processor. Acid eating through some critical
 part of the cooling system of the fusion reactor was definitely a "bad
-thing." I was also keenly aware a 10mm caseless HE round in the wrong
-spot would quickly end this mission. The drones surged through the gap
+thing." I'm also keenly aware a 10mm caseless HE round in the wrong
+spot will quickly end this mission. The drones surge through the gap
 we'd cut in the door, only to be shredded three strides out. The assault
 ends quickly. Alice has kept a running count, eleven in total. Janice
-went back inside and retrieves our prize. Marco was busy sampling the
+creeps back inside and retrieves our prize. Marco is busy sampling the
 various fluids leaking from the drones. "This ain't good" I hear over
 the channel. "I've got a jar made out of that super material, it held
 the xeno blood for about five minutes." Looking over I see him holding
 up the jar, the bottom of it gone. "Team one, return to dust off point
 with specimen." At this Janice opens a channel just to me. "This is
 bullshit. Marco just showed them that their test jar couldn't stop
-their blood. Do you want to be on DeBe with that thing?" The honest
+their blood. Do you want to be on the DeBe with that thing?" The honest
 answer was no. "Command, this is Team 1 leader. Reporting that Marco's
 containment vessel failed. Requesting sit eval on return of specimen to
 DeBraso?" "We are aware of the situation" came the reply. It was easy
 to forget that all our video was being distributed across the ship into
-various war rooms. Minutes went by as we waited. Privately in our channel
-we mused about converstations were being had on the bridge. "Orders are as
+various war rooms. Minutes go by as we wait. Privately in our channel
+we muse about converstations being had on the bridge. "Orders are as
 follows. Restrain specimen to Marco's sled. Investigate transmitted grid
-location." Marco immediately went to his sled and unloaded additional
-ammo canistor and a spare portable reactor. Janice piped up in our side
-channel, "What the fuck is the plan?" "Dunno. Follow orders, go to grid
-locations." I said flatly. We secured the Xeno to Marco's sled as it
-hissed and snapped at us. As soon as the last tie down was cinched,
-it promptly trundles off over the horizon. We stowed ourselfes and the
+location." Marco immediately goes to his sled and unloads additional
+ammo canistors and a spare portable reactor. Janice pipes up in our side
+channel, "What the fuck is the plan?" "Dunno. Follow orders, go to the grid
+location." I said flatly. We secure the Xeno to Marco's sled as it
+hisses and snaps at us. As soon as the last tie down is cinched,
+it promptly trundles off over the horizon. We stowed ourselves and the
 supplies onto the remaining sleds. "That little one was weird, what was up
-with its head?" asked Marco. Both Janice and I said nothing. This whole
-thing was weird and getting weirder. The sleds grind through the mud
+with its head?" asks Marco. Both Janice and I say nothing. This whole
+thing is weird and getting weirder. The sleds grind through the mud
 leaving deep furrows as they chug towards our next objective. "Alice,
 please eject me." I said to the AI. Immediately my senses reverted back
 to the usuals. I hit the eject button and the visor slid back and I felt
