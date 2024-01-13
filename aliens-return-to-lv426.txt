@@ -908,13 +908,13 @@ but for a moment I swear I saw the classic head shake of disgust.
 Chapter 9.
 
 
-"Manual Ejection Triggered" popped up and faded as I found myself nose
+"External Ejection Triggered" pops up and fades as I found myself nose
 to nose with commander Robinson in my alcove.
 
 "We have a serious fucking problem now." starting his conversations in
 his usual manner.
 
-"How so?" I asked.
+"How so?" I ask.
 
 "Edgar heard that transmission and it's triggered some type of fail
 safe. We're locked out of all the major systems."
@@ -925,15 +925,15 @@ of the ships.
 "Alice, are you still online?" I asked aloud.
 
 "Affirmative. However, I have lost access to all ship systems." it
-replied.
+replies.
 
 "I take it you haven't heard of Project X1243?" I asked.
 
-"I have, but it was thought a failure." he replied. Janice, Roxxie and
-Ruvi popped their heads up.
+"I have, but it was thought a failure." he replies. Janice, Roxxie and
+Ruvi pop their heads up.
 
-"Sir, now might be time to put our cards on the table." I said. He
-climbed out of the pit and poured himself a cup of coffee and sat down
+"Sir, now might be time to put our cards on the table." I point out. He
+climbs out of the pit and pours himself a cup of coffee and sits down
 with a huff and waved us all over.
 
 "Everybody raise your right hands and solely swear that the information
@@ -942,20 +942,20 @@ this information to your graves."
 
 In unison we all said, "We solely swear."
 
-"Sit down." he said, and we did.
+"Sit down." he says, and we do.
 
 "It's not widely know, but we've found the damn xenos on lots of
 planets. Our grasp of bioengineering is good enough to know they were
 engineered by some other species. Used as a type of forward force to prep
 a planet. On many planets we've found eggs, just sitting there waiting
 dormant, on other planets entire civilizations destroyed, only swarms
-of drones left." he started.
+of drones left." he starts.
 
-We all took this in. We'd all been exposed to the "Brighter
+We all take this in. We'd all been exposed to the "Brighter
 futures!" propaganda. Colonizing the stars kept looking grimmer by
 the second.
 
-He continued. "Wayland Yutani bio-engineers started tinkering with the
+He continues. "Wayland Yutani bio-engineers started tinkering with the
 xeno's. The XNA that the xenos possess is remarkably malleable. Various
 research teams came up with proposals to harness this malleability. We
 figured if we can't out right destroy them, we'd co-op them. Once such
@@ -963,32 +963,33 @@ project was X1243. The idea was to turn the xenos into a controllable
 labor force. Given wide latitude, the usual ethical standards were
 applied."
 
-This brought a snicker from everybody. WY was well known to place
+This brings a snicker from everybody. WY is well known to place
 the success of a project over the lives of people, especially low
 level specialists. "It would appear this project has had some limited
-success." he finished. "I wonder what Edgar's orders were?" asked Roxxie.
+success." he finishes. "I wonder what Edgar's orders were?" asks Roxxie.
 
-"That I know. Upon entering orbit, it was to try to make contact with
-the scientists involved with the project. However, at last check they
-weren't even listening on subspace. Our take from that was when they
-made planetfall they'd simply been swarmed and destroyed.
+Robinson rugs his chin "That I know. Upon entering orbit, it was to
+try to make contact with the scientists involved with the project.
+However, at last check they weren't even listening on subspace.
+Our take from that was when they made planetfall they'd simply been
+swarmed and destroyed."
 
 I thought about the three simpler orders that Edgar had shown me. I
 wondered what the "simple" orders the commander had been shown and what
 the fuller set of orders actually were.
 
 This is the dangers of a cagey military AIs that had their agendas set
-by who knows who.
+by who knows who and given authority to accomplish those agendas.
 
 Robinson went to the door but the access light stayed red. He waved his
-hand a couple more times growing more frustrated. Finally he turned to
+hand a couple more times growing more frustrated. Finally he turns to
 us. "Can somebody run a bypass on this damn door so I can get back to
 the CIC?" he stammered.
 
-Marco stepped up and put his hand on the door.
+Marco steps up and put his hand on the door.
 
-"Sir, I believe opening this door would be a bad idea." he replied. "Why
-do you think that?" the commander asked.
+"Sir, I believe opening this door would be a bad idea." he replies. "Why
+do you think that?" the commander asks.
 
 "Sir, the door is ice cold. I believe this habitat spar has been
 vented." he replied.
@@ -996,12 +997,12 @@ vented." he replied.
 It made sense from a tactical point of view. The last thing as a computer
 you need is humans running around mucking with stuff.
 
-"Marco, isolate the door controls" I replied.
+"Marco, isolate the door controls" I reply.
 
-He nodded, opened the panel next to the door and started
+He nods, opens the panel next to the door and starts
 tinkering. "Alice, outside of our isolated pod do you have any data?" I
 asked. "No. I'm cut off from all our external data feeds originating
-from the Edgar." Alice replied.
+from the Edgar. I'm only getting data from automated systems." Alice replies.
 
 The DeBe despite it's impressive bulk was actually just a serious of
 stacked modules connected to four redundant load bearing spars that ran
@@ -1011,7 +1012,7 @@ jettisoned. Most modules contained some level of internal redundancy.
 
 "Alice, are any of our external sensors effected?" I asked.
 
-"No. All sensors and comms systems are operational."
+"No. All sensors and comms systems on our module are operational."
 
 Edgar had us on basic rations. Basically air, water and power.
 
@@ -1026,7 +1027,7 @@ I'm glad that it hadn't.
 
 "Regaining access to the ship I would imagine." replied the commander. The
 marine combat modules (MCM's) were very robust. Ships in their own right,
-they could be detached and left in orbit if need be. I envisioned them
+they could be detach and be left in orbit if needed. I envisioned them
 donning vac suits and using their airlocks to escape their module.
 
 "Sir, do they know where your current location is?" I asked. "Likely
@@ -1045,13 +1046,13 @@ between us and their air lock. I could shuffle okay with mag boots,
 they're probably better, I figure they'll be by our airlock in another
 fifteen or so minutes."
 
-The commander nodded along to this, "Probably fifteen or less. These
+The commander nods along to this, "Probably fifteen or less. These
 guys just got done doing zero-g drills the other day."
 
-Jeremy nodded at this. "I'll grab a light and head to the airlock and
-keep an eye out."
+Jeremy nods back. "I'll grab a light and head to the airlock and
+keep an eye out." At this he trots off at double speed.
 
-The commander snickered, "Real shame he decided to become a geek." To
+The commander snickers, "Real shame he decided to become a geek." To
 this the team all looked at each other and then back at the commander,
 it was clear he'd hit a nerve and realized it.
 
@@ -1065,7 +1066,7 @@ put in, it's just outside of our standards."
 I could see this entire converation going off the rails.
 
 "I definitely think this conversation is important, but right now let's
-focus on the problem at hand."
+focus on the problems at hand."
 
 Robinson could see I was saving his bacon a bit and picked up on the
 theme. "What are your current capabilites?" he asked.
@@ -1073,7 +1074,7 @@ theme. "What are your current capabilites?" he asked.
 We detailed our current load out and equipment on the ground as well as
 options for deploying our additional rockies shipside.
 
-Jeremy came jogging into the room with six marines in tow, helmets head
+Jeremy came jogging into the room with six marines in tow, helmets
 under arms.
 
 "Sir, I found these guys on our doorstep." replied Jeremy.
@@ -1086,54 +1087,66 @@ were assumed lost with the other people in the CIC. Glad to see you're
 alive. Both marine combat modulars are intacted. We've disabled the door
 controls to Edgar won't try to vent us."
 
-"Status of the other MCM module?" the commander asked. "Locked down as
+"Status of the other MCM module?" the commander asks. "Locked down as
 well. No word from those guys though our first priority was the CIC until
 we saw Jeremy flashing a light at us. Another weird thing you should know,
-one of the storage modules as extended weird looking antennae. We didn't
+one of the storage modules as extended large antennae. We didn't
 get near them. None of us knew what they were for."
 
 More secret squirrel bullshit was what it sounded like to me. "Roxxie,
 please investigate those antennas." I said. She nodded and headed towards
 the pit. "Alice, please put Roxxie's feeds up on the main wall." I
 said. "Roger that." replied Alice. In short order we got a view of
-Roxxie crabbing a rocky across the surface of the ship. Sure enough
-from one of the storage modules long spindly antenna had extended out
-several hundred meters. "Alice, identify." I asked aloud. "Unknown,
-does not fit any known antenna configuration." replied the AI. Janice
-spoke up "More project X1243 stuff I'd bet." I agreed on this part,
-there were more moving parts to this and I found myself with five cyber
-jockies, a handful of marines, a commanding officer and a tech nerd. The
-commander spoke up at this point. "Establish contact with the other
-MCM. Use tethers, who knows what those those antenna can pick up. See
-if you can get to the CIC and reestablish control of this ship." Jeremy
-hustled them back to the airlock. Reestablish control of the ship meant
-crippling Edgar. "Sir, was the subspace radio to earth ever brought
-back online?" I asked. "No son, I suspect without this, not much got
-fixed." he laughed and pulled out a credit card sized module from his
-pocket. Magnetically Intertwined Confined Particle. Everybody just
-calls them PIPs. I'm sure there's some other backronym for it, but it
-was why the deep space radio wasn't working. "I pulled it when we came
-out of transit." he quipped. "Why?" I asked. "Do you like having every
-one of your orders countermanded, debated, looked over, argued over from
-hundreds of light years away?" he asked. I could see his frustration, but
-I also knew this was an excuse. Janice spoke up, "Fine, we put that in
-one of our subspace radios and call home." I shook my head, "It doesn't
-work that way. It comes down to how many hawkings you can generate and
-create the tunnel. Our systems barely create a hundredth of a hawking, the
-DeBe's deep space transmitter generates a field in the hundreds." Jeremy
-spoke up, "Okay then, we put on vac suits and go install it." I laughed,
-"Ironically if we could tell Edgar we've got this, he'd probably let us
-install it." The commander scoffed, "He'd probably then lock the doors
-in the engine section and cook us." Then the alarms started sounding.
+Roxxie crabbing a rocky across the surface of the ship.
+
+Sure enough from one of the storage modules long spindly antenna had
+extended out several hundred meters. "Alice, identify." I asked aloud.
+"Unknown, does not fit any known antenna configuration." replied the AI.
+Janice speaks up at this, "More project X1243 stuff I'd bet." I agreed
+on this part, there were more moving parts to this and I found myself
+with five cyber jockies, a handful of marines, a commanding officer
+and a tech nerd.
+
+The commander speaks up at this point to the marines,
+"Establish contact with the other MCM. Use tethers, who knows what t
+hose those antenna can pick up. See if you can get to the CIC and
+reestablish control of this ship." At that Jeremy hustles them back
+to the airlock.
+
+Reestablish control of the ship meant crippling Edgar.
+"Sir, was the subspace radio to earth ever brought back online?" I ask.
+"No son, I suspect without this, not much got fixed." he laughs and pulls
+out a credit card sized module from his pocket.
+Magnetically Intertwined Confined Particle. There's a couple different
+acrnoyms for them. In subspace school we called them MICP's or Mikey's.
+Everybody here just calls them PIPs. I'm sure there's some other backronyms
+for it as well but it was why the deep space radio wasn't working.
+"I pulled it when we came out of transit." he quipped.
+"Why?" I asked.
+"Do you like having every one of your orders countermanded, debated,
+looked over, argued over from hundreds of light years away?" he asked.
+I could see his frustration, but I also knew this was an excuse.
+Janice spoke up, "Fine, we put that in one of our subspace radios and call home."
+I shook my head, "It doesn't work that way. It comes down to how many hawkings
+you can generate and create the tunnel. Our systems barely create a hundredth
+of a hawking, the DeBe's deep space transmitter generates a field in the hundreds."
+Jeremy spoke up, "Okay then, we put on vac suits and go install it." I laugh,
+"Ironically if we could tell Edgar we have this, he'll probably let us
+install it."
+The commander scoffs, "He'd probably then lock the doors
+in the engine section and cook us."
+I couldn't disagree with that logic.
+Then the alarms start sounding.
 
 
 Chapter 10.
 
 
 Alice went to full volume on all channels, "General breach alarm
-detected in science module." Janice throws her hands up, "How am I not
-surprised!" "Stow it." I say. "Roxxie, can you see anything outside?" I
-ask. "Yes. The marines just returned to the port side MCM. Sir, the
+detected in science module."
+Janice throws her hands up, "How am I not surprised!"
+"Stow it." I say. "Roxxie, can you see anything outside?" I ask.
+"Yes. The marines just returned to the port side MCM. Sir, the
 starboard MCM just detached and is tumbling." "Alice, any danger
 to us?" I ask. "No. Based on current trajectory, the module will
 enter the atmosphere in approximately two hours, eight minutes." The
