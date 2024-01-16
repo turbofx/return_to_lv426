@@ -1220,21 +1220,23 @@ is a question we are all wondering.
 Chapter 11.
 
 
-Immediately Robinson goes on the tether to the MCM, "Be advised there
-are possibly up to five xenos onboard. One pale and likely four standard
-drones." A voice I know well, Wikowsky comes back. "Roger that, motion
-trackers are deployed. We sent a fire team down the main spar a half
-an hour ago to attempt to access the CIC and disconnect Edgar. So far,
-no word. My only experience with somewhat sentient AI's was Alice. The
-fact that a four man fire team had been gone for half an hour and they
-weren't sending people out to look for them made think it wasn't going
-too well. Edgar had already depressurized the ship and apparently killed
-the crew in the CIC, I wondered idly what Alice might do if the mission
-parameters were more important than our lives. Roxxie speaks up, "I've
-got something." We turned our attention back to the feed. Roxxie's Rocky
-is holding a bulkhead hatch with long tear marks in it. "Looks like they
-decided to get into the utility spars." These damn things are clever,
-I'd give them that. The utility spars run the length of the ship. Tubes
+Immediately Robinson gets on the tether to the MCM,
+"Be advised there are possibly up to five xenos onboard. One pale and
+likely four standard drones." A voice I know well, Wikowsky comes back.
+"Roger that, motion trackers are deployed. We sent a fire team down
+the main spar a half an hour ago to attempt to access the CIC and
+disconnect Edgar. So far, no word. My only experience with somewhat
+sentient AI's was Alice. The fact that a four man fire team had been
+gone for half an hour and they weren't sending people out to look for
+them made think it wasn't going too well. Edgar had already depressurized
+the ship and apparently killed the crew in the CIC, I wondered idly
+what Alice might do if the mission parameters were more important than
+our lives.
+
+Roxxie speaks up, "I've got something." We turned our attention back to
+the feed. Roxxie's rocky is holding a bulkhead hatch with long tear marks
+in it. "Looks like they decided to get into the utility spars."
+These damn things are clever, I'd give them that. The utility spars run the length of the ship. Tubes
 of durasteel full of hand holds, cables and pipes, not created for a
 human to stroll down but for xenos who have a weird thing about climbing
 around in tight spaces, it's perfect. Immediately my mind begins to work
@@ -1534,8 +1536,3 @@ closed, sections are re-pressurized. Finally we start to get a handle
 on the ship. Getting home without Edgar is going to be complicated, but
 that's a bridge we'll burn when we get there. Robinson makes a show of
 it returning to the CIC like a triumphant hero.
-
-
-
-
-
