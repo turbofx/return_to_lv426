@@ -1194,7 +1194,7 @@ account for the other xeno material." We stop and looked at the tech. He
 turns and looks at the commander who nods. "After you cleared out the
 processing plant we found several intact eggs. We encased them and were
 brought onboard with the xeno." Marc lets out a slow and exaggerated
-"Fuck." I don't disagree with that sentiment. "How many is several?" I
+"Ffuucckk." I don't disagree with that sentiment. "How many is several?" I
 ask. "Four." the tech replies. "Hopefully encased in something stronger
 that first container." Marco quips. "Yes. A resin embedded with micro
 particles of a strong base to neutralize the xenos acid." the tech
@@ -1266,48 +1266,57 @@ our lives.
 Roxxie speaks up, "I've got something." We turned our attention back to
 the feed. Roxxie's rocky is holding a bulkhead hatch with long tear marks
 in it. "Looks like they decided to get into the utility spars."
-These damn things are clever, I'd give them that. The utility spars run the length of the ship. Tubes
-of durasteel full of hand holds, cables and pipes, not created for a
-human to stroll down but for xenos who have a weird thing about climbing
-around in tight spaces, it's perfect. Immediately my mind begins to work
-and worry about the ingress points to this module. I speak up, "Roxxie,
-see if you can get to the habitat spar and aid the other marines." "Roger
-that. I'll keep you posted." comes a reply. I have three rockies on the
-ground, one in the science lab and two more currently in the maintenance
-bay as well as two more as assembled spares and enough parts to probably
-get a couple more up and running. I looked at Ruvi, "Jack in and get your
-rocky positioned in front of the panel to the utility access." I don't
-even get a "yes sir" before Ruvi takes off for the pit to jack in. I can
-see the look on the commanders face, he'd have chewed someone out for
-such a lack of protocol. My module, my rules. The problem I have now is
-a lack access to the cameras in the habitable spars. I know they were
-depressurized but I didn't know what was going on. Alice breaks this
-train of thought. "Sir, there's a radio call coming in on the surface
-directed to you." "From who?" I asked. "Origin unknown, triangulated to
-a surface transmitter six hundred and fifty meters from rocky one, the
+
+These damn things are clever, I'd give them that. The utility spars run
+the length of the ship. Tubes of durasteel full of hand holds, cables and
+pipes, not created for a human to stroll down but for xenos who have a
+weird fetish about climbing around in tight spaces, it's perfect.
+Immediately my mind begins to work and worry about the ingress points
+to this module. I speak up, "Roxxie, see if you can get to the habitat
+spar and aid the other marines." "Roger that. I'll keep you posted."
+comes a reply. I have three rockies on the ground, one in the science
+lab and two more currently in the maintenance bay as well as two more
+as assembled spares and enough parts to probably
+get a half dozen more up and running.
+
+I looked at Ruvi, "Jack in and get your rocky positioned in front of the
+panel to the utility access." I don't even get a "yes sir" before Ruvi
+takes off for the pit to jack in. I can see the look on the commanders
+face, he'd have chewed someone out for such a lack of protocol. My module,
+my rules. The problem I have now is a lack access to the cameras in
+the habitable spars. I know they were depressurized but I didn't know
+what was going on. Alice breaks this train of thought.
+
+"Sir, there's a radio call coming in on the surface directed to you."
+"From who?" I asked. "Origin unknown, triangulated to a surface
+transmitter six hundred and fifty meters from rocky one, the
 message is repeating." Alice replies. "Play it" I say. Immediately the
-room is filled with the voice I'd spoken to earlier. "This message is
-for Hurgs. Please contact us on this frequency, ASAP." Alice then says,
-"The message just repeats." "Alice, what is the current location of our
-rockies in relation to the cave we were in earlier?" I ask. "Approximately
-nine hundred and fifty meters." it replies. I'd been ejected as the
-carry all had lifted off, I didn't actually know where my rocky was. I
-drop into my cradle and initiate a fast jack as it's called. I find
-myself on the sled on a low plateau, the storm in the north seems even
-angrier than the last time I'd jacked in. Because of the fast jack, not
-everything is fully synced up yet. Details are still filling in. Waves
-of rain lash across the sensor bulb. Ironically this rocky literally
-has everything, but lacks wipers, blowers or sonics to keep the rain
-off. I bring the radio online and boost its power to the max. I also
-configure the channels so that my audio will bounce into the meeting
-room. "This is Hurgs responding." I watch as a timer ticks. Thirty
-seconds elapse. "I repeat this is 1st class cyper specialist Hurgs." Then
+room is filled with the voice I'd spoken to earlier.
+"This message is for Hurgs. Please contact us on this frequency, ASAP."
+Alice then says, "The message just repeats."
+"Alice, what is the current location of our rockies in relation to
+the cave we were in earlier?" I ask. "Approximately nine hundred and
+fifty meters." it replies. I'd been ejected as the carry all had lifted
+off, I didn't actually know where my rocky was. I drop into my cradle
+and initiate a fast jack as it's called.
+
+I find myself on the sled on a low plateau, the storm in the north
+seems even angrier than the last time I'd jacked in. Because of the
+fast jack, not everything is fully synced up yet. Details are still
+filling in. Waves of rain lash across the sensor bulb. Ironically
+this rocky literally has everything, but lacks wipers, blowers or
+sonics to keep the rain off. I bring the radio online and boost
+its power to the max. I also configure the channels so that my audio
+will bounce into the meeting room.
+
+"This is Hurgs responding." I watch as a timer ticks. Thirty
+seconds elapse. "I repeat this is PFC cyper specialist Hurgs." Then
 I hear it, a faint crackle, then the power boosts up. "Hurgs, we hear
 you. What have you guys done? The drones have gone crazy!" the voice says
 faintly. "Sir, please explain." I say. "After our last message, I called
-the controllers to clean up the the mess you made with your robots. Things
-went normally, then suddenly the controllers stopped responding to
-our commands. Drones attempted to breach our compounds. We've stayed
+the controllers to clean up the the mess you made with your robots.
+Things went normally, then suddenly the controllers stopped responding
+to our commands. Drones attempted to breach our compounds. We've stayed
 secure but we've lost contact with the beta site and the main habitat
 site." In my ear I hear Janice on a side channel, "I don't think any
 of this is a coincidence." I agree. The mentioning of project X1243,
@@ -1316,104 +1325,128 @@ drones, the controllers, the opened confinement cell and the smashed
 eggs. "Okay. I'm about a klick away from the entrance to your tunnel,
 do you need me to clean that tunnel out?" I ask. "No currently there
 only a handful of drones and a single controller. Once they were unable
-to breach our defenses the mass of them left." the voice replies. "We
-found the location of the beta site, where is the location of your main
-habitat compound?" At this there is a pause, I'm sure there are others in
+to breach our defenses they left." the voice replies. "We found the
+location of the beta site, where is the location of your main habitat
+compound?" At this there is a pause, I'm sure there are others in
 the background likely not that excited to give away such a vital piece
-of intel. To me, this pause seems crazy. I open a side channel to the
-main room with the commander. "Robinson, should I let them know about
-what's going on the Debe?" I ask. A pause at our end this time.. "No. We
-don't know these people or their capabilities. I have no reason to trust
-these people. This guy, who I should remind you hasn't told us his name,
-said a magic word that managed to fuck us up and get more than a couple
-marines killed." came the response. I had to grudgingly agree with the
-commander. Shit truly had gone sideways once he said the project name. On
-the other hand it looked like his goose was getting cooked as well. "Okay
-Hurgs, the main habitat is about 250km north of this current location at
+of intel. To me, this pause seems crazy.
+
+I open a side channel to the main room with the commander.
+"Robinson, should I let them know about what's going on the Debe?" I ask.
+A pause at our end this time.. "No. We don't know these people or
+their capabilities. I have no reason to trust these people. This guy,
+who I should remind you hasn't told us his name, said a magic word that
+managed to fuck us up and get more than a couple marines killed." came
+the response. I had to grudgingly agree with the commander. Shit truly
+had gone sideways once he said the project name. On the other hand it
+looked like his goose was getting cooked as well. "Okay Hurgs, the main
+habitat is about 250km north of this current location at
 the base of a formation we call "Hadley's chin." Immediately Alice brings
 up a topo map and it was clear why they called it that. A prominence of
-rock, wide and square. "I see it on the topo map. There's serious storm
-brewing though." I reply. "Yes. The queens crown we call it. A product
+rock, wide and square.
+
+"I see it on the topo map. There's serious storm
+brewing though." I reply.
+
+"Yes. The queens crown we call it. A product
 of the original detonation, the storm has been raging for a couple of
 decades, we're now in the season when it really ramps up. Between it and
-the xeon's it's why we ended up under ground. Hurgs, you asked before,
-the names Zeigler." comes a reply. "Glad to finally put a name to the
-voice, I'm going to investigate the beta site and we'll get people to
-the habitat." I say. "Thanks. Keep me posted." he replies. At that the
-comm channel goes dead. "Alice, please plot a course to the beta site,
+the xeno's it's why we ended up under ground. Hurgs, you asked before,
+the names Zeigler." comes a reply.
+
+"Glad to finally put a name to the voice, I'm going to investigate the
+beta site and we'll get people to the habitat." I say.
+"Thanks. Keep me posted." he replies. At that the
+comm channel goes dead.
+
+"Alice, please plot a course to the beta site,
 let me know when rocky one is five hundred meters out." I say. "Roger
-that. Course plotted. ETA nineteen minutes. My mind registered that was
-fifty six point eight kilometers an hour. Gotta love implants. I eject
-from the cradle, climb out of the pit and head back to the conference
-room. "Zeigler, eh? Didn't expect to find that mother fucker on this
+that. Course plotted. ETA nineteen minutes. My mind registeres that is
+a steady fifty six point eight kilometers an hour. Gotta love implants!
+I eject from the cradle, climb out of the pit and head back to the
+conference room.
+
+"Zeigler, eh? Didn't expect to find that mother fucker on this
 rock." laughs the commander. That's going to merit some explanation. I
 grabbed a cup of coffee, a snack packet and pain meds. Fast jacking is a
 sure fire way to end up in bed stunned if you do it too often. Already
 I could feel the tightness in my temples and I have a slight tremor in
-my left arm. The commander looked at my arm and then me. I simply shrug,
-"Dangers of cybernetics." "So who is this Zeigler guy you seem so fond
-of?" I ask. To this, the commander just laughs. "Oh Mike and I go way
-back, you could say we haven't seen eye to eye about the xenomorphs since
-day one." The prospect of story time brings people to the table. Seeing
-that he had an audience, the commander sits back and folds his hands
-across his chest. "Dr. Mike Ziegler is a brilliant scientist who
-falls into the category of men too consumed with the could, they never
-stop to ask if they should. To him, he sees the xenomorph and their
-straightforward bio-engineering as an opportunity. He calls it a gift
-from the gods. He's convinced he can tame the damn things, use them as
-a labor force, communicate with them. I attended more than a half dozen
-proposals where he spoke of using what they'd learned to create a whole
-bestiary of creatures that can work in conditions we wouldn't even want
-to send robots. Based on what you've reported, it appears he's had some
-success, and based on his latest radio messages, as usual when dealing
-with the xenomorph's invariably these scientists bite off more than they
-can chew." at that he puts his hands on the table. Turning to me, he says
-sternly, "This guy is a snake in the grass. Results driven to a level that
-would make Wayland VP blush, he's shrewd and smart. To quote an old North
-American thing that they used to say before they'd arrest you, everything
-you say can and will be used against you. Think before you speak. Whatever
-his charter was with project X1243, the only info I had was that we were
-to make contact. The details were entirely lacking. I don't even know
-how many people are here or where was his charter." I nod taking this
-in. "So this scientist is some kinda of megalomanic loon who will stop at
-nothing until he creates super xenos?" I laugh. Robinson just shakes his
-head, "You've already seen the leader xeno's. He's already doing that,
-who knows what other horrors he's cooked up." Janice who'd sat silent
-spoke up, "I'd like to know how he's communicating with them." Alice
-broke in, "The secondary MCM has made landfall successfully. On the
-screen the location was plotted. It put it nearly fifty klicks from
+my left arm. The commander looks at my arm and then me. I simply shrug,
+"Dangers of cybernetics." I laugh.
+
+"So who is this Zeigler guy you seem so fond of?" I ask.
+To this, the commander just laughs.
+
+"Oh Mike and I go way back, you could say we haven't seen eye to eye
+about the xenomorphs since day one." The prospect of story time brings
+people to the table. Seeing that he had an audience, the commander sits
+back and folds his hands across broad his chest.
+"Dr. Mike Ziegler is a brilliant scientist who falls into the category
+of men too consumed with the could, they never stop to ask if they should.
+To him, he sees the xenomorph and their straightforward bio-engineering
+as an opportunity. He calls it a gift from the gods. He's convinced he
+can tame the damn things, use them as a labor force, communicate with
+them. I attended more than a half dozen proposals where he spoke of using
+what they'd learned to create a whole bestiary of creatures that can work
+in conditions we wouldn't even want to send robots. Based on what you've
+reported, it appears he's had some success, and based on his latest radio
+messages, as usual when dealing with the xenomorph's invariably these
+scientists bite off more than they can chew." at that he puts his hands
+on the table.
+
+Turning to me, he says sternly, "This guy is a snake in the grass. Results
+driven to a level that would make Wayland VP blush, he's shrewd and smart.
+To quote an old North American thing that they used to say before they'd
+arrest you, everything you say can and will be used against you. Think
+before you speak. Whatever his charter was with project X1243, the only
+info I had was that we were to make contact. The details were entirely
+lacking. I don't even know how many people are here or where was his
+charter. Hell, I didn't he was here. To be fair my first inclination
+would have been to nuke the entire site from orbit on principle!"
+I nod taking this in. "So this scientist is some kinda of megalomanic
+loon who will stop at nothing until he creates super xenos?"
+I laugh. Robinson just shakes his head, "You've already seen the leader
+xeno's. He's already doing that, who knows what other horrors he's
+cooked up." Janice who'd sat silent speaks up, "I'd like to know how
+he's communicating with them."
+
+Alice breaks in, "The secondary MCM has made landfall successfully. On
+the screen the location was plotted. It put it nearly fifty klicks from
 the entry to the main habitat site." Marco quipped, "Geez, if anybody
 is still alive in that module, the last twenty minutes must have
-felt like a ride in an auto dryer." "Any comms from the module?" I ask
-Alice. "No. Emergency beacon only. However, the module may be transmitting
-on low power. I lack resources to evaluate that." came the reply. I turn
-to Jeremy. "Prep your rocky to drop near that module." Jeremy replies
+felt like a ride in an auto dryer."
+"Any comms from the module?" I ask Alice.
+"No. Emergency beacon only. However, the module may be transmitting
+on low power. I lack resources to evaluate that." comes the reply. I turn
+to Jeremy. "Prep and drop your rocky on that module." Jeremy replies
 with a crisp "Yes Sir." and makes haste to the pit. The commander nods
-approvingly. "What's your plan?" asked the commander. "That MCM is full
-of weapons and hopefully functional marines. Worse case we can hand
-out weapons to civvis, best case, we'll have functional marines and
-we'll hand out weapons to civvis." "I'm hearing a lot of hope in that
-plan." Robinson noted. That was the truth. If dozens and dozens of xenos
-decide to storm your position, short of a tactical nuke, your options
+approvingly. "What's your plan?" asked the commander.
+
+"That MCM is full of weapons and hopefully functional marines. Worse
+case we can hand out weapons to civvis, best case, we'll have functional
+marines and we'll hand out weapons to civvis." "I'm hearing a lot of hope
+in that plan." Robinson notes. That is the truth. If dozens and dozens of
+xenos decide to storm your position, short of a tactical nuke, your options
 run out quickly. But the MCM did have point defense weapons that could
-easily shred a xeno. Hope is all I'm running on at this point. "Sir,
-I've landed a hundred meters from the MCM. Landing struts deployed,
-it looks functional." Jeremy's voice came over the comms. "Any sign of
-marines?" asked Robinson. "Negative." replied Jeremy. On the main screen
+easily shred a xeno. Hope is all I'm running on at this point.
+
+"Sir, I've landed a hundred meters from the MCM. Landing struts deployed,
+it looks functional." Jeremy's voice comes over the comms. "Any sign of
+marines?" asks Robinson. "Negative." replies Jeremy. On the main screen
 Jeremy's rocky approaches the MCM. Pops and clicks as the module cools
 aided by the driving rain flashing to steam as it touches the heat shields
-on the module. Approaching the main airlock, it was apparent there had
+on the module. Approaching the main airlock, it is apparent there had
 been a hell of a fight inside. Jeremy punches an override code into the
 airlock and both doors open. Out of the airlock a drone launches itself
 at the rocky. The machine rocks back from the blow, brings its heavy
-manipulators up and slams the drone into the ground. He dragged the
+manipulators up and slams the drone into the ground. He drags the
 drone away from the airlock, kicking and thrashing. Pinning it to the
-ground, he puts a single ten mil armor piercing round through its head,
-it's green blood splashes the ground and sizzles. I had to give Jeremy
-credit for the brutal efficiency of it. We'd had two weeks of slogging
-through drones. Dozens of times they'd leapt on the Rockies. While the
+ground, he puts a single ten mil AP round through its head, it's green
+blood splashes the ground and sizzles. I had to give Jeremy credit for
+the brutal efficiency of it. We'd had two weeks of slogging through
+drones. Dozens of times they'd leapt on the Rockies. While the
 commander and the tech had jumped we hadn't. Just another horrifying
-day at the office. Laughing he zoomed into the shoulder of the drone,
+day at the office. Laughing he zooms into the shoulder of the drone,
 an ugly gash from below the neck to the armpit. "God Damn! That's the
 work of a vibrablade!" The commander grinned. His marines had put up a
 fight. Climbing into the MCM, it's a scene. Two dead marines lay on the
