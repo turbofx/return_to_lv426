@@ -1022,7 +1022,7 @@ hand a couple more times growing more frustrated. Finally he turns to
 us. "Can somebody run a bypass on this damn door so I can get back to
 the CIC?" he stammered.
 
-Marco steps up and put his hand on the door.
+Marco steps up and put the back of his hand against the door.
 
 "Sir, I believe opening this door would be a bad idea." he replies. "Why
 do you think that?" the commander asks.
@@ -1041,46 +1041,46 @@ asked. "No. I'm cut off from all our external data feeds originating
 from the Edgar. I'm only getting data from automated systems." Alice replies.
 
 The DeBe despite it's impressive bulk was actually just a serious of
-stacked modules connected to four redundant load bearing spars that ran
+stacked modules connected to four redundant load bearing spars that run
 the length of the ship. Two klicks long with hard points every fifty
-meters for various modules. Modules could be isolated, disconnected or
-jettisoned. Most modules contained some level of internal redundancy.
+meters or so for various modules. Modules can be isolated, disconnected or
+jettisoned. Most modules contain some level of internal redundancy.
 
 "Alice, are any of our external sensors effected?" I asked.
 
-"No. All sensors and comms systems on our module are operational."
+"No. All sensors and comms systems in and on our module are operational."
 
-Edgar had us on basic rations. Basically air, water and power.
+Edgar has us on basic rations. Basically air, water and power.
 
 "Alice, using our sensors, can you assess the state of the ship?" I
-asked. A couple moments passed as Alice processes the data.
+ask. A couple moments passed as Alice processes the data.
 
 "At present the DeBraso is configured as designated in the initial
 manifest." My fears that Edgar had simply dumped the modules overboard,
 I'm glad that it hadn't.
 
-"What do you think your marines are up to?" asked Ruvi.
+"What do you think your marines are up to?" asks Ruvi.
 
-"Regaining access to the ship I would imagine." replied the commander. The
-marine combat modules (MCM's) were very robust. Ships in their own right,
+"Regaining access to the ship I would imagine." replies the commander. The
+marine combat modules (MCM's) are very robust. Ships in their own right,
 they could be detach and be left in orbit if needed. I envisioned them
 donning vac suits and using their airlocks to escape their module.
 
-"Sir, do they know where your current location is?" I asked. "Likely
-no. They'll head for the CIC first." he replied. Alice spoke up, "I
-haven't picked up any transmissions on tactical channels." The commander
-spoke aloud, "I doubt you would. I suspect when the doors slammed shut
-they assumed Edgar went bug nuts and they're talking on a tether or
-tight beam."
+"Sir, do they know where your current location is?" I ask. "Likely
+no. They'll head for the CIC first." he replies. Alice interjects, "I
+haven't picked up any transmissions on tactical channels." At this the
+commander nods, "I doubt you would. They're following SOP. I suspect
+when the doors slammed shut they assumed Edgar went bug nuts and
+they're talking on a tether or tight beam."
 
-Jeremy added to the conversation. He was the only member of our team
+Jeremy adds to the conversation. He was the only member of our team
 who'd started as a marine and moved over to the Cyber team. "It's only
 been twenty minutes. I figure a couple minutes for them to figure what's
 going on, five to don vac suits, five to get to the edge of their module,
-their module is to port side and there are four hundred meters of storage
-between us and their air lock. I could shuffle okay with mag boots,
-they're probably better, I figure they'll be by our airlock in another
-fifteen or so minutes."
+the modules are in the same spare segment port and starboard side and there
+are five hundred meters of storage between us and the air locks. I can
+shuffle okay with mag boots, they're probably better, I figure they'll
+be by our airlock in another fifteen or so minutes."
 
 The commander nods along to this, "Probably fifteen or less. These
 guys just got done doing zero-g drills the other day."
@@ -1089,8 +1089,8 @@ Jeremy nods back. "I'll grab a light and head to the airlock and
 keep an eye out." At this he trots off at double speed.
 
 The commander snickers, "Real shame he decided to become a geek." To
-this the team all looked at each other and then back at the commander,
-it was clear he'd hit a nerve and realized it.
+this the team all look at each other and then back at the commander,
+it was clear he'd hit a nerve and realizes it.
 
 He blew his cheeks out in his classic fashion, "He was a good marine,
 it just seemed and odd choice."
@@ -1104,109 +1104,127 @@ I could see this entire converation going off the rails.
 "I definitely think this conversation is important, but right now let's
 focus on the problems at hand."
 
-Robinson could see I was saving his bacon a bit and picked up on the
+Robinson could see I was saving his bacon a bit and picks up on the
 theme. "What are your current capabilites?" he asked.
 
-We detailed our current load out and equipment on the ground as well as
+We detail our current load out and equipment on the ground as well as
 options for deploying our additional rockies shipside.
 
-Jeremy came jogging into the room with six marines in tow, helmets
+Jeremy come jogging into the room with six marines in tow, helmets
 under arms.
 
 "Sir, I found these guys on our doorstep." replied Jeremy.
 
 The commander turned to the marines. "Status report."
 
-The lead marine started in, "Both habitable spars are vented to
+The lead marine starts in, "Both habitable spars are vented to
 space. Three guys are MIA, presumed lost. The CIC was also vented, you
 were assumed lost with the other people in the CIC. Glad to see you're
 alive. Both marine combat modulars are intacted. We've disabled the door
 controls to Edgar won't try to vent us."
 
 "Status of the other MCM module?" the commander asks. "Locked down as
-well. No word from those guys though our first priority was the CIC until
-we saw Jeremy flashing a light at us. Another weird thing you should know,
-one of the storage modules as extended large antennae. We didn't
-get near them. None of us knew what they were for."
+well. We knocked on the door and they knocked back. Our first priority was
+the CIC until we saw Jeremy flashing out "SOS" with a light at us.
+Another weird thing you should know, one of the storage modules as
+extended large diamond shaped antennae. We didn't get near them. None
+of us knew what they were for."
 
 More secret squirrel bullshit was what it sounded like to me. "Roxxie,
-please investigate those antennas." I said. She nodded and headed towards
+please investigate those antennas." She nodded and headed towards
 the pit. "Alice, please put Roxxie's feeds up on the main wall." I
-said. "Roger that." replied Alice. In short order we got a view of
-Roxxie crabbing a rocky across the surface of the ship.
+say. "Roger that." replies Alice. I smile as the Marines look around
+momentarily before realizing that our modules has it's own AI.
+In short order we got a view of Roxxie crabbing her rocky across
+the surface of the ship.
 
 Sure enough from one of the storage modules long spindly antenna had
-extended out several hundred meters. "Alice, identify." I asked aloud.
-"Unknown, does not fit any known antenna configuration." replied the AI.
-Janice speaks up at this, "More project X1243 stuff I'd bet." I agreed
-on this part, there were more moving parts to this and I found myself
-with five cyber jockies, a handful of marines, a commanding officer
-and a tech nerd.
+extended out several hundred meters. "Alice, please identify." I ask
+aloud. "Unknown, does not fit any known antenna configuration in my
+databanks" replies the AI.
+Janice speaks up at this, "More project X1243 stuff I'd bet."
+I agreed on this part, there were more moving parts to this and I've
+now found myself with five cyber jockies, a handful of marines, a
+commanding officer and a tech nerd.
 
 The commander speaks up at this point to the marines,
-"Establish contact with the other MCM. Use tethers, who knows what t
-hose those antenna can pick up. See if you can get to the CIC and
+"Establish contact with the other MCM. Use tethers, who knows what
+those those antenna can pick up. See if you can get to the CIC and
 reestablish control of this ship." At that Jeremy hustles them back
 to the airlock.
 
-Reestablish control of the ship meant crippling Edgar.
+Reestablish control of the ship means crippling Edgar.
 "Sir, was the subspace radio to earth ever brought back online?" I ask.
-"No son, I suspect without this, not much got fixed." he laughs and pulls
-out a credit card sized module from his pocket.
-Magnetically Intertwined Confined Particle. There's a couple different
-acrnoyms for them. In subspace school we called them MICP's or Mikey's.
-Everybody here just calls them PIPs. I'm sure there's some other backronyms
-for it as well but it was why the deep space radio wasn't working.
-"I pulled it when we came out of transit." he quipped.
+He laughs and pulls out a credit card sized module from his pocket.
+"I doubt without this, much got fixed."
+He's holding a Magnetically Intertwined Confined Particle. There's a
+couple different acrnoyms for them. In subspace school we called them
+MICP's or Mikey's. Everybody here just calls them PIPs. I'm sure there's
+some other backronyms for it as well but it was why the deep space radio
+wasn't working.
+"I pulled it when we came out of transit." he notes.
 "Why?" I asked.
 "Do you like having every one of your orders countermanded, debated,
-looked over, argued over from hundreds of light years away?" he asked.
+looked over, argued over from hundreds of light years away?" he asks.
 I could see his frustration, but I also knew this was an excuse.
-Janice spoke up, "Fine, we put that in one of our subspace radios and call home."
-I shook my head, "It doesn't work that way. It comes down to how many hawkings
-you can generate and create the tunnel. Our systems barely create a hundredth
-of a hawking, the DeBe's deep space transmitter generates a field in the hundreds."
-Jeremy spoke up, "Okay then, we put on vac suits and go install it." I laugh,
-"Ironically if we could tell Edgar we have this, he'll probably let us
+Janice speaks up, "Fine, we put that in one of our subspace radios and
+call home."
+I shake my head, "It doesn't work that way. It comes down to how many
+hawkings you can generate to create the tunnel. Our modules systems barely create
+a hundredth of a hawking, the DeBe's deep space transmitter generates a field
+in the hundreds."
+Jeremy speaks up, "Okay then, we put on vac suits and go install it." To this
+I laugh, "Ironically if we tell Edgar we have this, he'll probably let us
 install it."
-The commander scoffs, "He'd probably then lock the doors
+The commander then scoffs, "He'd probably then lock the doors
 in the engine section and cook us."
 I couldn't disagree with that logic.
-Then the alarms start sounding.
+To accent his point, the the alarms start sounding.
 
 
 Chapter 10.
 
-
-Alice went to full volume on all channels, "General breach alarm
-detected in science module."
+Klaxons echo through the module, every light pulses bright red.
+Alice goes to full volume on all channels, "General breach alarm
+detected in science module!"
 Janice throws her hands up, "How am I not surprised!"
+"Alice, kill the alarm!" I howl. Immediately the alarms cut out.
 "Stow it." I say. "Roxxie, can you see anything outside?" I ask.
-"Yes. The marines just returned to the port side MCM. Sir, the
-starboard MCM just detached and is tumbling." "Alice, any danger
-to us?" I ask. "No. Based on current trajectory, the module will
-enter the atmosphere in approximately two hours, eight minutes." The
-AI replies. "Alice, any more alerts?" I ask. Alice pipes back in,
-"No. Just the repeating breach alarm." "Roxxie can you see any of the
-air locks?" I ask. "Sir, its tumble is slow, I can see if the airlocks
-are intact." she replies. "That doesn't look like a very controlled
-detach." I point out. "No. I wouldn't expect Marines to do that. They've
-got plenty of firepower, I'd expect them to deal with the xeno." replies
-the commander. "Sir, I've got a visual on airlock number one." Roxxie
-calls out. On the screen we could see the airlock and what clearly
+"Yes. The marines went to the CIC module but were unable to open
+the door. They just returned to the port side MCM. Sir, the
+starboard MCM just detached and is tumbling."
+"Alice, any danger to us?" I ask.
+"No. Based on current trajectory, the module will enter the
+atmosphere in approximately two hours, eight minutes." The
+AI replies.
+"Alice, any more alerts?" I ask. Alice pipes back in,
+"No. Just the repeating breach alarm."
+"Alice, Any idea what tripped it?" I ask.
+"Unknown. Unable to access ship net." replies Alice.
+"Roxxie can you see any of the air locks?" I ask.
+"Sir, its tumble is slow, on next rotation I will see if the airlocks
+are intact." she replies.
+"That doesn't look like a very controlled detach." I point out.
+"No. I wouldn't expect Marines to do that. They've got plenty of
+firepower, I'd expect them to deal with the xeno." replies
+the commander.
+"Sir, I've got a visual on airlock number one." Roxxie calls out.
+On the screen we could see the airlock and what clearly
 is blood splattered on the inside. "Maybe they ditched to isolate the
-xeno?" Jeremy asks. At this the tech spoke up, "Possibly. That doesn't
-account for the other xeno material." We stop and looked at the tech. He
-turns and looks at the commander who nods. "After you cleared out the
-processing plant we found several intact eggs. We encased them and were
-brought onboard with the xeno." Marc lets out a slow and exaggerated
-"Ffuucckk." I don't disagree with that sentiment. "How many is several?" I
+xeno?" Jeremy asks. At this the tech spoke up,
+"Possibly. That doesn't account for the other xeno material."
+We stop and looked at the tech. He turns and looks at the commander
+who nods. "After you cleared out the processing plant we found several
+intact eggs. We encased them and they were brought onboard with the xeno."
+Marc lets out a slow and exaggerated "Ffuucckk."
+I don't disagree with that sentiment. "How many is several?" I
 ask. "Four." the tech replies. "Hopefully encased in something stronger
 that first container." Marco quips. "Yes. A resin embedded with micro
-particles of a strong base to neutralize the xenos acid." the tech
-replies. I could see the team mulling this over. "This material was
-tested?" asks Marco. The tech shrugs, "I was told it would hold them." "We
-need to get into that module and assess the situation." I order. Robinson
+particles of a strong base capale of  neutralizing the xenos acid." the
+tech replies. I could see the team mulling this over.
+"This material was tested?" asks Marco. The tech shrugs,
+"I was told it would hold them." "We need to get into that module and
+assess the situation." I order. Robinson
 could see that I am starting to take charge and wants to make sure he was
 still the top dog. Nodding along, "This module is your show, I'm going to
 get over into the other MCM and see what I can do from there. Use your
@@ -1215,33 +1233,34 @@ our MCM via the tether." "What about the other MCM?" asks Janice. "It's
 got power, while the tumble is uncontrolleed once atmospheric drag
 starts automatic systems will engage, it'll land of it's own accord. I
 need to worry about the here and now. Figure out what's going on in
-that science module." Roxxie spoke up, "Sir, permission to proceed to
+that science module." Roxxie speaks up, "Sir, I'm proceeding to
 the science module and breech if needed?" I look at the commander, he
 nods. "Permission granted." I say. Despite the commanders talk of heading
 over to the other MCM, he sats down and watchs Roxxie's feed. In that
 moment I think he realizes likely the safest spot to be is here. Crawling
-on the nadar side of the ship she mades her way to the science section
+on the nadar side of the ship she makes her way to the science modules
 external hard point and airlock. Extending her smaller dexterous hands
-she manipulates the controls, when that failed she override the controls
-and entered the airlock closing the external door behind her. Carefully
+she manipulates the controls, when that fails she overrides the controls
+and enters the airlock closing the external door behind her. Carefully
 she opens the inner door, to cavernous darkness. Immediately shifting
-to infrared she launches a drone. The science module is a mess. Drawers
+to infrared, she launches a drone. The science module is a mess. Drawers
 ripped open, lab equipment strewn across counters and floor. It looks like
-it had been and ugly fight. The tech who I now knew as Eric quietly says,
-"The eggs are stored in the room to your right." Roxxie extended one of
-her larger manipulator arms and opens the door a crack to allow the drone
-in. The drone does a juke and slipped through the crack. Against the far
+it had been an ugly fight. The tech who I now knew as Eric quietly says,
+"The eggs are stored in the room to your right." Roxxie extends one of
+her large manipulator arms and opens the door a crack to allow the drone
+in. The drone does a juke and slips through the crack. Against the far
 wall four isolation chambers are lit by a blue lights. The four containers
 smashed, the eggs open, the petal peeled back, their horrifying contents
-missing. "You getting this?" asked Roxxie. "Five by five." I replied. "So
-much for your fucking wonder material" huffs Marco. Roxxie opens the door
-and the drone flies out, laser and doppler mapping as it goes. Roxxie
+missing. "You getting this?" asked Roxxie. "Five by five." I reply.
+"So much for your fucking wonder material" huffs Marco. Roxxie opens the
+door and the drone flies out, laser and doppler mapping as it goes. Roxxie
 moves her rocky deeper into the science module. "How many people were
 in this module?" she asks. "Fourteen" I reply. Across the hall the
-holding cell was open, the pale xeno missing. "No signs it forced its way
-out." Roxxie notes. Alice speaks up, "MCM 2 has reoriented and is firing
-retros for re-entry. I've plotted its approximate landing site." "Let
-us known when it's landed." I replied. Deeper into the science module,
+holding cell is open, the pale xeno missing.
+"No signs it forced its way out." Roxxie notes.
+Alice speaks up, "MCM 2 has reoriented and is firing
+retro rockets for re-entry. I've plotted its approximate landing site."
+"Let us known when it's landed." I reply. Deeper into the science module,
 the xeno had converted a meeting room into a hatchery. Four people are
 cocooned against the wall. All dead, their chests burst open.
 
@@ -1656,7 +1675,119 @@ of my hair.
 
 Chapter 12.
 
-"Hurgs, hurry up!!" I hear over the radio.
-Alice has now unlocked the safties and it running the reactor at a hundred
-and eighteen percent of safe power output.
-Janice and Ruvi are both ten minutes out dropping 
+"Hurgs, Are you there? Hurry up!!" I hear over the radio.
+I don't even need Alice to analyze his voice, he's freaking out.
+Alice has now unlocked the safties and it running the reactor at a
+hundred and eighteen percent of safe power output.
+Janice Marco and Ruvi are both ten minutes out dropping in an almost
+perfectly ballistic arcs.
+"Hurgs here. We are a couple minutes out." I reply.
+"They've breached the facility. We have moved to a secure room
+and are engaging in a holding action."
+Janice speaks up, "With what?"
+I agree. Looking at the last facility it didn't look like much
+resistance had been put up.
+Cresting a low hill I see the mass of drones in the distance and they see me.
+A howl and a ripple of turning xenomorph heads announces my arrival.
+A troop of Xeno split off and start running in my direction.
+"Alice, goal keep at fifty yards." I say.
+"Engagement threshold set." the AI says into my ear.
+In this moment I appreciated Marco loading additional ammo onto
+this sled.
+"ETA in about two minutes." Janice calls out over the subspace comms.
+Alice highlights the two streaks in the sky.
+"Good. It's a shit show!" I laugh.
+"Roger that, Alice is giving us great video." she laughs back.
+"It looks like there are three distinct groups" notes Marco.
+He's right. I can see two queens each with their own armies and I can
+a trio of controller xenos surrounded by their own troop of xenos.
+"Jesus, that's a shitload of Xenos" laughs Marco.
+By my automated count, there were at least forty full sized xenos per
+queen plus a fair number of their "attending" xenos.
+"Sir, what's the plan?" asks Janice.
+"Drop right in the middle of them, fire retros as low as you can." I reply.
+The plan almost works. Some of the xenos must have seen the play before
+others seemed confused. The three rockys drop out of the sky their retros
+firing fifteen meters above the ground. Dozens of xenos caught in the
+rocket down wash explode as their blood flash boils. The con of being
+vacuum tight.
+Better prepared for what is ahead their Rocky's are kitted up to kill.
+"Too bad we have to save these civi's. Now that we've got the DeBe's guns
+back online this would have been an easy one." laughs Marco.
+He's not wrong. A couple railgun rounds and we'd be in the mess eating.
+"We know the drill, let's clear a path to the entrance." to make the point
+I continue to maneuver my sled closer. Pinched in from four sides, the
+xeno's throw themselves at our rocky's. A trio of fourty millimeter
+grenades sends the largest of the queens to hell. Janice manages to shred
+the other queen. The controller xeno's spread out and make themselves
+scarce. I give Alice the priority to target them in particular. Alice
+at this point shows her true AI power. Targetting and dropping xeno's
+with blinding efficency, all four of our rocky's dump grenade and ten
+mil HE rounds as we move towards the entrance.
+"Save ammo. Only fire on drones that come inside a ten meter exclusion
+zone." Everybody ackowledges this. It doesn't take long before battle
+lines are drawn.
+"Ruvi, Marco, hold the entrance, Janice you're with me." I order.
+Both acknowledge. We decend back down into the alpha site. We know
+the layout well at this point and head right for the armored door.
+The wall next to the door is undermined. Alice launches a drone
+through the gap. Together our rocky's rip the door from its hinges.
+"Zigler, we are in the facility." I radio.
+"Finally. Go straight in at the tee junction, head right. Kill
+everything." he replies.
+"Roger that." I reply.
+Much like the Beta site, high tech lab equipment punchuated by
+macabe experiments are everywhere. More twisted hybrids. A xeno
+float in tanks with six arms. Drones a mix of some draft animal
+and xeno DNA lay dead in pens.
+Throught the link I can feel Janice's disgust. I know that Marco
+would have been entirely too distracted by the experiments.
+We get to the junction and head right and come face to face
+with a controller xeno. Janice's virbrablade cleaves the xeno
+diagnally with a single slice. From there it's a wall to wall
+shooting gallery. The xeno's attempt to box us in as more come
+from the other left hallway. Focusing ahead on the door, I ask
+Alice to take care of them. Targeted shots drop the first row,
+the second row stop at the junction and simply snarl. I'm down
+to fifty seven ten mil rounds and three fourty mil grenades.
+"Hostiles in the left corridor seem to be hanging back, should
+we clean them out?" I ask over the radio link.
+"As long as we have a path to the surface we should be fine."
+comes a reply.
+I hear the sound of a heavy blast door retract.
+Out comes an older man with salt and pepper hair and a young girl,
+another hybrid.
+"This is Elizabeth. I've set the self destruct set, I just need
+to trigger it." he says outloud, holding up a palm sized trigger.
+I realize I need to turn on the external speakers.
+"Roger that. Let's move." I say. Janice's rocky moves back into
+the tee. The xeno's there back away. We notice the moment our guns
+swivel away from them, they attempt to creep closer.
+We back our way out of lab and into the main tunnel.
+In our mission channel is explain the situation.
+I can almost sense Marco's glee.
+"How do you think these xeno's are going to react when you come
+out of the tunnel with that hybrid girl?" asks Ruvi.
+I'd been wondering this myself. I get the sense that the xeno's
+aren't that keen on Ziegler's experimenting.
+"Dr. Ziegler, we've got a fifty meter climb to the surface, there
+are alot of drones up there." Extending one of my smaller dexterous
+hands I point at Elizabeth. "How are they going to take seeing
+her?" I ask.
+He turns to Elizabeth. "What is the current mind state?" he asks.
+"Confusion. Anger. Yearning for queen command. Resistant to
+commanding." she replies.
+Ziegler scratchs his chin. "You managed to kill the queens, did
+you get any of the controller's?" he asks.
+"No. The disappeared as soon as we engaged the drones." I reply.
+"Those particular controllers are wily." he replies.
+Just great. So there are even smarter xeno's.
+I opened a channel to just Alice. "Since you are scanning all
+the feeds if any of the controller aliens show up, alert us"
+"Roger that. CPU time set aside to do dedicated image analysis."
+replies Alice.
+
+
+
+
+
