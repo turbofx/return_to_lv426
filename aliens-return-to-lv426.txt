@@ -945,25 +945,25 @@ Chapter 9.
 
 
 "External Ejection Triggered" pops up and fades as I found myself nose
-to nose with commander Robinson in my alcove.
+to nose with commander Robinson in my cradle.
 
-"We have a serious fucking problem now." starting his conversations in
-his usual manner.
+"We have a serious fucking problem now." his conversations starting in
+the usual manner.
 
 "How so?" I ask.
 
 "Edgar heard that transmission and it's triggered some type of fail
 safe. We're locked out of all the major systems."
 
-I thanked my lucky stars our systems were firewalled off from the rest
+I thank my lucky stars our systems were firewalled off from the rest
 of the ships.
 
-"Alice, are you still online?" I asked aloud.
+"Alice, are you still online?" I ask tentively.
 
-"Affirmative. However, I have lost access to all ship systems." it
+"Affirmative. However, I have lost access to all ship systems." the AI
 replies.
 
-"I take it you haven't heard of Project X1243?" I asked.
+"I take it you haven't heard of Project X1243?" I ask.
 
 "I have, but it was thought a failure." he replies. Janice, Roxxie and
 Ruvi pop their heads up.
@@ -2054,7 +2054,7 @@ Now she's crying.
 "Hurgs. She's been talking about this other she for a while now,
 I don't know who or what it is." he says through the link.
 "I know this sounds weird, but is there anyway to triangulate
-where this she might be?" I ask. "Yeah, sadly, it doesn't work
+where this 'she' might be?" I ask. "Yeah, sadly, it doesn't work
 quite that way." he replies.
 The way the xeno's communicated has never well been understood.
 This guy claims to be the foremost expert and it's still spooky
@@ -2109,10 +2109,10 @@ to feed targeting info into the point defense systems.
 Effective is the word. These systems were designed to shred
 an incoming missile with bundles of tungsten flechettes.
 Against a swarm of xeno's shoulder to shoulder, entire ranks
-of xenomorph drones fell kicking and screaming. Unfortunately
+of xenomorph drones fall kicking and screaming. Unfortunately
 these weapons simply didn't have the ammo capacity to really
 do much. The xeno's swarmed the MCM, wrenching the now useless
-cannons from their mounts. At once the MCM simply stopped existing
+cannons from their mounts. At once the MCM simply stops existing
 and was a fireball of expanding plasma.
 "What the hell?" I said into the channel.
 "I decided once we were clear to detonate the remaining fuel in
@@ -2165,5 +2165,83 @@ I think back to the ghastly experiments I saw in the two labs. He'd
 been down here for years messing around with XNA and human DNA
 experimenting. At some level I understand that this work had to be
 done, if as Robinson says the xenos are damn near everywhere on every
-planet, having 
-				   
+planet, having a way to direct them or control them was needed. I
+just wasn't enjoying seem the sauage of that get made.
+"Arrival in five minutes." Alice says over the drop ship channel.
+"Anything we should worry about, SAM systems or anything like that?"
+I ask Ziegler.
+"Nothing like that, the settlement is nearly a half kilometer
+underground, please have the AI land about fifty meters from Hadley's
+chin." he says.
+"Did you hear that Alice?" I ask.
+"I did. Dr. Ziegler, please come up to the cockpit." the AI says.
+"What do you need me for?" he asks.
+"My sensors are picking up a number of features that do not match
+anything in my data banks." the AI replies.
+Alice feeds me the visuals from the various sensors on the front
+of the dropship.
+"Land in front of that square. Is there anyway I can transmit a code
+from any of these consoles?" he asks.
+"On your left is a standard colonial marines digital radio." Alice
+notes.
+I watch from the optics inside the cockpit as Ziegler enters a
+frequency and proceeds to enter a ten digit code.
+He stares at the radio for a moment and enters another code.
+I see him then peer through the cockpit.
+"Are there any nests near this location?" I ask.
+"No. I've sent the garage door code, If things are okay an
+elevator should be on the way up." he says.
+"What if things aren't okay?" I ask.
+"Then I've got a bunch of marines and robots to hopefully
+make it right." he laughs.
+Alice spins the aircraft around and sets it down gently, almost
+showing off after the hard touch and go she'd executed at the MCM.
+This time the marines have the crates loaded so when the doors open,
+a sled rolls down the ramp stacked with crates. Gotta love marine
+efficiency. Ziegler walks down the ramp wearily looking left and right.
+Getting down on his hands and knees, he digs in the dirt, finally
+opening a panel on the ground. Filled with water, the lights are still
+illuminated. Punching buttons he shuts the cover. Rain continues to
+ripple across the open field, the almost endless rumble of thunder
+gets to the point I ask Alice to filter it out of audio stream. What
+seems like an eternity goes by and finally a square shaft lifts out
+of the ground.
+"Where's the welcome party?" a marine asks.
+"There are numerous enterances, this is one of the minor ones
+less likely to draw attention to us." Ziegler replies.
+I can see that he's got a headset on. I open a channel just to him.
+"What's the fucking story here." I say.
+"Let's get inside and out of the rain and I'll fully explain." he says.
+"Can we leave the dropship here?" I ask.
+"Yeah, nothing should get near it." he replies.
+"Alice, anything that looks like a xeno gets near it, you're authorized
+to use deadly force. Interlocks off, omega alpha three one three" I say
+into the open channel.
+"Roger that. Code accepted. I will defend this asset and destroy it if
+needed." the AI replies.
+The cargo elevator is a very tight fit, between the marines and the
+sleds and everything, the reality is that we can't all fit.
+"Marines, Jeremy and Marco fall back to the drop ship, you'll be on the
+second elevator down." I say.
+"Roger that." I hear over the comms.. Dutify the marines slog back to
+the drop ship.
+The doors shut and the elevator descends.
+"Where did you get an elevator from?" I ask.
+"With good printers and plans you can build nearly anything." he replies.
+As the elevator decends I decide to pick at the scab.
+"Why the back door, why the weirdness." I ask.
+"To be frank, I didn't leave on good terms. The colonists were unhappy
+with the direction my experiments were going. Closed minded, the lot of
+them, they think the right answer is to destroy the xenomorphs."
+"What about the nests that are doing terrforming?" I ask.
+"A xeno is a xeno to them, they'd rather build conventional atmospheric
+plants then see the future. I've drastically sped up the terraforming
+but they're stil not happy." he says.
+The elevator dings and opens.
+"So, not a hero's welcome I take it?" I say.
+"Yeah, no." he snickers.
+I shift my optics to a wider bandwidth. Cold storage. Farm equipment,
+modular building materials.
+"Who would have brought a tractor?" asks Janice.
+The parts are starting to fit together to me. "Colonists thinking
+they're coming to a paradise." I say.
