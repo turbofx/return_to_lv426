@@ -2051,7 +2051,7 @@ At this I can hear a sigh through the link.
 "She's telling them to follow her. She's tell them shes safe. She
 calls me, she calls me bad names." She wimpers out.
 Now she's crying.
-"Hurgs. She's been talking about this other she for a while now,
+"Hurgs. She's been talking about this other 'she' for a while now,
 I don't know who or what it is." he says through the link.
 "I know this sounds weird, but is there anyway to triangulate
 where this 'she' might be?" I ask. "Yeah, sadly, it doesn't work
@@ -2062,12 +2062,12 @@ to him.
 "If we can get to the main habitat, we may have more options."
 he says into the comms.
 "More hybrids like Elizbeth?" I ask.
-"Yes and equipment to make them stronger." he replies.
+"Possibly yes, and equipment to make them stronger." he replies.
 "Right now though, we need Elizabeth to try to keep the natives
 quiet. Land load up and go." I say.
 "Okay, I'll see what I can get her to do." he says.
 The next ten minutes the marines empty the armory and load it
-modular store crates we can easily carry with the rocky's.
+into modular store crates we can easily carry with the rocky's.
 "Sir, should we leave the point defenses active?"
 asks Jeremy.
 At this I laugh, it seems pretty fitting. "Yes." I reply.
@@ -2077,7 +2077,7 @@ them all off?" I ask.
 "Hurgs, what are you playing at?" he asks.
 I explain the plan and he chuckles a bit.
 "She's working on keeping them calm now, but she can sense the
-this other she she keeps going on about." he replies.
+this other she that she keeps going on about." he replies.
 "Let's give it two minutes and then have her
 start blasting them." I reply.
 At long range I can see the heap of equipment.
@@ -2102,7 +2102,7 @@ We nearly get all the crates on, sadly two are left behind.
 I ask into the general channel. "What were in those crates?"
 "MREs sir." someone says.
 That's marines for you. Priority weapons and ammo over food.
-Frankly, I'll take bullets over food.
+To be fair, I'll take bullets over food.
 As the dropship transitions from VTOL mode to flying mode
 I tap into the feed from the drones left flying over the MCM
 to feed targeting info into the point defense systems.
@@ -2110,18 +2110,19 @@ Effective is the word. These systems were designed to shred
 an incoming missile with bundles of tungsten flechettes.
 Against a swarm of xeno's shoulder to shoulder, entire ranks
 of xenomorph drones fall kicking and screaming. Unfortunately
-these weapons simply didn't have the ammo capacity to really
-do much. The xeno's swarmed the MCM, wrenching the now useless
-cannons from their mounts. At once the MCM simply stops existing
-and was a fireball of expanding plasma.
+these weapons simply don't have the ammo capacity to really
+do much. After the third wave, the cannons fell silent. The
+xeno's sensing their opportunity swarmed the MCM, wrenching the
+now useless cannons from their mounts. At once the MCM simply
+stops existing replaced by a fireball of expanding plasma.
 "What the hell?" I said into the channel.
 "I decided once we were clear to detonate the remaining fuel in
-the tanks." a marine said into the chat.
-"I just didn't know about the plan that's all, but you just cooked
-a shit ton of xeno's so I say the kills go to you guys."
-I said back.
-"Fuck yeah!" came through the channel.
-I listen in as the marines talk about the tattoos they would
+the tanks." a marine says into the chat.
+"I just didn't know about the plan that's all, but you just
+cooked a shit ton of xeno's so I say the kills go to you guys."
+I say back.
+"Fuck yeah!" comes through the channel.
+I listen in as the marines talk about the tattoos they will
 be adorning themselves with when they go back to the DeBe.
 "Alice, how does our fuel levels look?" I ask.
 "Unfortunately we are overloaded and will be cutting it
@@ -2131,24 +2132,24 @@ approximately ten minutes of fuel at full power." replied Alice.
 "No." the AI replied curtly.
 "Can the sleds be canibalized for their reactors?" I ask.
 "Possibly. That modification falls outside of my knowledge."
-replied the AI.
-My mind churned. I brought up schematic and scrutnized the designs
+replies the AI.
+My mind churned. I bring up schematic and scrutnize the designs
 close but different, but still possibly an option.
 Just another twenty minutes and then into who knows what.
 Elizabeth is crying, I can hear it through the channel.
 "What's up?" I ask.
 "She's crying about the consumer, the eater of all things.
 whispering and hissing. Snarling and then wimpering, it's very odd."
-replied Ziegler.
-Janice piped up in our private chat, "We don't know anything
+replies Ziegler.
+Janice pipes up in our private chat, "We don't know anything
 about this link, for all we know this other entitely whatever
 it might be could be watching us through her eyes."
 I'd wondered about this. This was all essentially magic to me
 at this point.
 "How does this link work?" I ask Ziegler.
 "We are just starting to fully understand it, but as best as
-we can tell the xenos have something like an quantum entangled
-particles in their heads." he replies.
+we can tell the xenos have something like a network of quantum
+entangled particles in their heads." he replies.
 "So their telepathy is actually a lowpower subspace radio?" I ask.
 "Yes, but the signal is far messier. It's almost like transmitted
 brain waves." he replies.
@@ -2160,12 +2161,14 @@ he replies.
 "Docile?" I ask.
 "I know the term is perjorative, but it fits. She comes from a long
 line of siblings that at best could be caged and at worst had to be
-immediately destroyed at birth." he replies.
+immediately destroyed at birth. She on the other hand is working
+on her studies and currently has passed her nineth year exams."
+he replies.
 I think back to the ghastly experiments I saw in the two labs. He'd
 been down here for years messing around with XNA and human DNA
 experimenting. At some level I understand that this work had to be
 done, if as Robinson says the xenos are damn near everywhere on every
-planet, having a way to direct them or control them was needed. I
+planet, having a way to direct them or control them is needed. I
 just wasn't enjoying seem the sauage of that get made.
 "Arrival in five minutes." Alice says over the drop ship channel.
 "Anything we should worry about, SAM systems or anything like that?"
@@ -2189,11 +2192,12 @@ frequency and proceeds to enter a ten digit code.
 He stares at the radio for a moment and enters another code.
 I see him then peer through the cockpit.
 "Are there any nests near this location?" I ask.
-"No. I've sent the garage door code, If things are okay an
+"I haven't been in these parts in a couple years, but last I knew,
+no. I've sent the garage door code, If things are okay an
 elevator should be on the way up." he says.
 "What if things aren't okay?" I ask.
 "Then I've got a bunch of marines and robots to hopefully
-make it right." he laughs.
+make it okay." he laughs.
 Alice spins the aircraft around and sets it down gently, almost
 showing off after the hard touch and go she'd executed at the MCM.
 This time the marines have the crates loaded so when the doors open,
@@ -2217,8 +2221,8 @@ I can see that he's got a headset on. I open a channel just to him.
 "Alice, anything that looks like a xeno gets near it, you're authorized
 to use deadly force. Interlocks off, omega alpha three one three" I say
 into the open channel.
-"Roger that. Code accepted. I will defend this asset and destroy it if
-needed." the AI replies.
+"Roger that. Voice print and code accepted. I will defend this asset
+and destroy it if needed." the AI replies.
 The cargo elevator is a very tight fit, between the marines and the
 sleds and everything, the reality is that we can't all fit.
 "Marines, Jeremy and Marco fall back to the drop ship, you'll be on the
@@ -2229,22 +2233,22 @@ The doors shut and the elevator descends.
 "Where did you get an elevator from?" I ask.
 "With good printers and plans you can build nearly anything." he replies.
 As the elevator decends I decide to pick at the scab.
-"Why the back door, why the weirdness." I ask.
+"Why the back door, why the weirdness?" I ask.
 "To be frank, I didn't leave on good terms. The colonists were unhappy
 with the direction my experiments were going. Closed minded, the lot of
 them, they think the right answer is to destroy the xenomorphs."
 "What about the nests that are doing terrforming?" I ask.
 "A xeno is a xeno to them, they'd rather build conventional atmospheric
-plants then see the future. I've drastically sped up the terraforming
-but they're stil not happy." he says.
-The elevator dings and opens.
+plants and wait two hundred years, then see the future. I've drastically
+sped up the terraforming but they're stil not happy." he says.
+The elevator slows and opens into caverous darkness.
 "So, not a hero's welcome I take it?" I say.
 "Yeah, no." he snickers.
 I shift my optics to a wider bandwidth. Cold storage. Farm equipment,
-modular building panels and equipment, large scale 3D printers, raw
-high grade metals. Stuff that would be hard to produce in situ and
-would be needed to kick start a colony.
-"Who would have brought a tractor?" asks Janice into the channel.
+modular building panels and equipment, large scale 3D printers, ingots
+of raw high grade metals. Stuff that would be hard to produce in situ
+and would be needed to kick start a colony.
+"Who brings a tractor?" asks Janice into the channel.
 The parts are starting to fit together to me. "Colonists thinking
 they're coming to a paradise." I reply.
 "Why would they think that?" she asks.
@@ -2414,21 +2418,91 @@ replies.
 Roxxie wanders into the room, "I got the gist of what's going
 on down on the ground." At this we all nod.
 She continues, "We've got issues up here as well."
-I just shake my head.
+I just shake my head, bullshit in every direction.
 "The spar that was damaged when we killed the xeno's, it's
 now a structural weak point, with every orbit the ship naturally
-flexs, with each flex more microcracks appear in the spar."
+flexes, with each flex more microcracks appear in the spar."
+she explains.
+"How long until it breaks?" I ask.
+"This orbit, next orbit, it will fail that of I'm certain."
+she replies.
 "Why can't we just eject that section?" I ask.
 "Ironically if we were farther out in space it would be easier."
 Janice has now decided to get in on the engineering action.
 "How so?" I ask. "We wouldn't be orbiting this forsaken rock,
 detaching modules wouldn't subject them to drag for starters."
 she answers.
-"What else?" I ask.
-"Oh, they spoiled a bunch of food, cut a bunch of fibre so
-deepspace comms is fucked up and we were leaking coolant until
-we figured out we had a leak and turned stuff off until it stopped
-flow.
-somewhere I'm sure Edgar could find in a moment, but is escaping
-us." she repiles.
-"
+"What else is wrong" I ask.
+"Oh, the xeno's spoiled a bunch of food, cut a bunch of fibre so
+deepspace and internal comms are fucked up and we were leaking
+coolant until we figured out we had a leak and turned shit off
+until it stopped flowing. We've narrowed it down to three radiator
+banks. I'm sure Edgar would have found in a moment, but instead
+we leaked out a couple hundred liters of refrigerant." she repiles.
+"I know I'm just a bit better than a grunt, but isn't coolant
+critical?" asks Jeremy.
+"Yes. With a ship this big and with all the redundancy, one would
+think, the margins would be larger, but in fact it's going to force
+us to keep sections vented. We can't risk the heat." replies Roxxie.
+"What's the commander up to?" I ask.
+"Last I knew he was in the engine room attempting to make a very
+long distance and I'm sure quite awkward phone call." she replies.
+Needing to stretch my legs I get up and jog down the spare. I can
+feel the cold. Our patches are holding, but the cold is creeping
+in. The heat and thrum of the engine room is a positive change
+from the cold spar. The doors to the comm section are open, a
+terminal is patched in. Hunched over the terminal I can see the
+outline of Robinson, his form silloetted against the glow of
+the terminal.
+I clear my throat, "Ah hum, sir." I say.
+Nothing. Coming closer I see a stain on the floor. Fuck.
+Touching his shoulder, he slides out of the chair, the terminal
+tray acting as a prop for his limb body. Tumbling flat on his
+back, three clean holes in his left breast explain everything.
+Stupidly I'd come to the engine room without any comm device
+on me at all. The wall comm unit is dark. Either disabled by
+whoever did the deed to Robison or a victim of our the ships
+encounter with the xeno's. Feeling very vulnerable at this
+point I jog back to our module. Normally I pace myself, but
+not this time. I'm sure if Edgar was up and running he'd have
+noted a PR for the run.
+Bursting into the module I immediately lock the door.
+"What's going on?" asks Janice.
+"Robinson's dead in the engine room, triple tap in the chest!"
+I blurt out.
+Immediately the group starts peppering me with questions,
+none of which I had any answers for. I explain that after
+I found Robinson I wasn't sure if I was in danger, couldn't
+contact anybody so I hightailed it back to the module.
+Knowing that the shit was about to hit the fan, I sat down
+at the conference table and opened a channel down to Mike
+and the marines. As one would expect they took it as well as
+you'd expect. At least three names come up as suspects, but
+I but the kabash on that. Being out of the chain of command,
+it wasn't even clear to me who was next in command.
+"This honestly doesn't surprise me, I'm just surprised someone
+had the balls to do it." he finally said into the channel.
+After a moment he continued.
+"There's a bunch of guys who when they found there were xeno's
+thought the right answer was to just obliterate the planet. Any
+civi's who'd come here had sealed their fate, better to die
+quick then the alternative. They were pissed that Robinson had
+decided to just follow orders, even more pissed that it appeared
+he was making common cause with this Ziegler guy, then even more
+pissed that he'd permitted those things on board. They blamed him
+for 
+"So who's giving orders than?" I ask.
+"Well, after the venting, Price, Sanchez and Albright are dead.
+I'm down here so technically I'm a subordinate to the orbit
+commander, so maybe Wikowsky?" came the response.
+"Lovely. I don't have a great working relationship with him in
+particular" I laughed back.
+"Yeah, frankly, he hates you guys." Mike snickered back.
+"Do you think he'd have the balls to pull the trigger?" I ask.
+At this Mike let out a long breath, "We all have the balls to
+pull a trigger. He's a hot head for sure, but he's also a NCO
+looking to become an officer. Yeah sure he could do it, any of us
+could, but in the years I've worked with him, he's likely to
+throw a punch, as you're aware."
+Turning to the people in the room, "Ruvi, is your rocky still
+by the vent?" I as
