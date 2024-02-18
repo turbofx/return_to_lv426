@@ -2523,21 +2523,168 @@ pointedly into the channel.
 disdain clear through the channel.
 "Robinson's dead in the engine room, shot through the heart."
 I say plainly.
-"Just fucking wonderful. I'll assume you think I did it?" he
+"Just fucking wonderful. I assume you think I did it?" he
 sneers into the channel.
 Realizing I had an opening with the guy I take it.
 "Talking to Mike dirt side, he calls you a straight shooter,
 I believe him, all the same, we've got a case of fragging." I
 reply.
-"For what it's worth, none of my guys have gone anywhere.
+"For what it's worth, except for two, none of my guys have gone
+anywhere.
 Your tech warned us about the spar fractures. We've been hiding
-in this module with the door shut." he replies back.
+in this module with the door shut." he reponds.
 "Whose in the CIC at this point?" I ask.
-"Diego from first squad and Bells from second squad, why?" came back
-the reply.
-"When he left here he said he was going back to the CIC, without
+"Those two exceptions. Diego from first squad and Bells from second
+squad, why?" Wikowsky asks.
+"When he left, he said he was going back to the CIC, without
 people to man it, it's not much." I replied.
 Turning to Jeremy, "Grab a pistol and get to the CIC and see what's
 going on, but don't let the cat out of the bag."
 He nodded and ran off.
-
+"He pounded on our door and asked for those two by name." Wikowsky
+replies.
+"What the --" came through the comm channel and it then cut out.
+I felt the jolt under my feet. Immediately a cascade of alarms
+start going off.
+"Depressurization event in main spar." Alice calmly notes.
+I hear a pounding on the door to the main spar.
+"Alice, open the door!" I yell.
+The door slides open and my ears pop, I can feel the air rushing out
+of our module. Jeremy tumbles in slamming the emergeny door close button.
+Gasping on the floor he rolls onto his back. Everybody rushes him,
+Janice clamps an oxygen mask on his face. Jeremy stares back up at us
+and just takes a couple deep breathes. His eyes are red from burst
+capularies. Finally he takes the mask off, with a wheeze he says,
+"Dead sir. CIC is trashed. Bells and Diego were both head shot."
+"You functional?" I ask Jeremy.
+He simply gives me a thumbs up and climbs to his feet.
+"Sir, it was cowardly. I was thirty meters from the module connection
+point, pistol drawn when I felt the jolt. It knocked me off my feet."
+Ruvi just shook his head. "Damn! You ran thirty meters in partial
+vaccum? Good on you man!"
+To this Jeremy just shrugged. "Guess it was time the cracks go big
+enough to start cause us problems" he replies.
+Janice shakes her head "No. That was an explosion. Roxxie and I are
+already trying to figure out where."
+Alice spoke up at this point, "Sensors are picking up a class one
+escape pode nadar to our module."
+"Knocked loose from the explosion?" I ask.
+"The escape pod is powered and manuvering." Alice replies.
+"Any idea from which module?" I ask.
+This is where having Edgar would have been helpful, but Alice was
+showing herself to be wildly capable in this regard.
+"Note, this is a low probibility answer, but based on tragectory,
+CIC module." replies Alice.
+"What's the state of this spaceship at this point?" I ask.
+Janice and Roxxie are both head down at terminals.
+Janice speaks up. "Poor. Whatever that bomb did, based on what I
+can't see now from before It was in the primary maintenance spar.
+What little comms we did have are completely down. Based on the
+sensors in this module our flex is far more pronounced."
+In a gesture I've now inherited from Robinson I puff out my cheeks.
+"Are we still essentials from the ship?" I ask.
+"Power is a trickle on a secondary, but not air or water." Roxxie
+replies.
+"Ah fuck, I think we're going to have to cut and run." I reply.
+"I'm detecting a marine at our airlock" Alice says into the room.
+"I'm on it." replies Jeremy.
+"Sir, I agree with you. We're not fixing this ship in the current
+state. Sooner than later we're going to be part of an active
+break up, I'd rather we not be near that mess. But Janice and I
+have an idea."
+Wikowsky and Jeremy climb back up to this level.
+"You've got nice digs here Hurgs." snickers Wikowsky.
+I simply nod and point to a chair, Wikowsky ignores the gesture,
+walks over and grabs a handful of snacks and then sits down.
+"What did you see outside?" I ask.
+"Outside of the utility spar is blown open. Some blue shit is
+leaking eveywhere." he replies.
+Turning to Roxxie, "Then we have no choice, how long will it take?"
+"A couple hours, if Gunny Wikowsky approves." replies Roxxie.
+"What's the plan?" he asks.
+"We both detach our modules and attach them making a smaller ship."
+I reply.
+"Can you even do that?" he asks.
+Janice interjects at this point, "Yes. All the modules have univeral
+docking adapters. I presume you pulled a tether with you?"
+"Even better, I've turned on our modules comms." he notes.
+"Yes. Though the only qualified pilot we had left was Bells" snarls
+Wikowky.
+"Alice, plot the landing spot of that escape pod." I ask.
+Immediately the wall screen illuminated a spot on the planet right on
+the edge of the exclusion zone of the alien ship.
+"Escape pod?" Wikowsky asks.
+"Alice, can we shoot that pod down with the rail guns?" Wikowsky asks.
+"Answer unknown" the AI replied curtly.
+"Based on what Jeremy told me, the CIC is pretty trashed, I think that
+was to keep up from doing exactly that."
+"There are controls in that module." he laughs.
+"Look where he's landing, shooting him would be a mercy, I'm now one
+for mercy right now" I grumble.
+"Can one of your people remote pilot our module?" he asks.
+"Alice, can you do that?" I ask.
+"Yes." comes the reply.
+To accentuate the point, an audible sound like a gunshot rings through the
+module.
+Wikowsky laughs, "I take it that's bad."
+"That spar has now failed entirely and the ships load is being distributed
+across the other also damaged spars which are now starting to fail in
+cascade."
+Wikowsky speaks up, "Can I get a comm channel to my MCM?" he asks.
+I nod. "Alice open a channel."
+"Fisher, this is Wiks, reply." he says.
+"Fisher here, Sir we just heard a very loud bang." he replies.
+"We are aware. The plan is to detach our module and hook it up to
+the geeks module. Their AI is going to remote pilot our module." he says.
+At this Alice speaks up into the channel. "Private Fisher, This is Alice
+the AI, please type the following sequence into the comm unit. The AI then
+proceeds to tell the Private a ten digit sequence."
+During this interlude I've tied our internal comms to the MCM comms.
+"I now have executive access to the MCM module." notes Alice.
+"No time like the present, detach modules and maneaveur closer to MCM one." I order.
+Everybody immediately buckles in. Without the DeBe and the gravity it
+provides quickly everything gets floaty. Inside the module I can hear
+the cold gas thrusters of the module firing in rythmic pulses.
+"Any chance we could also snag the armory module?" Wikowsky asks.
+"Comms are down, unless we can mate with it or get a tether or a person to
+it, we can't command it to detach." I reply.
+"Hard mate in approximately ten seconds." Alice notes.
+Suspecting that Alice was trying to show off again, the two modules mated
+perfectly and softly.
+"Hard mate complete. Equalizing now." At that I can hear various hisses
+and pumps as the space between our two doors is filled with atmopshere.
+"Equalizing complete. Opening hatches."
+Wilkowsky gets up and expertly manuveurs over to the door.
+I see a blond head poke through the door.
+"Permission to come aboard?" he asks.
+"I laugh. Son, we're now one ship, permission granted."
+The marines float in one by one. Like wide eyed children they weren't
+normally permitted to come into our module. Nor were we permitted in
+theirs. Most of them marveled at the wall screen and seeing the tragectory
+of the escape pods opened mused about shooting down or landing on or
+around it and avenging their friends deaths.
+With everybody now roughly in our prep area, pressed against walls,
+laying flat against the ceiling, I asked Alice to sound the standard three
+pip general quarters sound. This got everybody's attention.
+"As you're all aware, we're deep in the shit. Without the engine module
+LV426 is going to be home. Right now I've got a rocky trying to patch in,
+but we need to start thinking about contingencies."
+Fisher speaks up "Sir, are you actually pitching the idea of landing
+this thing?"
+"Currently no, but nothing is off the table." I reply.
+I could see from the faces of the Marines, some had grins, they wanted
+to get ankle deep in the mud and fight xeno's, but quite a few had the
+looks on their faces that I read as, "Ah shit."
+"When we get more info, you'll get more info. Just so everybody is clear
+the current command structure is Wikowsky in command of the personal from
+MCM one and I'm in command of personel from CTM one."
+To puncuate this Wikowsky piped up, "To that point, squads one and two,
+I want you guys to rack and start working simulations based on the data
+sent up from squad three." To this the marines nodded and skittered back
+into their module.
+"Roxxie, what's the deal with the engine module?" I ask into the comms.
+"Fucked up. I'm on the module but it's not responding. Permission to breach?"
+"Yeah do it. Just you know be careful that's our ride home" I reply.
+"I'm well aware." she snickers back.
+I brought up the feed on wall monitor as Roxxie worked."
+Wikowsky snickers, "It's weird to me that she's in the next room."
