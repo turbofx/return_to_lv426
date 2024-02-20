@@ -2715,7 +2715,7 @@ cobble together a ship to get off this shithole." I reply.
 Chapter 14.
 
 I wake up to alarms. My head is screetching. Wikowsky is next to me
-against the wall, his face a bloody mess.
+against the wall, his face a bloody mess, but breathing.
 "Roxxie, what happened?" I ask into the comms. Nothing.
 "Alice, status?" I ask.
 "Thirty two seconds ago, when Roxxie was initiating the undocking, a
@@ -2723,7 +2723,7 @@ trap was triggered causing the engine segment to detonate." Alice replies.
 Wikowsky was now starting to come around, "The fucking hell" is all he
 had to say.
 "Current status Roxxie?" I ask Alice.
-"Non responsive" is all Alice had to say.
+"Non responsive" is all Alice has to say.
 I found Roxxie in her cradle unconcious. This is a dangerous state to be
 in while still jacked in. I initiate a manual unjacking and check her
 stats. Steady pulse, but non responsive. In zero gee this can be very
@@ -2731,9 +2731,11 @@ dangerous.
 "All cyber tech members, report to the pit immediately" I say into the
 open comm channel.
 At once there's a flood of activity in the pit. Ruvi and Jeremy pull out
-the equipment, strap her to a body board and plug in.
-"Her implants are still in passive mode, they didn't take the shutdown
-command." notes Ruvi.
+the wake equipment, strap her to a body board and plug in.
+"Her implants are still in active mode, they didn't take the shutdown
+command." notes Ruvi. She's in a limbo state, her implants aren't plugged
+in so they're essentially "making shit up."
+"Forcing implant reboot" Ruvi says.
 At once Roxxie starts choking and sputtering.
 "You with us?" I ask.
 "Barely." she meekly replies.
@@ -2743,3 +2745,89 @@ I take the scanner and plug it to my neural shunt, I'm all green but also
 show that they've recorded a high gee shock.
 "I think you're going to find we've all taken a bump." I note.
 He nods at this and starts going around the room.
+Sure enough by protocol we all need to wait two hours before we can jack
+in again. I'm just fearful we won't have that luxury.
+Wikowsky floats into the pit and finds me. "Your people okay?" he asks.
+"Yeah, Roxxie was jacked in when the module blew and she got tossed into
+limbo, but we pulled her out. Everybody got their bell rung. How are your
+guys?" I ask.
+"Bumps and bruises, one broken wrist. Otherwise okay."
+I just shake my head. "I should have seen this coming. He used a bomb
+to compromise the spar, knowing we'd have to tinkertoy ourselves a ship
+he knew we'd need the engine segment."
+To this Wikowsky just shrugs.
+"Alice, what's the state of what's left of the DeBe?" I ask.
+"I've started mapping the expanding debris field and I've manuveaured
+the linked modules to avoid the the bigger chunks. I'm putting the
+data on the main screen." the AI replied.
+Floating over to the screen, I could see that the explosion had sheared
+all the modules off and they were now moving in a variety of vectors.
+"I'd really love to salvage that combat weapons module." noted Wikowsky.
+Jeremy floating near by said it before I could, "What if it's rigged to
+blow. That little bastard was crawling all over the ship while we weren't
+looking."
+"Alice, anyway we could try to get to that module?" I ask.
+"Yes, however it will take a significant portion of our fuel." it replied.
+I weighted the pros and cons. Wikowsky and I put our heads together and
+decided that it made sense. It was risky but the module would gain us
+tremendous resources.
+Alice crept our little ship close to the module. Jeremy volunteered to
+take a rocky in. Everybody strapped in and buckled down.
+Creeping into the airlock he closed the door and equalized the pressure.
+He shifted through the various spectrums, nothing. Tapping into the modules
+internal cameras he went through the various views.
+"Sneaky little fucker." was all Jeremey had to say.
+"What did you find?" I ask.
+"Right above the door, there's trigger. Standard colonial issue. The wires
+go off somewhere. The moment I open the door, blamo."
+Alice broke in at this point, "I'm backing our ship away, please stand by."
+"I thought we used a ton of fuel to get overhere?" asks Wikowsky.
+"We did, but now that we've matched velocity, it won't take more than a
+couple puffs of cold gas to put a hundred meters between us and the
+module." I reply.
+"You think that's enough?" he asks.
+"Considering the ordance in that module? No." I reply.
+At this he snickers. "At least if a nuke goes off, it'll be over quick."
+"Sir, permission to cut through the bulk head to access the wires."
+Jeremy asks.
+"Granted." I reply.
+We watch all holding our breath as jeremy drills a small hole and inserts
+a probe.
+"There's current in the wires, but it doesn't look digital. I'm going to
+short the wires together."
+With the wires shorted, he opens the door, still convinced the curcuit is
+closed, nothing happens.
+Following the wires, Jeremy finds them stuck into a detonator rigged to a
+series of charges against a bulk head.
+"Fuel and oxidizer storage. Yup, that would have blow up nicely." Jeremy
+laughs and he pulls the wires off. Sending drones off through the module
+no other little surprises are found.
+"Sir, permission to find this little shit and riddle him with bullets."
+Jeremy asks.
+In unison both Wikowsky and I say, "Permission granted." look at each
+other and laugh.
+Two more hours of menauver jet firing, closing and re opening hatches
+and reconfiguration and our little rag tag ship gets much larger and much
+better armed.
+Calling down to Mike and Ziegler they were rather unhappy to hear about
+our situation, even less so when I explained where the techs escape pod
+had landed with the coils.
+"Hurgs, even going in hot, you'll be swarmed in moments. The alien ship
+was marked as a no go zone for a reason. The best way I could describe
+is that the queens in that region are known as faction one.
+On this planet as best as we can tell there are seven distinct factions."
+he replies.
+"You cultivated xeno society?" I ask.
+"Oh no. We discovered it. As the population of xenos on this rock has
+grown, their group think has also grown, it appears there's some upper
+limit and one queen can't quite manage it all, but we've seen queens
+cooperate, then fight, then go back to cooperation. To use they all
+just look like xeno's but to xeno's they're all distict.
+"What faction would Elizabeth be part of then?" I ask.
+"Technically, based on her base XNA, faction five." he replies.
+"So she could command xenos?" I ask.
+"Eventually when she's fully grown I suspect they'll do her bidding
+without question." he replies.
+"Unfortunately we don't have how many years that'll take." I reply.
+
+Chapter 15.
