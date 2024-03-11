@@ -318,7 +318,7 @@ if possible. Hence the aforementioned glue dispensers."
 
 "And then do what? Bring it on this ship? No fucking way." replies Janice.
 "According to the brass they've got some magic resin to encased and
-rendered them inert." I explained. "Jesus have mercy on us." mumbles Mike.
+rendered them inert." I explained. "Jesus have mercy on us." mumbles Marco.
 The last member of our group was a petite woman named Joanne, but went
 by the handle Roxxie. "Roxxie, I've been quiet through all this. Feel
 free to speak up." At this, she let out a sigh. "A missions a mission,
@@ -572,7 +572,7 @@ follow suit.
 
 What a rainy nasty planet. The storm we'd seen from orbit had spun off
 a series of smaller storms and we are enjoying the benefits of one
-of them. Winds lash the sleds. We tumbled through the various bands
+of them. Wind lashs the sleds. We tumble through the various bands
 looking for anything alive. Around us the ground is glowing with lichen
 mats, the puddles teem with microbial life. "Weird wildlife" Marco
 said into the channel to no one in particular.
@@ -598,7 +598,7 @@ pigs corpse. It's chest blown open in classic xenomorph form. "It's not
 decayed much if not at all." I notice. "CIC, you seeing this?" I said
 into the command channel. Over the channel I heard commander Robinson's
 exhale. "We see it. This might change the number of hostiles." In our
-private channel Marco muttered, "ya think!" Marco climbs back aboard
+private channel Marco muttered, "Ya think!" Marco climbs back aboard
 and we trundle on, however now all three of us fully extended our sensor
 bulbs. Without prompting Marco launches an additional drones to provide a
 larger swath of over watch, yet again showing initiative.
@@ -861,7 +861,7 @@ not return." "This is Roger Hurgs of the Colonial Marines Cyber corps
 attempting to make contact with the free booters on planet LV426."
 "Cyber corps? We take offense to the term free booters. Nothing is
 free on this planet. We are settlers, fair and square." Here I am forty
-of light years from Earth and I'm dealing with a pedant.
+light years from Earth and I'm dealing with a pedant.
 I take a different tact. "Apologies, settler. Mighty hostile in
 these parts, we're concerned for your safety."
 "We are safe and sound. Leave Acheron and return to your ship and leave
@@ -2490,7 +2490,8 @@ quick then the alternative. They were pissed that Robinson had
 decided to just follow orders, even more pissed that it appeared
 he was making common cause with this Ziegler guy, then even more
 pissed that he'd permitted those things on board. They blamed him
-for 
+for their escape, the ship getting tore up and the KIA's that had
+happened.
 "So who's giving orders than?" I ask.
 "Well, after the venting, Price, Sanchez and Albright are dead.
 I'm down here so technically I'm a subordinate to the orbit
@@ -2538,11 +2539,13 @@ in this module with the door shut." he reponds.
 squad, why?" Wikowsky asks.
 "When he left, he said he was going back to the CIC, without
 people to man it, it's not much." I replied.
+"Robinson pounded on our door and asked for those two by name." Wikowsky
+replies. I can hear him taking deep breaths on the comms, keeping calm.
 Turning to Jeremy, "Grab a pistol and get to the CIC and see what's
 going on, but don't let the cat out of the bag."
-He nodded and ran off.
-"He pounded on our door and asked for those two by name." Wikowsky
-replies.
+He nodds and runs off.
+Wikowsky and I are going through what we have for assets and food. We're
+both okay provided nobody decides to go hog wild for a while.
 "What the --" came through the comm channel and it then cut out.
 I felt the jolt under my feet. Immediately a cascade of alarms
 start going off.
@@ -2550,16 +2553,17 @@ start going off.
 I hear a pounding on the door to the main spar.
 "Alice, open the door!" I yell.
 The door slides open and my ears pop, I can feel the air rushing out
-of our module. Jeremy tumbles in slamming the emergeny door close button.
+of our module. Jeremy tumbles in and the door slams behind him.
 Gasping on the floor he rolls onto his back. Everybody rushes him,
 Janice clamps an oxygen mask on his face. Jeremy stares back up at us
 and just takes a couple deep breathes. His eyes are red from burst
 capularies. Finally he takes the mask off, with a wheeze he says,
 "Dead sir. CIC is trashed. Bells and Diego were both head shot."
 "You functional?" I ask Jeremy.
-He simply gives me a thumbs up and climbs to his feet.
-"Sir, it was cowardly. I was thirty meters from the module connection
-point, pistol drawn when I felt the jolt. It knocked me off my feet."
+He simply gives me a thumbs up and climbs to his feet, albeit shakely.
+"Sir, it was cowardly. Bells and Diego where both head shot from behing.
+I was thirty meters from the module connection point, pistol drawn when
+I felt the jolt. It knocked me off my feet."
 Ruvi just shook his head. "Damn! You ran thirty meters in partial
 vaccum? Good on you man!"
 To this Jeremy just shrugged. "Guess it was time the cracks go big
@@ -2579,10 +2583,11 @@ CIC module." replies Alice.
 Janice and Roxxie are both head down at terminals.
 Janice speaks up. "Poor. Whatever that bomb did, based on what I
 can't see now from before It was in the primary maintenance spar.
-What little comms we did have are completely down. Based on the
-sensors in this module our flex is far more pronounced."
+Sir, it broke the ships back. What little comms we did have are
+completely down. Based on the sensors in this module our flex is
+far more pronounced."
 In a gesture I've now inherited from Robinson I puff out my cheeks.
-"Are we still essentials from the ship?" I ask.
+"Are we still getting essentials from the ship?" I ask.
 "Power is a trickle on a secondary, but not air or water." Roxxie
 replies.
 "Ah fuck, I think we're going to have to cut and run." I reply.
@@ -2636,8 +2641,7 @@ I nod. "Alice open a channel."
 "Fisher here, Sir we just heard a very loud bang." he replies.
 "We are aware. The plan is to detach our module and hook it up to
 the geeks module. Their AI is going to remote pilot our module." he says.
-At this Alice speaks up into the channel. "Private Fisher, This is Alice
-the AI, please type the following sequence into the comm unit. The AI then
+At this Alice speaks up into the channel. "Private Fisher, This is the Alice, please type the following sequence into the comm unit. The AI then
 proceeds to tell the Private a ten digit sequence."
 During this interlude I've tied our internal comms to the MCM comms.
 "I now have executive access to the MCM module." notes Alice.
@@ -2661,7 +2665,7 @@ I see a blond head poke through the door.
 The marines float in one by one. Like wide eyed children they weren't
 normally permitted to come into our module. Nor were we permitted in
 theirs. Most of them marveled at the wall screen and seeing the tragectory
-of the escape pods opened mused about shooting down or landing on or
+of the escape pod openenly mused about shooting down or landing on or
 around it and avenging their friends deaths.
 With everybody now roughly in our prep area, pressed against walls,
 laying flat against the ceiling, I asked Alice to sound the standard three
@@ -2757,7 +2761,7 @@ to compromise the spar, knowing we'd have to tinkertoy ourselves a ship
 he knew we'd need the engine segment."
 To this Wikowsky just shrugs.
 "Alice, what's the state of what's left of the DeBe?" I ask.
-"I've started mapping the expanding debris field and I've manuveaured
+"I'm mapping the expanding debris field and I've manuveaured
 the linked modules to avoid the the bigger chunks. I'm putting the
 data on the main screen." the AI replied.
 Floating over to the screen, I could see that the explosion had sheared
@@ -2767,10 +2771,16 @@ Jeremy floating near by said it before I could, "What if it's rigged to
 blow. That little bastard was crawling all over the ship while we weren't
 looking."
 "Alice, anyway we could try to get to that module?" I ask.
-"Yes, however it will take a significant portion of our fuel." it replied.
+"Yes, however it will take a significant portion of our fuel. Our time in
+orbit will limited even if the module retrievel is successful." Alice replies.
 I weigh the pros and cons. Wikowsky and I put our heads together and
 decided that it made sense. It's risky but the module will gain us
 tremendous resources.
+"Describe limited." I ask.
+"Four days with careful use of our remaining fuel. The other modules will
+deorbit sooner." Alice replies.
+We talk it over. We're screwed either way, without a drive module we're not
+going anywhere, long term we needed the parts and supplies from the module.
 Alice creeps our little ship close to the module. Jeremy volunteers to
 take a rocky in. Everybody straps in and buckles down.
 Creeping into the airlock he closes the door and equalizes the pressure.
@@ -2852,8 +2862,8 @@ into a couple of those superluminal threads." I reply.
 that weird module the DeBe had." replies Janice.
 I nod. "So many secrets piled on secrets. Not that he would ever tell us
 but I'm sure Robinson took quite a pile to his grave."
-At that, they both just snort.
-"Though, knowing that we can tune into those frequencies, any chance we
+At that, we all just nod.
+"Knowing that we can tune into those frequencies, any chance we
 could use that to our advantage?" I ask.
 "Janice and I have been poking around at that. The best that we can tell
 the xenos are transmitting on literally hundreds of thousands of parallel
@@ -2880,10 +2890,11 @@ I open a channel to Ziegler.
 better than normal humans. As for your question, Unfortunately we've had
 little luck making heads or tails of the signals. On occasion we'll see
 patterns repeat in the signal, but we lack sophisticated enough gear to
-fully interpret it. The headway I mentonied earlier was the hybrid program."
+fully interpret it."
 "How's it looking up there?" he asks.
-To this I simply chuckle and have Alice call the general quarters pips.
-"Four days?" Wikowsky's scowl is palpable.
+"Not great, I've got to attend to that, I'll loop you in a bit" I say and close the channel.
+With that, I simply chuckle and have Alice call the general quarters pips.
+"Four days?" Fisher scowls.
 "That's what the calculations come out to." I shrug.
 "But we've got all this fuel an oxidizer." he sputters.
 "Yeah, and it's dragging us out of orbit." I laugh.
@@ -2892,10 +2903,12 @@ To this I simply chuckle and have Alice call the general quarters pips.
 "We're going to need that ship to get to the surface and get the coils and
 refuel the other ship." I reply.
 "Not to mention ferry engines up here" notes Roxxie.
-"SO we're going to land this cobbled together piece of crap?" laughs
-Wikowksy.
+"What about your fancy printer I saw?" he asks.
+"The printer is too small and without the raw alloys I can't do anything." she replies.
+"SO we're going to land this cobbled together piece of shit?" laughs Fisher.
 "No. Here's the idea." I start.
-I don't say my idea because I want to spread the blame somewhat.
+I don't say my idea because I want to spread the blame somewhat. Wikowksy
+and I had talked it through, our options were all shit, this was the least.
 As I explain the details, the looks of shock spread across peoples faces.
 The most surprised were the cyber techs.
 "Sir, I don't like the idea of landing half of us on the surface." Ruvi
@@ -2906,29 +2919,81 @@ To this he simply nods.
 "So how are they going to make these engines then?" asks Wikowsky.
 "That's the good news. That technology is well understood and the plans are
 loaded into the emergency memory banks on all the modules." replies Roxxie.
-Wikowsky shakes his head. "Let me pitch this plan back to you. We're going
-to break up this functional space ship, push the armory module into a high
-circular orbit, leave this module in this orbit and land the other MCM right
-next to this underground hab. Then your techs are going to build engines, use
+Jeremy shakes his head. "Just so it's clear in my head. We're going to break up
+this functional space ship, push the armory module into a high circular orbit,
+leave this module in this orbit and land the other MCM right next to this
+underground hab. Then Roxxie and Janice are going to build engines, use
 the jump ship on the ground to get them into orbit, put everything back together
 and also some how retreieve the super luminal coils?"
 I nod and reply with, "Or we sit here and play cards for three and a half days
 until this spaceship breaks up in the atmosphere and we all die."
 He snickers at this assessment, "Fair point, but I'd like to note your plan has
-a bunch of hopefuls. Couldn't your techs just run the printers from up here using
+a bunch of hopefuls. Couldn't they just run the printers from up here using
 rocky's?"
 I'd thought about this, but it became a function of the facility. Having heavily
 armed robot roaming the facility was just a solid show stopper.
 "Their security people are already not happy with the rocky's." I note.
 Janice also shrugs, "There's also the issue with the printers."
-At this Wikowsky perks up, "Please continue." he says.
-"They're at least three generations old and have hundreds of thousands of hours
+At this Wikowsky perks up, "What's wrong with them?" he says.
+"They're at least six generations old and have hundreds of thousands of hours
 on them." she notes.
 "So?" he replies.
 I can see the great inpass between engineers and soldiers happening.
-"What happens when you fire thousands of rounds from a pulse rifle, but never
+"What happens when you fire thousands of rounds from a rifle, but never
 change the barrel or clean it." she says.
 He merely nods, "I get it."
-"I'm likely going to have to overhaul their printer using parts from our onboard
-printer just to get it to print reasonable parts."
+"I'm likely going to have to overhaul their printers using parts from our onboard
+printer just to get it to print reasonable parts." Janice notes.
+"How long is that going to take?" he asks.
+"A couple more hours at least. Printing in zero gee is just slower."
+Wikowsky shakes head, "No, to refurbish the printers down there."
+"Honestly, I don't know. Days, weeks, they won't let me take a rocky to go see
+them, so I can only guess based on what scant data their base mainframe will
+let me see.
+Turning to me she sheepily says, "Sir, requesting permission to bring our
+printer to the surface."
+I really hated this idea, but I hated being on the surface even more. In the
+academy they drilled the idea into us to keep options open and that the printers
+were tools that can make tools. Here I was being asked to remove an asset that I
+might need later.
+"Granted, on the caveat that we at least attempt to take it with us." I reply.
+I knew once the colonists saw what the latest generation of printers could do
+it would fall off the ship on the way back. I knew we'd have to assign a marine
+to just guard damn the thing.
+Marines and Cybertechs alike grumbled but there really isn't any other
+alternative. Lists were made and completed, parts were printed and secured.
+The dropship was stripped down and loaded to the gills. Walking into the pit
+I was distressed to see that the printer had to be cut out of its alcove.
+Apparently they expected it to be repaired in-situ.
+Packed in a converted weapons crate, I hoped the printer would survive reentry.
+The mantra "Trust your people" kept rattling around in my head. Honestly at this
+point, pulling it apart would likely undo any careful packing they'd engaged in.
+Two days of trying to pack everything you might possibly need, while in zero-g
+caught up with everybody, the exhaustion and frustration was painted on
+everybody's faces.
+"This seemed like a shit idea when we both came up with two days ago, it stil
+seems like a bad idea." I joke at Wikowsky.
+Pointing at my boots, "You're finally going to get to break those in." he laughs.
+Gallows humor as far as I could see it.
+I have Alice blow the whistle. "Everybody hit the rack, in five hours we'll be
+in oribital position for the MCM drop." A chorus of nods and "yups" went
+through our small ship.
 
+Chapter 15.
+
+Marines have a quality that I envy. The capacity to sleep anywhere with a
+moments notice. Yet another way I'm built different. Sleep didn't come to me
+after an hour I unzipped the sleeping bag and floated out. Sleeping in zero
+gee is also weird. Microgravity tinkers with your ear. Ultimately you'll find
+some position where your head feels up and your feet feel "down". For me it was
+head down against the wall of my quarters right above the bed. Floating out into the main area of the hab I am surprised to see Wikowsky strapped into the chair working a tablet.
+"Can't sleep?" I ask.
+He nods. "I hate that we don't have any intel. Alice's sensors are okay, but
+nothing like what the DeBe had."
+I nod back.
+Looking at the data, the storm seems to only have grown.
+"The sensors are shit, but all the same, that damn storm." I laugh.
+"I'm not sure which is worse, the MCM or the drop ship, it's going to be rough
+either way."
+I'd already eaten as much anti-nausea meds as Alice would despense me.
+"Which are you riding down in?" I ask.
