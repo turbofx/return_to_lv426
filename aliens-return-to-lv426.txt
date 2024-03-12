@@ -2982,18 +2982,102 @@ through our small ship.
 Chapter 15.
 
 Marines have a quality that I envy. The capacity to sleep anywhere with a
-moments notice. Yet another way I'm built different. Sleep didn't come to me
-after an hour I unzipped the sleeping bag and floated out. Sleeping in zero
-gee is also weird. Microgravity tinkers with your ear. Ultimately you'll find
-some position where your head feels up and your feet feel "down". For me it was
-head down against the wall of my quarters right above the bed. Floating out into the main area of the hab I am surprised to see Wikowsky strapped into the chair working a tablet.
+moments notice. Yet another way I'm built different. Sleep didn't come to me at
+moments like this. After an hour I unzip the sleeping bag and float out.
+Sleeping in zero gee is also weird. Microgravity tinkers with your ear.
+Ultimately you'll find some position where your head feels up and your feet feel
+"down". For me it was head down against the wall of my quarters right above bunk built into the wall. Floating out into the main area of the hab I am surprised
+to see Wikowsky strapped into the chair working a tablet.
 "Can't sleep?" I ask.
 He nods. "I hate that we don't have any intel. Alice's sensors are okay, but
 nothing like what the DeBe had."
 I nod back.
 Looking at the data, the storm seems to only have grown.
 "The sensors are shit, but all the same, that damn storm." I laugh.
+He just shrugs.
 "I'm not sure which is worse, the MCM or the drop ship, it's going to be rough
-either way."
+either way." I snicker.
 I'd already eaten as much anti-nausea meds as Alice would despense me.
 "Which are you riding down in?" I ask.
+"I'll be with my men in the MCM." he replies, his answer immediate.
+It seemed fitting as their commander.
+He looks at me serious for a moment.
+"Hurgs, do you think we've got a chance?"
+To this I simply blow out a breath.
+"This whole mission has been a fractal fuckup. Frankly, I think our chances are
+low. I'm a math guy and there are too many variables to this equasion." I reply.
+"In NCO school we call them the unknown unknowns." he replies.
+"I know we've had our differences, but the fear I saw in the colonists eyes,
+it's going to be a pure shitshow. Taking their raw materials to build engines,
+then leaving them to who know what's fate." I shake my head.
+"You afraid they won't let us leave?" he asks.
+To this I just shrug. There was a growing fear in my gut. This landing, the
+inevidable bargaining, whatever bullshit story Ziegler had told them, us, this
+hybrid and her unknown abilities, this devowerer entity.
+I put my hands on my head and rub the various ports and subdermal interfaces
+that dot my skull.
+Wikowsky looks over, "You frosty?" he asks.
+I nod. "Variables, too many variables."
+He nods back, "unknown uknowns."
+Alice whispers in my ear, "The debris that was the DeBe is beginning to reenter
+the atmosphere." I acknowledge this.
+"Main screen." I say.
+We watch as the command module enters the atmosphere a tumbling wreck, one of
+the spars had completely skewered it. The blown open orbital batteries massive
+capacitors, each the size of a rocky and sled combined explode in a shower of
+small meteors. I can't help but just imagine how many credits worth of hardware
+is evaporating right now.
+"Alice, are any pieces likely to make it to the ground?" I ask outloud.
+"Major railgun assemblies and ammunition, reactor vessel." the AI replies.
+"Will the reactor be intact?" I ask.
+"High probability." the AI replies.
+"You're not thinking of retrieving that thing?" Wikowsky asks.
+To this I just snicker. "No, I just want to make sure the xeno's aren't also
+radioactive."
+We continue to watch in silence. At last the show ends.
+I look over and he's out cold, strapped in.
+
+Chapter 16
+
+"Fourty five minutes until zulu point" Alice says over the general speakers.
+This kicks everybody into gear.
+At zulu point, we will be in an orbital position to use the least fuel to get
+to the main hab.
+The last fifteen minutes are the most hectic, checking of seals.
+At last the doors close. Sitting in the cockpit all I can do is watch as Janice
+flies. The last act before detaching the armory module was to fill the Cybernets
+Hab modules tanks with as much fuel as they could take, then they detach.
+Janice gently backs away from armory module, it's weight now massivly reduced we
+watch as it's small RCS motors fire in rapid pulses. We could only hope it's
+limited onboard computer could keep it in orbit.
+"MCM is orienting for deorbit." Alice says over the comms.
+I'd tied everybody's comms together.
+"Roger that. Green across the board. Semper Fi." Fisher's voice comes through.
+"Come home safe." replies Marco.
+The next thirty minutes were rough. Alice and Janice fly the ship together
+through the storm. I knew that Janice was a qualified pilot, but not on a
+Cheyanne dropship. Alarms blare to be immediately silenced as Janice flips
+switches. I simply hold on. We buck and twist. The engines roar and hum.
+On the HUD I see a red triangle pop up, below it reads "DS1" two sets of numbers
+give range and altitude and they're both growing smaller distressingly fast.
+The engines gain three octives and I watch the numbers slow.
+"Touch down in twenty seconds." Janice says over the radio.
+As a parting give a gust buries the dropship into the landing gear for last
+meter.
+Immediately, Alice winds the engines down.
+Janice lets out a deep breath. "Good on fuel, enough to get back to orbit if
+we're not too loaded."
+"You flew great" I try my hand a bit of a peep talk.
+"Alice saved my ass a couple of times." she snickers.
+In our ear pieces we hear Alice through static, "Janice was also vital, as
+you say, 'saved me ass' as well."
+"How did the MCM fair?" I ask.
+"The storm blew it off course, it landed approximately one hundred and fifty meters from your present location." Alice replies.
+"Hurgs calling Wikowsky. You guys alright?" I ask.
+"We made it down, we managed to do a flip at one point, but we landed right side
+up." he laughs.
+"You realize your a football field and a half away likely near nests." I note.
+"Yeah, that had occured to us. We're sitting quiet and evaluating our options."
+he replies.
+
+
