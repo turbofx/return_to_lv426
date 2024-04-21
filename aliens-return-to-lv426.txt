@@ -2713,7 +2713,7 @@ Speaking in terms that Wikowsky would appreciate "When I get ahold of
 that fucking bio tech, I'm going to strangle him."
 "Do you think he took him on that escape pod or hid them in the ship?"
 he muses outloud.
-"They're too valuable to leave behind, he's got them." I replied.
+"They're too valuable to leave behind, he's got them." I reply.
 "What can he do with them? There aren't any ships down there." he asks.
 "There aren't any ships that we know about. Plus they've got piles
 of raw materials and printers. I'd bet a credit there are plenty of
@@ -2730,8 +2730,9 @@ against the wall, his face a bloody mess, but breathing.
 "Roxxie, what happened?" I ask into the comms. Nothing.
 "Alice, status?" I ask.
 "Thirty two seconds ago, when Roxxie was initiating the undocking, a
-trap was triggered causing the engine segment to detonate." Alice
-replies.
+trap was triggered causing the engine segment to detonate. The engine
+modules water jacket was expelled outward slamming into our module,
+doing minor damage."
 Wikowsky was now starting to come around, "The fucking hell" is all he
 had to say.
 "Current status Roxxie?" I ask Alice.
@@ -3061,8 +3062,10 @@ reenter the atmosphere." I acknowledge this.
 "Main screen." I say.
 We watch as the command module enters the atmosphere a tumbling wreck,
 one of the spars had completely skewered it. The blown open orbital
-batteries massive capacitors, each the size of a rocky and sled combined explode in a shower of small meteors. I can't help but just imagine how
-many credits worth of hardware is evaporating right now.
+batteries massive capacitors, each the size of a rocky and sled combined
+explode in a shower of small meteors. I can't help but just imagine how
+many credits worth of hardware is evaporating right now. Easily hundreds
+of millions.
 "Alice, are any pieces likely to make it to the ground?" I ask outloud.
 "Major railgun assemblies and ammunition, reactor vessel." the AI replies.
 "Will the reactor be intact?" I ask.
@@ -3070,6 +3073,9 @@ many credits worth of hardware is evaporating right now.
 "You're not thinking of retrieving that thing?" Wikowsky asks.
 To this I just snicker. "No, I just want to make sure the xeno's aren't
 also radioactive."
+At this Wikowsky starts giggling. "Then they really would be, well,
+big green men." to cap it off he giggles some at his own joke and then
+goes quiet.
 We continue to watch in silence. At last the show ends.
 I look over and he's out cold, strapped in.
 
@@ -3143,7 +3149,7 @@ going old school.
 "Hurgs to Ziegler. I'm going to bring my rocky online and help unload gear."
 I say into the comms channel.
 "Roger that." is the only reply I get.
-Riding the freight elevator back up to the surface, I pulled my vision
+Riding the freight elevator back up to the surface, I pull my vision
 out to see Janice has left the cockpit and is coordinating logistics in the
 main bay. In the cockpit I feel the cool air and smell ozone. They've
 dropped the back hatch and are rolling out the sled filled with gear.
@@ -3188,9 +3194,12 @@ gives me a smirk and a wink and then crosses her arms.
 Our complicated relationship and only grown moreso over the years. Cyber
 corps doesn't lend itself to healthy work life balance.
 The doors open and I find myself in an agreculture store room. My physical
-eyes map the room. The rocky makes you so much taller. I marvel at the farm equipment neatly mothballed that's so much bigger in real like.
+eyes map the room. The rocky makes you so much taller. I marvel at the farm
+equipment neatly mothballed that's so much bigger in real like.
 "You must be Hurgs!" a familar voice says. Ziegler strides over and shakes
-my hand. Again, the perspective of things has been skewed by the size of the rocky in comparison to other things. Ziegler is a decently tall guy, greying at the temples, with a firm handshake.
+my hand. Again, the perspective of things has been skewed by the size of the
+rocky in comparison to other things. Ziegler is a decently tall guy, greying
+at the temples, with a firm handshake.
 "Elizabeth, come meet Mr. Hurgs." he says in his rich baratone voice. I
 immediately sense that he is one of those magnetic people who can command a
 room and convince people to do things.
@@ -3206,8 +3215,8 @@ elevator." he points. She nods heads over to help unload gear.
 "Yeah. It was like I was being watched." I reply.
 To this comment he nods.
 "You think something is up?" I ask.
-"Possibly. Elizabeth has confided in me that she's gone on the charm
-offensive, trying to coax information out of her." he replies.
+"Possibly. Elizabeth has confided in me that this entity has gone on the
+charm offensive, trying to coax information out of her." he replies.
 "Anything we should worry about?" I ask.
 "I don't believe so. Elizabeth is a smart girl. She knows that this
 devower entity has hostile intent." he replies.
@@ -3247,7 +3256,7 @@ Out loud I yell "Stop the elevator!!"
 The marines begin dumping themselves into the narrow slit of the elevator
 that's protruded above the ground.
 The dropship that's out of fuel opens up on the drones. It's fusalade of
-fire adds to the volume. An entire swath of drones falls sizzling in the
+fire adds to the volume. An entire swath of drones fall sizzling in the
 rain, but they still creep forward.
 A roar pierces through the storm.
 "Close it now!" I say to the marines. I can see that last of them has tumbled
@@ -3263,3 +3272,175 @@ Flanked by dozens of drones the queen looks resplendant.
 Tilting her head back she lets out a roar that vibrates the rain in the air.
 The queen steps back, turns and stomps back into the darkness of the driving
 rainstorm.
+I hear cheers go through the comms.
+"She fled!" I hear a happy marine say, "we pushed them back!"
+To this I simply take a deep breath, "It was a tactical retreat. Once she
+saw the doors slide shut on the elevator, she knew it was over. We didn't
+push them back, she realized it was a pointless waste of resources.
+"Which means what?" another unamed Marine asks into the chat.
+Ziegler finishes my thought before I can even say it into the comms.
+"They'll be waiting. The moment the armored doors open, they'll be ready
+to pounce."
+It was my tactical analysis as well.
+"Can't we put sentry guns up then?" Wikowsky asks.
+"We could, but they'll just bring so much force we'll run out of ammo."
+I reply.
+"What about the gear that's up there?" he asks.
+I see ammo canisters, food packs and other equipment scattered around.
+"Is any of this equipment fragile?" I ask.
+I have give the marines credit, their shit is tough. I piled their gear
+on the platform and gave the word, it slides back and then slides closed.
+Even though Wikowsky didn't have any concerns about the ammo, I still piled
+it on top of the pile. The idea of a case of fourty millimeter grenades
+breaking open and going off after a hundred and fifty meter fall would be the
+icing on this shit cake as far as I was concerned.
+"All intact" replies Fisher. He'd been tasked with inventorying and
+organzing all the marines gear. Frankly, I was impressed with what they were
+all carrying. Each marine had grabbed a spare pulse rifle and a full loadout
+of ammo. It still didn't seem like enough.
+I put the rocky into sentry mode and take the neural headset off to see both
+Roxxie and Janice staring down at me. This is nevergood.
+"What now?" I ask jokingly.
+Both woman look at each other, then look at me, I can see a debate going on
+who is going to give me the bad news first.
+I break the stalemate and point at Roxxie. "Go." I say.
+She takes a breath. "Their printers are beyond trashed. Their large caches
+of refined metals are only refined in the strictest of terms. Their data
+systems are at least thirty years out of date, I could go on."
+I nod. Fractal shitshow, as usual.
+I point at Janice. "Sir, we're here taking resources that they feel they're
+going to need for their future. I don't blame them, but to say that our
+reception has been friendly would be a major miscoception. They also hate
+Ziegler with a burning passion. I don't blame them in that regard. So I
+had to cut some deals."
+To this I cock my head.
+"Describe deals?" I ask.
+As Janice went into the details, I felt myself breaking a sweat. The
+colonists were fantastic bargainers and we were at a disadvantage.
+I called Wikowksy over the four of us powwowed and Janice filled him in on
+the deal.
+"Fuck me. On whose authority did you start making deals to trade classified
+technology and seats on the ride home?" he asked. The frustration and
+resignation in voice hung in the air like smoke.
+"You asked me to build you engines, I'm doing what I have to do. We need
+their cooperation and materials. Even if you went in guns blazing, you'd run
+out of bullets before you ran out of colonists.
+"How are they choosing the five that'll go?" I ask.
+"It's actually three. Two are spoken for" she replies and points over at
+Ziegler and Elizabeth.
+Roxxie swoops in at this point to Janice's defence. "Honestly, most of
+the colonists came here eyes open. A few got duped but the ones I've talked
+to knew this was a generational operation. They've been cut off for more than
+twenty years. We're helping them get a leap forward technology wise."
+I looked at both of them, "You made it clear our printer is going with us?"
+I asked.
+"Yes sir, we started by pointing out that was not negotiable, but our plan
+is to get their printers at least to a generation behind ours." Janice
+replies.
+"You all realize we'll likely all get court marshalled for this and end up
+on some ice hauler." Wikowsky shakes his head.
+To this, Roxxie just laughs. "Sign em up."
+Realizing that there was going back and the die had been cast, he stands up
+to his full height, looks at the three of us and says, "Carry on." then holds
+up a finger.
+"In the future, please ensure that Hurgs and myself are included in future
+negioations." with that he strides over to where Elizabeth is clearly winning
+at cards.
+"You heard him, full throttle ahead." I nod.
+
+Chapter 17.
+
+Log Entry #118.
+
+Janice and Roxxie have made good progress over the last two weeks, essentially
+building two new printers and then getting those printers to produce something
+better than crumbly dust. Elizabeth has also demonstrated a level of brillance
+when working with the CAD models for the engines that has impressed both Roxxie
+and Janice. They've taken her under their wing and the three of them are
+inseperable. I'm glad to see that they'd stopped seeing her merely as a science
+experiment but a living creature with emotions.
+Negoiations with the settlers continue. As the reality that we're actually going
+to be building engines and attempting to get back to earth, There's been renewed
+interest in expanding the pool of people who can return. Already I've seen the
+plans for what we're going to be doing and it's going to be very bare bones.
+Apparently in the stored plans are schematics for a very simple ship. True to
+form they're taking those plans and making it more complicated with the inclusion
+of the CCM and the ordance module.
+
+End Log Entry #118
+
+Sitting at my makeshift desk looking at the terminal, the reality is that without
+the coils we're fucked. However, the storms have continued to rage outside. Stronger
+than ever. Sustained winds in the ninety kilometer per hour with gusts into the
+one hundred and fifty range are common at this point.
+
+According to the settlers we're in the thick of it now and in a couple more weeks
+it'll start to settle down. On the surface, the jump ships have partially retracted
+their landing gear to sit lower to the ground and fold up their winds in an effort
+to make their aerodynamic cross section lower. Thankfully the shape of the rocky
+makes it pretty tough to tip over, but all the same I've spread the large gripper
+arms out and pressed them into the mud in a hope to keep the rocky from tipping.
+We've been using the optics on the cyber module to image the storm, however from
+space it just appears as if the upper half of the planet is swirling broiling
+mess. I've looked at the specs for the coils and as long as they haven't been
+dinged up took much, even sitting in the mud they'll be usuable. Part of me
+wonders if it was bad luck that the guy ended were he did or if he planned it.
+An open argument has been long brewing if he was going to try to cut a deal with
+the colonists and use the coils and collatoral or if he commited suicide and taking
+the coils was a final pyrric act. A steady stream of inscrutable parts like some
+insane 3D jigsaw puzzle have been making their way up to our area and piled
+on palletts. Some parts are obvious to me, engine bells, piping. Other stuff looks
+like weird gemometric shapes. I've taken to asking Elizabeth what each part does
+and listening as she gets into the details of hyperspace field coil condensors,
+field driver harmonic focusers, combustion chambers and fusion stackers. I've
+asked if she keeps hearing the voices and she simply nods. I think having something
+to do helps let her focus on other stuff. Ziegler for his part has burrowed in like
+a tick in one of the corners. The colonists leader came up and made it very clear
+he'd be shot if he left this room. That guy sure knows how to make friends.
+
+We cleared the last of the xeno's from the storerooms. Once the colonists could see
+what a rocky could do and the person operating it was in the room, their fears of
+faceless robots running amok in their sellement were quelled. After all the weeks
+of clearing nests, it only took a couple of hours. Unfortunately, the devower queen
+has she'd taken to calling herself wasn't among the dead. I openly wondered if the
+queen we'd seen in the clearing was the devower. To this hypothesis, Ziegler
+only shrugged. After clearing the storerooms and lower labs, he'd asked to have
+some of his lab equipment moved into our area and had been roughly denied. This has
+sent him into a reclusive funk. Days have by when he doesn't talk to anybody but just
+bangs away at a terminal.
+
+At last, we begin to see the winds subside somewhat. The piles of parts have grown
+ever larger. I've watched as the three of them have done test fits and bolted part
+subassemblies together.
+
+"Alice, any chance we could get some focused imaging of the site we think that
+escape pod went down?" I ask.
+"Unfortunately, the optical systems are incapable of resolving enough detail
+to give you more accurate results." the AI replies back.
+"Does it at least look the same as before?" I ask.
+"No. It appears that the site has been disturbed, however, as noted I lack
+resolution to determine the cause."
+It's cute that the AI was being really polite about saying "I can't see shit."
+I get everybody together, including Ruvi and Marco who've at this point are beyond
+bored. I ask for open ideas.
+Erickson proposes that we have Alice or Janice fly one of the drop ships and get
+better visuals on the crash site. Upon mentioning it, everybody nods in agreement.
+As the idea that a topside operation is starting to take shape, the marines start
+aggitating to get involved.
+Alice has continued to suffer from interference on the subspace bands and agrees
+that having a human pilot on board will be prudent. I'm personally not excited
+at the idea of having one of my chief engineers so exposed. Unfortunately nobody
+else is even close to being qualified to fly a Cheyanne. The marines see this
+as an opportunity. If subspace is unreliable, then so are the rockies so a
+detachment of marines should go as well, just in case. The snowballing effect was
+coming into play. Wikowsky and I agreed that a full detachment was too much, this
+is just a recon mission. Get in, get out quick. Six marines, a pilot and a
+semi-trained co-pilot, plus two rockies, nothing more. The next problem was going
+to be getting to the drop ship. The moment we even warmed up the engines, I was
+sure our friends topside were going to try and pounce. Second by second procedures
+were drawn up and the military planning geekery came out in full display. Hours of
+drilling and prepping started. Jeremy volunteered to go. He argued that he was the only
+fully trained marine, a semi-trained pilot and a fully trained cybertech
+in the squad. While is argument was sound it also made him one of my more
+valuable members. He argued that Janice and Roxxie were the most valuable
+since they were building the engines and other components.
