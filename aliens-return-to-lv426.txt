@@ -3369,12 +3369,12 @@ of the CCM and the ordance module.
 
 End Log Entry #118
 
-Sitting at my makeshift desk looking at the terminal, the reality is that without
+Sitting at my makeshift desk, looking at the terminal, the reality is that without
 the coils we're fucked. However, the storms have continued to rage outside. Stronger
 than ever. Sustained winds in the ninety kilometer per hour with gusts into the
 one hundred and fifty range are common at this point.
 
-According to the settlers we're in the thick of it now and in a couple more weeks
+According to the settlers, we're in the thick of it now and in a couple more weeks
 it'll start to settle down. On the surface, the jump ships have partially retracted
 their landing gear to sit lower to the ground and fold up their winds in an effort
 to make their aerodynamic cross section lower. Thankfully the shape of the rocky
@@ -3386,7 +3386,7 @@ mess. I've looked at the specs for the coils and as long as they haven't been
 dinged up took much, even sitting in the mud they'll be usuable. Part of me
 wonders if it was bad luck that the guy ended were he did or if he planned it.
 An open argument has been long brewing if he was going to try to cut a deal with
-the colonists and use the coils and collatoral or if he commited suicide and taking
+the colonists and use the coils as collatoral or if he commited suicide and taking
 the coils was a final pyrric act. A steady stream of inscrutable parts like some
 insane 3D jigsaw puzzle have been making their way up to our area and piled
 on palletts. Some parts are obvious to me, engine bells, piping. Other stuff looks
@@ -3404,10 +3404,12 @@ faceless robots running amok in their sellement were quelled. After all the week
 of clearing nests, it only took a couple of hours. Unfortunately, the devower queen
 has she'd taken to calling herself wasn't among the dead. I openly wondered if the
 queen we'd seen in the clearing was the devower. To this hypothesis, Ziegler
-only shrugged. After clearing the storerooms and lower labs, he'd asked to have
+only shrugged. Cagey as ever, I think he knows more than he's letting on, but seems
+ambivolent to the whole situation.
+After clearing the storerooms and lower labs, he'd asked to have
 some of his lab equipment moved into our area and had been roughly denied. This has
-sent him into a reclusive funk. Days have by when he doesn't talk to anybody but just
-bangs away at a terminal.
+sent him into a reclusive funk. Days have by when he doesn't talk to anybody but
+just bangs away at a terminal.
 
 At last, we begin to see the winds subside somewhat. The piles of parts have grown
 ever larger. I've watched as the three of them have done test fits and bolted part
@@ -3431,16 +3433,16 @@ Alice has continued to suffer from interference on the subspace bands and agrees
 that having a human pilot on board will be prudent. I'm personally not excited
 at the idea of having one of my chief engineers so exposed. Unfortunately nobody
 else is even close to being qualified to fly a Cheyanne. The marines see this
-as an opportunity. If subspace is unreliable, then so are the rockies so a
+as an opportunity. If subspace is unreliable, then so are the rockies, so a
 detachment of marines should go as well, just in case. The snowballing effect was
-coming into play. Wikowsky and I agreed that a full detachment was too much, this
-is just a recon mission. Get in, get out quick. Six marines, a pilot and a
-semi-trained co-pilot, plus two rockies, nothing more. The next problem was going
-to be getting to the drop ship. The moment we even warmed up the engines, I was
+coming into play. Wikowsky and I agreed that a full detachment is too much, this
+is just a snatch mission. Get in, get out quick. Six marines, a pilot and as close
+to a co-pilot as we can get, plus two rockies, nothing more. The next problem was
+going to be getting to the drop ship. The moment we even warmed up the engines, I'm
 sure our friends topside were going to try and pounce. Second by second procedures
 were drawn up and the military planning geekery came out in full display. Hours of
-drilling and prepping started. Jeremy volunteered to go. He argued that he was the only
-fully trained marine, a semi-trained pilot and a fully trained cybertech
-in the squad. While is argument was sound it also made him one of my more
-valuable members. He argued that Janice and Roxxie were the most valuable
+drilling and prepping start. Jeremy volunteeres to go. He argues that he was the
+only fully trained marine, a semi-trained pilot and a fully trained cybertech
+in the squad. While is argument is sound it also made him one of my more
+valuable members. He argues that Janice and Roxxie are the most valuable
 since they were building the engines and other components.
