@@ -1,0 +1,17 @@
+This is a bit of fanfic set in the "Aliens" universe some number of years after the events in the "Aliens" movie.
+This started out as a straight formward intelectual question.
+
+"So, in this universe they've got FTL, GPAI and hypersleep chambers, yet when presented with some scary unknown threat, 
+their first answer is to throw squishy humans in body armor at it?"
+
+I fully realize that Aliens as a movie is a product of its time and the imagination of the people writing it.
+
+However, we now live in a world with drones and robotics that even in our stage of development are _quite good._
+I can't help myself but to ask the question of "what if?"
+
+This is my exploration into that question, while following the tropes that makes the "Aliens" universe so great.
+
+I'm writing this in LibreOffice and then converting to PDF / EPUB / TXT / HTML.
+
+While stated in the disclamer at the top of the document, this is merely a passion project. 
+Please don't sue me.
