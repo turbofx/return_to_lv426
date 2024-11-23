@@ -7,5 +7,7 @@ echo "Building TXT"
 $SOFFICE --convert-to txt aliens-return-to-lv426.odt aliens-return-to-lv426.txt
 echo "Building EPUB"
 $SOFFICE --convert-to epub aliens-return-to-lv426.odt aliens-return-to-lv426.epub
+echo "Building HTML"
+$SOFFICE --convert-to html aliens-return-to-lv426.odt aliens-return-to-lv426.html
 
 
