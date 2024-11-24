@@ -2231,7 +2231,7 @@ We change our tactics. Robots are reequipped with downward facing sensors and dr
 That day we observe our first xeno on xeno battle. According to Ziegler and Elizabeth, it’s factions three and five. We’re to blame according to what the devourer is saying to Elizabeth. We’re squeezing their territory and now faction three thinks it can take faction five nests.
 
 Marco spots it first and radio’s down coordinates. Long range drones launch to get good video of the action and relay it to the control room. Quickly word spreads and every video device in the habitat is watching the fight. Thousands of xeno’s tear into each other, there’s at least five queens on each side. A feature of human nature as old as time immortal comes to the foreground and bets start being placed on queens. Quickly names are thought up and each queen is tagged. Sitting in our store room we watch as the queens tear into each other. It’s a brutal and ugly fight. In the end faction three is victorious, faction five’s drones, fight to the last xeno.
-As the drone banks around to get a better view of the group of victorious queens I see the display has switched to target mode. It hits me, this drone is armed. A trio of missiles arches out from the drone and slams into the group of queens. The blast wave obliterates the queens and the shockwave flattens drones, causing them to literally burst at the seams. Through the compound cheers are heard. A bets a bet, but watching xeno’s get splatted has become the real past time. There’s a leader board with kills on it. A couple of the colonists have become absolutely maniacs. I know this is only going to cause the remaining xeno’s to finally realize who their collective enemy truly is.
+As the drone banks around to get a better view of the group of victorious queens I see the display has switched to target mode. It hits me, this drone is armed. A trio of missiles arches out from the drone and slams into the group of queens. The blast wave obliterates the queens and the shockwave flattens drones, causing them to burst at the seams. Through the compound cheers are heard. A bets a bet, but watching xeno’s get splatted has become the real past time. There’s a leader board with kills on it. A couple of the colonists have become absolutely maniacs. I know this is only going to cause the remaining xeno’s to finally realize who their collective enemy truly is.
 
 With the improving weather Marco and Ruvi make good use of the limited optics and Alice’s computing power to watch for changes on the ground. Xeno’s are seen coming and going from the ship, which is now fully dug out.
 
@@ -2295,7 +2295,7 @@ Joann nods, she’d been in and out of the “control room” as people had star
 “Yes and no.” laughs Wikowsky.
 To this she looks perplexed.
 “We knew this day was coming and the marines have been preparing for it. Well entrenched positions with huge amounts of ammunition, and we know they guys don’t love fire.”
-I’m watching this entire exchange, Wikowsky is in his element. I’d like to think if he lived three thousand years ago, I’d have learned about him in history class. The atmosphere of LV426 is really heavy on carbon dioxide. Power plus oxygen and carbon dioxide and presto, rocket fuel. Before long we literally had more of the stuff then we knew what to do with.
+I’m watching this entire exchange, Wikowsky is in his element. I’d like to think if he lived three thousand years ago, I’d have learned about him in history class. The atmosphere of LV426 is really heavy on carbon dioxide. Power plus water, oxygen and carbon dioxide and presto, rocket fuel. Before long we literally had more of the stuff then we knew what to do with. Realizing the danger of having so much of the stuff in one place, depots of the stuff had been spread out as well as earth works and emplacements that could use the fuel as a weapon.
 Equipment continued to be shifted down the elevator until it was deemed to dangerous to be on the surface. The last of the robots that couldn’t be brought down was loaded up with explosives and send trundling off. At last the elevator was sealed and a heavy concrete lid was pushed over it by one of the robots.
 
 Video from cameras connected via hard line was shocking. The drones in autonomous mode had been making strafing runs until their ammo ran out, but it was like throwing snowballs at an avalanche.
@@ -2310,11 +2310,11 @@ I’d been so focused on what I needed to do, I’d only heard snippets of their
 “What’s your plan?” Joanne asks.
 Wikowsky motioned to have Joanne come to the holotable. It has been expensive in terms of materials and printing time, but he’d argued the sensor integration and view of battle had been worth it.
 “I don’t know who chose this spot, but it was chosen really well. The ground is made out of whatever silicon impregnated granite shit is, so they can’t tunnel under us, well at least not easily. Because of Hadley’s chin, to hit this point, they have to focus on us from these to directions.” as he spoke he gestured at the table.
-A shock went through the floor. Joann’s eyes went wide.
+A rumble went through the floor. Joann’s eyes went wide.
 “They’ve hit the first defenses.” the marine notes.
 “Those would be?” she asks.
-“Modeled after a german mine called a bouncing betty. Except ours is a canister of rocket fuel sitting on top of a small charge and delay fuse. After a xeno steps on it, it springs out of the ground and showers everything in a thirty meter radius with flaming jet fuel.”
-This explained where all our jet fuel stores had gone. We’d discussed spreading out the stock so we did have one giant tank. More shocks shutter through the tunnels.
+“Modeled after a german mine called a bouncing betty. Except ours is a large canister of rocket fuel sitting on top of a small charge and delay fuse. After a xeno triggers it, it springs out of the ground and showers everything in a thirty meter radius with flaming jet fuel.”
+This explained where all our jet fuel stores had gone when the depots were filled. We’d discussed spreading out the stock even more so we didn’t have a couple of giant tanks. More shocks shutter through the tunnels.
 “How many of these things did you plant?” she asks. The concern on her face apparent. On earth, even hundreds of years after conflicts people were still stepping on land mines that had been buried two generations ago.
 “Oh, easily hundreds. No worries, we took careful note of where they all are.”
 “Famous last words of every army.” she snickers.
@@ -2323,8 +2323,7 @@ On the monitor on the wall, can see that the advance is slowed. The bouncing bom
 “It’s not like them to just break off an attack.” Fisher, one of the marines from the first MCM notes.
 “These aren’t stupid xeno’s. The controllers took unexpected losses and are trying to figure it out.”
 In real time, we see the xeno’s form into single file lines and start advancing.
-“Clever fuckers.” I note.
-“I was hoping we’d kill more of them, but we knew they’d catch on.”
+“Clever fuckers.” I note. “I was hoping we’d kill more of them, but we knew they’d catch on.”
 Joann is confused by all this.
 “So it didn’t work?” she asks.
 “Oh, it worked and it didn’t. They’ve just been presented with a new weapon they’ve never seen and troops were just killed. They figured out it was something in the ground and they’re now adapting with tactics any good commander would employ.” On the monitor we see a flash as a column leader steps near a bouncing bomb. We see the shadow of several xeno’s wreathed in fire before disappearing entirely. Just as quickly, the xeno’s keep walking forward over the corpse. More explosions come and then we watch as the xeno’s begin to crouch down close to the ground. At once the xeno side steps and continues on head down. The other xeon’s pick up on it and before long the explosions stop.
@@ -2342,7 +2341,7 @@ We feel a vibration shutter through the ground. Wikowsky simply says, “We prin
 Indeed the canisters look much like the Soviet era racked rocket launchers.
 “Literally zero guidance, but with them being shoulder to shoulder, not much needed.” he laughs.
 On the holotable dotted arcs appear. It looks impressive but I know the reality. We can kill tens, even hundreds at a time, but there’s just too many of them.
-“What I wouldn’t give for a tactical right now” I note.
+“What I wouldn’t give for a tactical nuke right now” I note.
 Wikowsky nods.
 Joanne looks at both of us horrified.
 
