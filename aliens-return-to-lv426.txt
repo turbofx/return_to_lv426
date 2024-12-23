@@ -123,9 +123,7 @@ their eventual victories over this foe. Xenomorph heads as trophies are a popula
 nose with a predator that could at best kill me or at worst use me as a womb for another Xenomorph doesn't sound appealing at all. As far as I am concerned, I'm more than happy to merely orbit the planet. Landing in ankle deep mud and fighting monsters is a job for robots and these guys.
 
 However, the events on LV426 had lead to me being here. After the debacle, the military realized that threats like the Xenomorphs weren't going to be easily tackled by men and women in body armor. Two major innovations happened that changed things in a big way. The first was the subspace radio. This allowed for far faster comms across stellar distances and near instantaneous communications within a single solar system, taking control and sensing to the next level. The second innovation was the creation of neural shunt technology that allows for the true blending of man and machine. Suddenly the
-military was presented with the reality of having robots they could control at great distances. You might be asking why even come on this ship then? As the Astro techs have tried to explain some of the math, the
-farther you are away, the lower the amount of bandwidth. Communicating
-with Earth is now so slow it can be measured in bits per minute. As this session dragged on and various training and maintenance tasks were handed out a few marines groused more and more about not getting down to the planet, I wondered why they'd even been thawed. A thought a couple marines had expressed as well. Others took it in stride. Fine if they weren't going to get down to the planet, they were going to be riding our asses and looking at every pixel we fed back.
+military was presented with the reality of having robots they could control at great distances. You might be asking why even come on this ship then? As the Astro techs have tried to explain some of the math, the farther you are away, the lower the amount of bandwidth. Communicating with Earth is now so slow it can be measured in bits per minute. As this session dragged on and various training and maintenance tasks were handed out a few marines groused more and more about not getting down to the planet, I wondered why they'd even been thawed. A thought a couple marines had expressed as well. Others took it in stride. Fine if they weren't going to get down to the planet, they were going to be riding our asses and looking at every pixel we fed back.
 
 This whole thing was going to be hot garbage anyway you cut it.
 
@@ -139,7 +137,7 @@ Wikowsky pushes his way up to our group, stabbing a finger in my chest, "All thi
 
 I've been to this rodeo plenty of times. The trick was to show the guy think you're in the same boat as him and then give him a carrot. "Look man, I'm just following orders like the rest of you. If we find something, you'll see it as well. The feeds will be going to everybody."
 
-"The Mark I eyeball is all I need." he replied which brought a couple "yeas" from the group that formed around us. I could sense the tension in the area, this guy had a Xenomorph tattoo on his forearm. "We have chain of command for a reason. Talk to your CO, I've got orders."
+"The Mark I eyeball is all I need." he replies which brings out a couple "yeas" from the group that has formed around us. I could sense the tension in the air, this guy had a Xenomorph tattoo on his forearm. "We have chain of command for a reason. Talk to your CO, I've got orders."
 
 Jeremy's hand catches Wikowsky's fist millimeters from my face, he then spins into a jujitsu move that has Wikowsky pinned to the wall. Nose to nose, Jeremy growls, "Stow it. We've got enough going on without your bullshit as well." At this, Jeremy drops the lock and gave the guy a
 good shove. We turn and walk away. "Keep walking" he yells.
@@ -171,14 +169,15 @@ For this mission we'd also been issued "sleds." Drop vehicles that contain their
 "Glue dispensers?" pointing to the tablet. I took a deep breath, time for the rest of the briefing. "Everybody take a seat." I said. "The marines got told what they needed, we have secondary orders to capture a Xenomorph if possible. Hence the aforementioned glue dispensers."
 
 "And then do what? Bring it on this ship? No fucking way." replies Janice.
-"According to the brass they've got some magic resin to encase and rendered them inert." I explain. "Jesus have mercy on us." mumbles Marco. The last member of our group was a petite woman named Joanne, but goes by the handle Roxxie. "Roxxie, You've been quiet through all this. Feel
+"According to the brass they've got some magic resin to encase and rendered them inert." I explain. "Jesus have mercy on us." mumbles Marco. The last member of our group was a petite woman named Roberta, but goes by the handle Roxxie. "Roxxie, You've been quiet through all this. Feel
 free to speak up." At this, she let out a sigh. "A missions a mission, but this seems like a really bad one. I've read the files on what those things are capable of. Acid for blood, super strong, immune to vacuum. 
+Has one even been captured to test this containment on?" 
 
-Has one even been captured to test this containment on?" We all know the answer to that. Even one had been, we'd have been the last to be told about it. "I know saying trust the system is clique here, but in this case, we're going to have to roll with it." Everybody nods. We all know the score. There were bigger things afoot here, we just weren't entirely privy to all the details. "Look on the bright side, we've got latitude on our load outs. Pack for a party!" Like kids in a candy store, they go to work. Ammo drums are hosted into place, bolts tightened, connectors checked. Over the next three hours drop details are fed to my tablet. 
+We all know the answer to that. Even one had been, we'd have been the last to be told about it. "I know saying trust the system is clique here, but in this case, we're going to have to roll with it." Everybody nods. We all know the score. There were bigger things afoot here, we just weren't entirely privy to all the details. "Look on the bright side, we've got latitude on our load outs. Pack for a party!" Like kids in a candy store, they go to work. Ammo drums are hosted into place, bolts tightened, connectors checked. Over the next three hours drop details are fed to my tablet. 
 
 Ruvi pings me. "Do we even know the drop point?" he asks. In response, I forward the entire intel packet to everybody on the team. "Sir, you just gave me everything." replies Ruvi. "Yes. I've got that power and I'm using it. Let's not go in with eyes half open. Two teams. Team one is Myself, Marco and Janice. Team two is Ruvi, Roxxie and Jeremy."
 
-I wanted to make sure there was someone senior on each team. Roxxie has a cool head and is a solid respected leader in the group. More data flows in. My team is going to investigate why atmospheric processor two isn't calling home. Team two is going to investigate the third processor plant. Everybody nods happy with this arrangement. "Let's get some rest, at up at oh four thirty and by oh five hundred, I expect everybody ready to enter their cradles and jack in."
+I wanted to make sure there was someone senior on each team. Roxxie has a cool head and is a solid respected leader in the group. More data flows in. My team is going to investigate why atmospheric processor two isn't calling home. Team two is going to investigate the third processor plant. Everybody nods happily with this arrangement. "Let's get some rest, at up at oh four thirty and by oh five hundred, I expect everybody ready to enter their cradles and jack in."
 
 Chapter 4.
 
@@ -196,7 +195,7 @@ number of serious dangers. The most common to newer users is known as transition
 "Commander, unit number one is ready." I say "Thank you Alice" but my lips don't move. I'm fully shunted in. Alice is the AI for our group. We're encouraged to give them names and interact with them as full team members.  There's so much data flowing in, without an AI to help collate it, you'd quickly be overwhelmed. "Status check" I say into the comms channel.  "Team 1 ready, team 2 ready." I get firm replies. Good, everybody has jacked in without issue. I switch over to the command channel.  "Cybertech teams  one and two ready." I say into the channel.  "Roger that. Hold tight, we are adjusting our orbit for optimal insertion."  a voice says back. Into the channel I've designated
 "Team 1".  The operational CO speaks up. "Team 1, prepare for drop in thirty seconds.  Team 2, drop in 45 seconds."
 
-This part is a bit of a nothing burger for us. The sleds and our rockies will either make it to the ground in one piece or they simply drop another unit. We have six units, plus an additional six ready to go and just as many in spares that can be assembled. During this time we access the various optical systems on the nadar side of the ship. Janice pings me. "Glad we've got subspace on the rockys, it looks like one hell of storm in the north."  I change my perspective and she is right. While always harsh, the detonation of the primary processor had thrown gigatons of dust into the atmosphere, helping to trap more heat and ironically speeding up the terraforming process.  A wet and rainy planet now with extra heat pumped into it, meant big storms.
+This part is a bit of a nothing burger for us. The sleds and our rockies will either make it to the ground in one piece or they simply drop another unit. We have six units, plus an additional six ready to go and just as many in spares that can be assembled. During this time we access the various optical systems on the nadir side of the ship. Janice pings me. "Glad we've got subspace on the rockys, it looks like one hell of storm in the north."  I change my perspective and she is right. While always harsh, the detonation of the primary processor had thrown gigatons of dust into the atmosphere, helping to trap more heat and ironically speeding up the terraforming process.  A wet and rainy planet now with extra heat pumped into it, meant big storms.
 
 "I wonder if the issue with unit three is water intrusion or a bolt of lightning?" remarks Marco into our group channel. Privately I hoped, though these stations were built to be dropped from orbit and "just work."
 
@@ -243,8 +242,7 @@ leaking from the drones.
 "This ain't good" I hear over the channel.
 "I've got a jar made out of their super material, it held the Xeno blood for about five minutes." Looking over I see him holding up the jar, the bottom of it gone.
 
-"Team one, return to dust off point with the specimen." At this Janice
-opens a Private channel. "This is bullshit. Marco just showed them that their magic test jar couldn't stop their blood. Do you want to be on the DeBe with that thing?" The honest answer was no.
+"Team one, return to dust off point with the specimen." At this Janice opens a Private channel. "This is bullshit. Marco just showed them that their magic test jar couldn't stop their blood. Do you want to be on the DeBe with that thing?" The honest answer was no.
 "Command, this is Team 1 leader. Reporting that Marco's containment vessel failed. Requesting sit eval on return of specimen to DeBraso?"
 
 "We are aware of the situation" comes the reply. It’s easy to forget that all our video is being distributed across the ship into various war rooms. Minutes go by as we wait. Privately in our channel
@@ -255,11 +253,9 @@ Janice pipes up in our side channel, "What the fuck is the plan?"
 "Dunno. Follow orders, go to the grid location." I said flatly.
 We secure the Xeno to Marco's sled as it hisses and snaps at us. As soon as the last tie down is cinched, it promptly trundles off over the horizon. We stowed ourselves and the supplies onto the remaining sleds. 
 "That little one was weird, what was up with its head?" asks Marco. 
-Both Janice and I say nothing. This whole thing is weird
-and getting weirder. The sleds grind through the mud leaving deep furrows as they chug towards our next objective.
+Both Janice and I say nothing. This whole thing is weird and getting weirder. The sleds grind through the mud leaving deep furrows as they chug towards our next objective.
 "Alice, please eject me." I said to the AI. 
-Immediately my senses
-reverted back to the usual's. I hit the eject button and the visor slides back and I felt the neural shunt disengage. Janice and Marco stepped up out of the pits as well. 
+Immediately my senses reverted back to the usual's. I hit the eject button and the visor slides back and I felt the neural shunt disengage. Janice and Marco stepped up out of the pits as well. 
 "Estimated travel time for the sleds is two hours." I say. They nod. 
 There were long term effects of the neural shunts. Headaches being the most prominent one. I could feel one brewing and in more than one way. I jogged slowly down one of the central hab spars that ran the length of the ship. To get the blood flowing and to get some answers. Soon I find myself at the
 Combat Information Center (CIC) door. 
@@ -281,8 +277,7 @@ for that she'd been pulled into a project to outfit the rocky's with composite a
 What a rainy nasty planet. The storm we'd seen from orbit had spun off a series of smaller storms and we are enjoying the benefits of one of them. Wind lashs the sleds. We tumble through the various bands
 looking for anything alive. Around us the ground is glowing with lichen mats, the puddles teem with microbial life. 
 "Weird wildlife" Marco said into the channel to no one in particular.
-"I don't understand how there were drones. There's supposed to be no
-large life forms on this planet." replies Janice. 
+"I don't understand how there were drones. There's supposed to be no large life forms on this planet." replies Janice. 
 It's true. This was something that had bothered us and had become hotly debated while our robots traversed the plant.  The Xeno life cycle was well known.
 "What was encased on the walls then?" I ask.
 To that there's simply silence in the channel. We turn our attention to the planet. The landscape is windswept and desolate. The planet is beautiful in a primordial way. I can see how eventually with decades of terra-forming it will eventually be nice. Get some very hardy GMO grasses going, calm down the atmosphere. I let the sensor data wash over me as muse about this. This place could be a paradise one day, but that was far in the future. It was Marco who saw it first. "What the fuck is that?"
@@ -300,14 +295,14 @@ In our private channel Marco muttered, "Ya think!" Marco climbs back aboard and 
 Chapter 5.
 
 
-"What an ugly hole in the ground." says Marco. Both Janice and I acknowledge it in the channel, it was. Three meters high and seven meters wide, it went down at a steep angle. 
+"What an ugly hole in the ground." says Marco. Both Janice and I acknowledge it in the channel, it was. Three meters high and seven meters wide, it descends down at a steep angle. 
 "Permission to launch a drone into Hadley's asshole?" asks Marco. 
 We both snicker, I hear someone on the command channel snicker as well. 
 "Let's get idea what might be down there." I state. 
 Answering the open question Janice pipes up, "Shit loads of drones, who knows what else. I'm still boggling about that skinny pale one."
 
 "Permission granted. We came to get intel, launch a drone." I order.
-You have give the to Xenos credit, they're at least consistent. Their architecture if you could call it that, is very bio mechanical. Down the center of the ceiling a long spine protrudes, ribs a meter deep extend off this spine down the walls to the floor. Weird spiny crenelations protrude from the walls all over the place. Deep alcoves and blind corners fill this cave. The entrance descends fifty meters and then opens into a low cavern, the air is so humid the down wash from the drone is easily visible. Tunnels go off in eight different directions. 
+You have give the to Xenos credit, they're at least consistent. Their architecture if you could call it that, is very bio mechanical. Down the center of the ceiling is a long spinal protrusion, ribs a meter deep extend off this spine down the walls to the floor. Weird spiny crenelations protrude from the walls all over the place. Deep alcoves and blind corners fill this cave. The entrance descends fifty meters and then opens into a low cavern, the air is so humid the down wash from the drone is easily visible. Tunnels go off in eight different directions. 
 "I bet it stinks" Marco says.
 "Can it. I'm liking this less and less." I say. "Pick a tunnel."
 
@@ -322,13 +317,11 @@ Wayland could try to kill it whenever it came out on the nets, but the knowledge
 "We're just going to leave them?" snarls Janice. I feel her disgust.
 I didn't like it either. "I promise we'll make sure they don't suffer." I say into the channel.
 
-The next tunnel we find another birthing chamber, but here we find pigs instead. It makes sense. Pigs, humans, dogs, livestock, the Xenos didn't really give a shit. The fourth chamber is weirder though. Pig pens. Dozens of them. Sows squealed at the drone. The sows had been glued down by the alien resin.
+The next tunnel we find another birthing chamber, but here we find pigs encased instead. It makes sense. Pigs, humans, dogs, livestock, the Xenos didn't really give a shit. The fourth chamber is weirder though. Pig pens. Dozens of them. Sows squealed at the drone. The sows had been glued down by the alien resin.
 Something that looked like an adapted facehugger grips each sows head. I could feel both Marco's and Janice's disgust through the neural link.
-"They're breeding fucking pigs?" someone says into the various additional
-channels that had linked into the common channel. 
+"They're breeding fucking pigs?" someone says into the various additional channels that had linked into the common channel. 
 "They're stupid animals, how could they be breeding pigs?" some unnamed marine asks in the channel.
-I let out a breath. "Easy. They've been watching us." I say. At this, all the
-channels go quiet. 
+I let out a breath. "Easy. They've been watching us." I say. At this, all the channels go quiet. 
 "We can't just leave those people." says Janice. 
 She is right. Marco has been busy going down additional tunnels. In the sixth tunnel we found something weird, a pulsing mass from ceiling to floor, the weird pale Xenos crawling all over it.
 "What the fuck is that?!?" Marco says into the channel. 
@@ -364,22 +357,18 @@ The screen changes to a view of the southern hemisphere.
 "Stealth mats?" I ask out loud. 
 "We think so. The computer had to wash the image a bunch of times. They did a really good job breaking up regular shapes. We only found it because we had to change the computers filters." 
 "Any chance you nerds could find more of those nests?" asked a Marine. 
-"Yes in fact." with that the screen changes to show dozens of similar openings on the surface.
+"Yes in fact." with that the screen changes to show dozens and dozens of similar openings on the surface.
 The screen is a mix of Thermography and synthetic ground penetrating radar. 
 Each nest shows the classic eight legged tunnel system. 
 "Facehuggers?" someone asks. 
 It did, the thermals made it look like a facehugger. The tech speaks up, 
 "Sir, that puts an entrance within five clicks of Team three."
 "Have they been made aware?" asked the commander.
-"Yes. They've deployed sentries, they've contained the specimen and
-will be blasting off within the hour." replies the tech.
-Contained the specimen. That sounded like they were going to be bringing the damn thing on board.
+"Yes. They've deployed sentries, they've contained the specimen and will be blasting off within the hour." replies the tech. Contained the specimen. That sounded like they were going to be bringing the damn thing on board.
 "Permission to speak freely?" I asked. "Granted." replies the commander, though I did see him roll his eyes.
 I take a deep breath, "We've just witnessed that the Xenos' are smarter than we thought. We should abandon our assumptions about them. Fine, you want to dissect that one, I'm more than willing to task my rocky to a science tech, on the surface, but not onboard." 
-Other marines nod their heads in agreement. 
-The commander nods his head, "Once again your concerns have been noted." 
-To this he points at me, "Cyber teams one and two are to be on standby prep until further notice, dismissed." 
-While I knew this was somewhat of a punishment for speaking up, I was glad we were going to be just chilling in the pit ready to drop in a moments notice. Our cradles are also far better and accessing and consuming the petabytes of data that are flowing through the systems. Team two had been as lucky as we had been. Their processing station was also filled with drones, including the small pale ones. The glue had been ineffective at stopping regular drones and it had turned into a turkey shoot. Roxxie's rocky had been damaged by drones, but still functional. Roxxie and Ruvi were in the prep area working on her rocky. Janice and Marco were looking at the drone footage. I peeked in and they were looking at the footage of the weird column. I checked the message queue, still pending. 
+Other marines nod their heads in agreement.  The commander nods his head, "Once again your concerns have been noted."  To this he points at me, "Cyber teams one and two are to be on standby prep until further notice, dismissed." 
+While I knew this was somewhat of a punishment for speaking up, I was glad we were going to be just chilling in the pit ready to drop in a moments notice. Our cradles are also far better and accessing and consuming the petabytes of data that are flowing through the systems. Team two had been as lucky as we had been. Their processing station was also filled with drones, including the small pale ones. The glue had been ineffective at stopping regular drones and it had turned into a turkey shoot. Roxxie's rocky had been damaged by drones, but still functional. Roxxie and Ruvi were in the prep area working on her backup rocky. Janice and Marco were looking at the drone footage. I peeked in and they were looking at the footage of the weird column. I checked the message queue, still pending. 
 "Alice, what's the current state of our subspace transmitters?" 
 "All Cyber command subspace transmitters are online." it replies. Alice is fire walled into our systems. It doesn't know much more than we do. Edgar is the AI that runs the ship. Unlike Alice, it generally lacks personality. More of a glorified central operator, all the ships data flows through it. I connect to Edgar.
 Query: Status of subspace transmission link with Earth?
@@ -416,7 +405,7 @@ Query: Do I have clearance to inspect the hardware?
 I knew based on the pause I knew someone in the CIC was likely having a "WTF?" moment as the ships AI asked them if some cyber tech could go fishing around in the comms space. At this my ear buzzed.
 "Cybertech first class Hurgs. Why is Edgar asking us if it's okay if you go poking around in the comms room?" comes a voice I don’t recognize over the comm link. 
 "Sir, I'm a qualified subspace tech, I noticed our link to Earth is offline." I reply. 
-"We've got people working on it, if we need help, we'll let you know. Request denied." the voice replies and disconnectes. I'm really making friends on this cruise I laugh to myself.
+"We've got people working on it, if we need help, we'll let you know. Request denied." the voice replies and disconnects. I'm really making friends on this cruise I laugh to myself.
 Alarms go off and our boards light up. 
 "Team 1 deploy in 30 seconds. Bio Science teams is in trouble."
 
@@ -429,7 +418,7 @@ of each wing of the drop ship creating 120 degree overlapping fields of fire.
 Marco sweeps the Xenos off the drop ship, it's engines cycling up.
 "Dust off in ten seconds, thanks for backing us up!" The pilots voice comes through the comms. 
 As the ship rockets upward, a howl goes through the Xenos.
-"Freaky shit" was all Marco gets out. We hold out for another ten minutes until our ammo runs out. backed against each other, molecularly sharp cutting blades extended, we slash outwards catching a Xeno here and there, but they stay out of reach. They've seen us before and now knew we were a dangerous foe. At last they all rushed us. The last images before the feed cuts out is of the my heavy cutting arms snipping through the head of a Xeno as it's claws dug into the sensor dome. At least I know I've killed that asshole. We knew dropping like this was a suicide mission. This is why we were in mechs anyway. Climbing out of the pit I see Marco and Janice ejecting from their pods.
+"Freaky shit" was all Marco gets out. We hold out for another ten minutes until our ammo runs out. backed against each other, molecular sharp cutting blades extended, we slash outwards catching a Xeno here and there, but they stay out of reach. They've seen us before and now knew we were a dangerous foe. At last they all rushed us. The last images before the feed cuts out is of the my heavy cutting arms snipping through the head of a Xeno as it's claws dug into the sensor dome. At least I know I've killed that asshole. We knew dropping like this was a suicide mission. This is why we were in mechs anyway. Climbing out of the pit I see Marco and Janice ejecting from their pods.
 "That was a shit pile." I laugh.
 "We accomplished the mission at least." replies Janice. 
 "Yeah, we helped them bring a fucking Xeno aboard, honestly, I'd have been okay with that one failing." replies Marco.
@@ -517,8 +506,7 @@ to nose with commander Robinson in my cradle.
 
 Hands on hips, "Edgar heard that transmission and it's triggered some type of fail safe. We're locked out of all the major systems."
 
-I thank my lucky stars our systems were fire walled off from the rest
-of the ships.
+I thank my lucky stars our systems were fire walled off from the rest of the ships.
 
 "Alice, are you still online?" I ask tentatively.
 
@@ -527,8 +515,7 @@ replies.
 
 "I take it you haven't heard of Project X1243?" I ask.
 
-"I have, but it was thought a failure." he replies. Janice, Roxxie and
-Ruvi pop their heads up.
+"I have, but it was thought a failure." he replies. Janice, Roxxie and Ruvi pop their heads up.
 
 "Sir, now might be time to put our cards on the table." I point out. 
 He climbs out of the pit and pours himself a cup of coffee and sits down
@@ -656,7 +643,7 @@ I couldn't disagree with that logic. To accent his point, the the alarms start s
 
 Chapter 10.
 
-Klaxons echo through the module, every light changes to  bright red and pulses.
+Klaxons echo through the module, every light changes to bright red and pulses.
 Alice goes to full volume on all channels, 
 "General breach alarm detected in science module!"
 Janice throws her hands up, "How am I not surprised!"
@@ -2235,14 +2222,14 @@ As the drone banks around to get a better view of the group of victorious queens
 
 With the improving weather Marco and Ruvi make good use of the limited optics and Alice’s computing power to watch for changes on the ground. Xeno’s are seen coming and going from the ship, which is now fully dug out.
 
-Two months into our campaign to wipe out the xeno’s Marco radios down.
+Two months into our campaign to wipe out the xeno’s, Marco radios down.
 “Something just changed at the alien craft site!” Immediately imagery is fed down to our terminals.
 A large cloud of dust has been thrown out behind the ship.
 “Our guess is they gave the engines a test start.” Ruvi butts in.
-Alice then pips in as well, “South of you, 100km out, a very large contingent of xenos is marching in your direction. It appears all the nests in that region have emptied out.”
+Alice then pips in over UHF as well, “South of you, 100km out, a very large contingent of xenos is marching in your direction. It appears all the nests in that region have emptied out.”
 
 Wikowsky orders long range drones into the air, in twenty minutes we begin to see the scope of this force. Counting software puts the count at north of twenty thousand drones.
-This sends us into full alert. We’ve got serious infrastructure above ground, in particular our rocket fuel facility. Everybody thought it safer to have it a hundred meters above us. Along this all of this is our robot facilities including one of the refurbished printers. This is positioned near the elevator in the event of such an attack, word comes down it’s on its way down the elevator.
+This sends us into full alert. We’ve got serious infrastructure above ground, in particular our rocket fuel facility. Everybody thought it safer to have it a hundred meters above us. Along with all of this is our robot facilities including one of the refurbished printers. This is positioned near the elevator in the event of such an attack, word comes down it’s on its way down the elevator.
 Joann, the councilwoman strides into our warren. “I hear there’s a large contingent of xeno’s coming?” she asks.
 Jeez, word gets around fast.. “Yes. Twenty thousand to the south. ETA at their current pace is in about two hours.” I reply.
 “A ruse?” she asks.
@@ -2267,7 +2254,7 @@ Joann looks at the hybrid girl with a frown.
 I shake my head at Zielger, “You had to make these fuckers smart..”
 A complaint he’s heard endlessly, he simply shrugs and heads back to his corner.
 I rack my brain, what am I missing.
-Finally I get Ruvi on old school analog FM. It’s spotty and raspy at best.
+Finally I get Ruvi on old school analog UFH. It’s spotty and raspy at best.
 “We’re blind up here. All our data channels are being jammed.” Ruvi tells us.
 “Same at this end. I wonder if it’s the ship, it might have really powerful radio gear?” I muse out loud.
 “Everything started with a long haul freighter getting a powerful signal all those years ago.” notes Roxie. “I’ll bet they’ve turned on lots of stuff including all the radios, who knows what else.”
@@ -2276,20 +2263,20 @@ Finally I get Ruvi on old school analog FM. It’s spotty and raspy at best.
 “Now we risk setting off the coils, however this problem would just takes care of itself” I snicker.
 Ruvi listening in laughs, “To be fair, if the coils are fully energized, a low order teraton explosion would actually fix this entire situation.”
 Wikowsky just shakes his head. “Just saying we should have, now let’s focus on the problem here.”
-We look at the drones. It’s even worse. A new force is forming to the west. They’re simply going to try to overwhelm us with numbers.
+We look at the drones. It’s even worse. A new force is forming to the west. They’re simply going to try to overwhelm us with numbers. The computers update their estimates to something now north of fifty thousand.
 “I thought we were reducing their numbers?” Joann asks.
 Janice sits back In her chair, “Sure, and in response they upped production. Give up on atmosphere processors and focus on drones. Plus with Ziegler not giving orders anymore, it’s not such a priority for them.” she replies.
 Joann sits back as well. “Like every war then, production verses attrition.” she replies.
-Everybody just nods.
+Everybody nods.
 “Can’t we just hunker down and wait them out?” she asks.
-Wikowsky shakes his head. “These aren’t mindless drones. Even you’ve see on the monitors, they’re smart. They know about this elevator, they must know that you have other entrances as well. Even if it dulls the claws of a thousand drones, they’ll simply dig until they get to something. Any seam on a surface opening will be chewed at, dug at or they’ll sacrifice drones to use the blood to make openings.”
+Wikowsky shakes his head. “These aren’t mindless drones. Even you’ve see on the monitors, they’re smart. They know about this elevator, they must know that you have other entrances as well. Even if it dulls the claws of ten thousand drones, they’ll simply dig until they get to something. Any seam on a surface opening will be chewed at, dug at or they’ll sacrifice drones to use the blood to make openings.”
 I see at once the reality setting in to Joann that maybe having the top job isn’t so great.
 “What’s our options then?” she asks.
 “We aren’t without defenses in depth. We knew this attack would come eventually.” he says.
 “What about the drones?”
 Janice perks up. “The software is configured for hunter killer mode. Once the drone lost contact with us, it started looking for drones to kill. Since we sent them south, in about twenty minutes, they’ll go on the offensive.
 “Armament?” she asks. 
-Janice nods knowing she’d get these questions. “five hundred ten mil case less high explosive plus ten 40mm grenades. The software is wildly good and the ground its flying over is barren and flat. I expect the drones are doing grim work.”
+Janice nods knowing she’d get these questions. “five hundred ten mil casel ess high explosive, plus twenty 40mm grenades. The software is wildly good and the ground its flying over is barren and flat. I expect the drones are doing grim work.”
 Joann nods, she’d been in and out of the “control room” as people had started calling it.
 “So we just wait here until thousands of xeno drones descend on us?” she asks.
 “Yes and no.” laughs Wikowsky.
@@ -2301,15 +2288,15 @@ Equipment continued to be shifted down the elevator until it was deemed to dange
 Video from cameras connected via hard line was shocking. The drones in autonomous mode had been making strafing runs until their ammo ran out, but it was like throwing snowballs at an avalanche.
 “Five kilometers out.” one of the marines working a terminal announces.
 “Estimated numbers?” Wikowsky asked.
-“Too numerous to count. They’re literally shoulder to shoulder out there.” the marine replies.
+“Too numerous to count. Computers still saying fifty thousands plus. They’re literally shoulder to shoulder out there.” the marine replies.
 “A best guess then?” I ask.
-“I’d estimate more than fifty thousand.” he replies.
+“I’d estimate more than fifty thousand.” he laughs.
 “Arm the outer edges then.” Wikowsky orders.
 I’d been so focused on what I needed to do, I’d only heard snippets of their battle plan.
 “Done.” the marine replies.
 “What’s your plan?” Joanne asks.
 Wikowsky motioned to have Joanne come to the holotable. It has been expensive in terms of materials and printing time, but he’d argued the sensor integration and view of battle had been worth it.
-“I don’t know who chose this spot, but it was chosen really well. The ground is made out of whatever silicon impregnated granite shit is, so they can’t tunnel under us, well at least not easily. Because of Hadley’s chin, to hit this point, they have to focus on us from these to directions.” as he spoke he gestured at the table.
+“I don’t know who chose this spot, but it was chosen really well. The ground is made out of whatever this silicon impregnated granite shit is, so they can’t tunnel under us, well at least not easily. Because of Hadley’s chin, to hit this point, they have to focus on us from these to directions.” as he spoke he gestured at the table.
 A rumble went through the floor. Joann’s eyes went wide.
 “They’ve hit the first defenses.” the marine notes.
 “Those would be?” she asks.
@@ -2326,7 +2313,7 @@ In real time, we see the xeno’s form into single file lines and start advancin
 “Clever fuckers.” I note. “I was hoping we’d kill more of them, but we knew they’d catch on.”
 Joann is confused by all this.
 “So it didn’t work?” she asks.
-“Oh, it worked and it didn’t. They’ve just been presented with a new weapon they’ve never seen and troops were just killed. They figured out it was something in the ground and they’re now adapting with tactics any good commander would employ.” On the monitor we see a flash as a column leader steps near a bouncing bomb. We see the shadow of several xeno’s wreathed in fire before disappearing entirely. Just as quickly, the xeno’s keep walking forward over the corpse. More explosions come and then we watch as the xeno’s begin to crouch down close to the ground. At once the xeno side steps and continues on head down. The other xeon’s pick up on it and before long the explosions stop.
+“Oh, it worked and it didn’t. They’ve just been presented with a new weapon they’ve never seen and troops were just killed. They figured out it was something in the ground and they’re now adapting with tactics any good commander would employ.” On the monitor we see a flash as a column leader steps near a bouncing bomb. We see the shadow of several xeno’s wreathed in fire before disappearing entirely. Just as quickly, the xeno’s keep walking forward over the corpses. More explosions come and then we watch as the xeno’s begin to crouch down close to the ground. At once the xeno side steps and continues on head down. The other xeon’s pick up on it and before long the explosions stop.
 “And now they’ve figured out the triggers.” Fisher growls.
 “Can you detonate them remotely?” Joanne asks.
 “Yes, but I’d rather not show our hand quite yet.” Wikowsky replies.
@@ -2334,17 +2321,63 @@ The look on her face makes me think she’s disagrees with this.
 At once the screen illuminates as several bunkers pop up and unleash streams of flaming jet fuel.
 Entire columns of xeno’s go up in flames, several flee running into the mine field triggering more explosions. Everybody giggles at the chaos.
 Joanne nods realizing that maybe this guy might know what he’s doing.
-“First the first salvo.” he says.
+“Release the first salvo.” he says.
 “Roger that.” replies a marine.
 We feel a vibration shutter through the ground. Wikowsky simply says, “We printed so many hyperbaric missiles, we staged them in launch canisters.
 “Stalin would be proud.” I laugh.
-Indeed the canisters look much like the Soviet era racked rocket launchers.
+Indeed the canisters look much like the Soviet era racked rocket launchers known as “Stalins pipe organs”
 “Literally zero guidance, but with them being shoulder to shoulder, not much needed.” he laughs.
 On the holotable dotted arcs appear. It looks impressive but I know the reality. We can kill tens, even hundreds at a time, but there’s just too many of them.
 “What I wouldn’t give for a tactical nuke right now” I note.
-Wikowsky nods.
-Joanne looks at both of us horrified.
-
+Wikowsky nods. Joanne looks at both of us horrified.
+He waves his hand, “Low yield, literally zero radiation, it would wipe them out in a single shot.”
+On the holotable we can see the next phase of the defense denoted as “kill boxes” to trap and kill xeno’s light up.
+Joanne inquires and Wikowsky points at Fisher, “those were his idea!”
+“Hardly my original idea, but all the same we want to funnel them into places where we can hit them from all sides.”
+“This is all just a delaying action though” I note.
+Everybody but Joanne nods.
+“What do you mean?” she asks.
+“They’ll adapt this this as well.” Wikowsky replies.
+Dozens upon dozens of hyperbaric missiles fired in volleys liquidate hundreds of xeno’s. Realizing it’s a race to the finish, the xeno’s surge forward into the teeth of the kill boxes. Turrets pop up and spew fire until mass of numbers overwhelm them and they’re ripped out of the ground.
+“Two kilometers now.” Fisher notes.
+The ground rumbles more.
+“Not us” yells Fisher.
+“The ship?” Janice asks.
+We all look at each other. I get back on the UHF radio to Marco. It’s spotty at best and they’re out of position in any case. They’re as confused as we are.
+The xeno’s are now converging on our position. More turrets open up in intersecting arcs of fire but they’re less effective. Like all our defenses, they adapt, they overcome.
+The UHF radio lights up, “Cheyenne’s have found a safe spot and are parked out of the way.” Fisher calls out.
+We all let out a sigh of relief. As fucked as our position currently is, without drop ships we’re entirely fucked.
+“Where are they?” I ask.
+“Five hundred clicks south, parked on a quiet grassy knoll. Sensors and engines hot to bail if need me.” he replies.
+My implants do the math, at max speed, twenty three minutes and thirty seconds out.
+Marco calls down on analog FM, it appears UHF is now being spotty.
+Ruvi’s wispy raspy voice calls out, “Alien craft is airborne, I repeat, craft is airborne. Location unknown.”
+I immediately go to the holotable and link my implants to it and start running scenario’s. I’ve got basic data about the ship’s shape and estimated weight. The numbers don’t seem to add up. All of my scenario’s have the ship crashing on the planet or energizing their coils and attempting to jump in atmosphere, also catastrophic.
+Everybody comes over to the table and watches as I demonstrate the full power of my implants and analysis.
+“Fuck me, you guys are cool.” laughs Wikowsky.
+“I’m so cool all I can show off is how fucked we are.” I laugh.
+Joanne stands next to me. “What’s the most probable?” she asks me.
+I nod at her and it simplifies. “Let’s imagine they figured out the reactor and the engines are near hundred percent efficient. Best scenario, they manage to reach low orbit, but they’ll have trouble maintaining it. That reactor is designed to deliver bursts of power for a rail gun, not sustained power. They don’t know that. I suspect they plugged in and hit the throttles.
+“These guys are clever, they figured out the engineering of that ship, the reactor isn’t that complicated.” replies Janice.
+“Maybe they juiced it?” notes Roxie.
+“Juiced it?” asks Joanne.
+“Those reactors can run at over a hundred percent rated power. It’ll burn out all the relays and the reactor will eventually slag itself, but you can do it.” she notes.
+Looking at Joanne’s face, it’s clear she’s not used to how military hardware is designed. I step in to explain. “You never know when you’ll need shit tons of power short term, in some cases, you just have to go like hell and worry about the consequences later.”
+“Okay, so where’s the ship going to come down?” she asks.
+To this I just laugh. “I don’t know. This is just a cybertech screwing around on a holotable. We need data.”
+“Got it!” yells Fisher.
+Immediately the table lights up with a track. It’s even worse. “Well, guess those engines are more like ninety three percent efficient.” I snicker.
+“Which means what?” she asks.
+I pan the table back to where the planet is now a curve. “Unless something changes, impact will be here.” I note.
+The track updates and the impact point changes. “Huh?” people around the table ask.
+“They must have realized that reactor isn’t as grand at they thought and they’re mucking with it.” laughs Janice.
+“I hope they have luck, at least out into high orbit.” I laugh.
+We watch at the track continues to change and improve until Fisher calls out, “They’ve achieved orbit!”
+Wikowsky laughs, “We noticed.”
+Ruvi pops up on the radio. “Visual on the ship, I wish I could send you guys video. It’s rough, really rough. They’re leaking atmosphere, but I’m not sure that matters to xeno’s. Also the lights on the ship keep pulsing on and off. Also, there’s something.”
+At this the channel cuts out. We roll through the various channels and get nothing.
+“I guess they upped their jamming game.” I note.
+“Guys, I know this is interesting, but we’ve got an immediate problem about a hundred meters above us..” Fisher notes.
 
 
 Plot ideas:
