@@ -1654,15 +1654,15 @@ The mantra "Trust your people" keeps rattling around in my head. Honestly at thi
 "This seemed like a shit idea when we both came up with two days ago, it still seems like a bad idea." I joke at Wikowsky.
 Pointing at my boots, "You're finally going to get to break those in."
 he laughs.
-Gallows humor as far as I could see it. I have Alice blow the whistle. "Everybody hit the rack, in five hours we'll be in orbital position for the MCM drop." Nods and a chorus of "yups" go through our small ship.
+Gallows humor as far as I could see it. I have Alice blow the whistle. "Everybody hit the rack, in five hours we'll be in orbital position for the MCM drop." Nods and a chorus of "yups and yes sirs" go through our small ship.
 
 
 Chapter 16.
 
-Marines have a quality that I envy. The capacity to sleep anywhere with a moments notice. Yet another way I'm built different. Sleep didn't come to me at moments like this. After an hour I unzip the sleeping bag and float out. Sleeping in zero gee is also weird. Microgravity tinkers with your ear. Ultimately you'll find some position where your head feels up and your feet feel "down". For me it was head down against the wall of my quarters right above bunk built into the wall. Floating out into the main area of the hab I am surprised to see Wikowsky strapped into the chair working a tablet.
+Marines have a quality that I envy. The capacity to sleep anywhere with a moments notice. Yet another way I'm built different. Sleep doesn’t come to me at moments like this. After an hour I unzip the sleeping bag and float out. Sleeping in zero gee is also weird. Microgravity tinkers with your inner ear. Ultimately you'll find some position where your head feels up and your feet feel "down". For me it was head down against the wall of my quarters right above bunk built into the wall. Floating out into the main area of the hab I am surprised to see Wikowsky strapped into the chair working a tablet.
 "Can't sleep?" I ask.
 He nods. "I hate that we don't have any intel. Alice's sensors are okay, but nothing like what the DeBe had."
-I nod back.
+I nod back. 
 Looking at the data, the storm seems to only have grown.
 "The sensors are shit, but all the same, that damn storm." I laugh.
 He just shrugs.
@@ -1672,10 +1672,9 @@ I'd already eaten as much anti-nausea meds as Alice would dispense me.
 "I'll be with my men in the MCM." he replies, his answer immediate. It seemed fitting as their commander. He looks at me serious for a moment.
 "Hurgs, do you think we've got a chance?"
 To this I simply blow out a breath.
-"This whole mission has been a fractal fuckup. Frankly, I think our chances are low. I'm a math guy and there are too many variables to this equation."
-I reply.
+"This whole mission has been a fractal fuckup. Frankly, I think our chances are low. I'm a math guy and there are too many variables to this equation." I reply.
 "In NCO school we call them the unknown unknowns." he replies.
-"I know we've had our differences, but the fear I saw in the colonists eyes, it's going to be a pure shitshow. Taking their raw materials to build engines, then leaving them to who know what fate." I shake my head.
+"I know we've had our differences, but the fear I saw in the colonists eyes, it's going to be a pure shitshow. Taking their raw materials to build engines, then leaving them to who know what fate?" I shake my head.
 "You afraid they won't let us leave?" he asks.
 To this I just shrug. There is a growing fear in my gut. This landing, the inevitable bargaining, whatever bullshit story Ziegler had told them, us, this hybrid and her unknown abilities, this devourer entity. I put my hands on my head and rub the various ports and subdermal interfaces that dot my skull.
 Wikowsky looks over, "You frosty?" he asks.
@@ -1684,7 +1683,7 @@ He nods back, "unknown unknowns."
 Alice whispers in my ear, "The debris that was the DeBe is beginning to reenter the atmosphere." I acknowledge this.
 "Main screen." I say.
 We watch as the command module enters the atmosphere a tumbling wreck,
-one of the spars had completely skewered it. The blown open orbital batteries massive capacitors, each the size of a rocky and sled combined explode in a shower of small meteors. I can't help but just imagine how many credits worth of hardware is evaporating right now. Easily hundreds of millions.
+one of the spars had completely skewered it. The blown open orbital railgun modules massive capacitors, each the size of a rocky and sled combined explode in a shower of small meteors. I can't help but just imagine how many credits worth of hardware is evaporating right now. Easily hundreds of millions.
 "Alice, are any pieces likely to make it to the ground?" I ask out loud.
 "Major rail gun assemblies and ammunition, reactor vessel." the AI replies.
 "Will the reactor be intact?" I ask.
@@ -1692,16 +1691,26 @@ one of the spars had completely skewered it. The blown open orbital batteries ma
 "You're not thinking of retrieving that thing?" Wikowsky asks.
 To this I just snicker. "No, I just want to make sure the Xeno's aren't also radioactive."
 At this Wikowsky starts giggling. "Then they really would be, well, big green men." to cap it off he giggles some at his own joke and then goes quiet.
-I bring up the specs on the reactor. It’s a big high energy high output nuclear reactor will smaller nuclear reactors to supply auxiliary power for onboard computers, etc. All one big ass sell contained unit, just hook up the leads and you’re ready to go. Fueled up at the factory, good for years. I really hoped it stayed intact. We continue to watch in silence. At last the show ends. I look over and he's out cold, strapped in.
+“Alice, if possible, please plot the trajectories of the rail gun rounds.” I ask.
+Wikowsky looks at me worried. “You afraid they’re going to hit something?”
+“We’re not accelerating them, but they’re still 50kg chunks of tungsten coming in at orbital speeds.”
+He nods.
+Alice plots dozens of objects with cones of probability. It makes a nice stripe across the planet, but they’re going to impact places we hadn’t even surveyed.
+“Will we see the hits?” he asks.
+Alice replies. “Optical resolution at this altitude is too low to resolve any details. The calculated percent that will hit what Prof. Zeigler refers to as the queens crown is 43%”
+“Well, all I can hope for is that we get some lucky shots and a couple more hives get rat fucked.” he laughs.
+Alice replies, “I agree. The destruction of more xeno’s would benefit our mission.”
+To this I laugh. I’m imaging Alice’s neural matrix attempting to parse ‘rat fucked’ and then concluding it must be positive.
+I bring up the specs on the reactor. It’s a big high energy, high output mil grade nuclear reactor. All one big ass self contained unit, just hook up the leads and you’re ready to go. Fueled up at the factory, good for years. I really hope it stays intact. We continue to watch in silence. At last the show ends. I look over and he's out cold, strapped in.
 
 
 Chapter 17.
 
-"Forty five minutes until zulu point" Alice says over the general speakers. This kicks everybody into gear. At zulu point, we will be in an orbital position to use the least fuel to get to the main hab. The last fifteen minutes are the most hectic. Checking of seals, last minute knick nacks grabbed and passionate kisses.
-At last the doors close. Sitting in the cockpit all I can do is watch as Janice flies. The last act before detaching the armory module was to fill the Cybernets Hab modules tanks with as much fuel as they could take, then they detach.
-Janice gently backs away from armory module, it's weight now massively reduced we watch as it's small RCS motors fire in rapid pulses. We could only hope it's limited onboard computer could keep it in orbit.
+"Forty five minutes until zulu point" Alice says over the general speakers. This kicks everybody into gear. At zulu point, we will be in an orbital position to use the least fuel to get to the main hab. The last fifteen minutes are the most hectic. Checking of seals, last minute knicknack grabbing and passionate kisses.
+At last the doors close. Sitting in the cockpit all I can do is watch as Janice flies. The last act before detaching the armory module was to fill the Cybernets Hab modules tanks with as much fuel as they could take, then detach.
+Janice gently backs away from armory module, it's weight now massively reduced we watch as it's small RCS motors fire in rapid pulses. We could only hope it's limited onboard computer could keep it in orbit. 
 "MCM is orienting for deorbit." Alice says over the comms.
-I've tied everybody's comms together.
+I've tie everybody's comms together.
 "Roger that. Green across the board. Semper Fi." Hawkins' voice comes through. 
 "Come home safe." replies Marco.
 The next thirty minutes are rough. Alice and Janice fly the ship together through the storm. I knew that Janice was a qualified pilot, but not on a Cheyanne dropship. Alarms blare to be immediately silenced
@@ -1727,12 +1736,12 @@ Janice and I both look at each other. "Alice, are you using subspace?" I ask.
 "Yeah, that has occurred to us. We're sitting quiet and evaluating our options." he replies.
 We'd seen that a MCM could stand up against a fair number of Xeno's. All the same, getting over there and getting them out of there along with all their gear was going to be a logistics headache. Sitting in the cockpit the rain streams down the canopy as a new round of thunder kicks up.
 "This is going to suck." is all Janice says. I open the pouch on my lap and pull out my neural
-headset. Not nearly as good as the cradle up in orbit, It still gives me functional control of a rocky. Many of the functions that are usually neurally controlled are now are only accessible through a complex controller. Being the oldest of the bunch this was how I'd started out and it felt weird
+headset. Not nearly as good as the cradle up in orbit, It still gives me functional control of a rocky. Many of the functions that are usually neurally controlled are now are only accessible through a complex controller. Being the oldest of the bunch this was how I'd started out and it fells weird
 going old school.
 "Hurgs to Ziegler. I'm going to bring my rocky online and help unload gear." I say into the comms channel.
 "Roger that." is the only reply I get. Riding the freight elevator back up to the surface, I pull my vision out to see Janice has left the cockpit and is coordinating logistics in the main bay. In the cockpit I feel the cool air, smell ozone and the not earthy smells, but Acheron smells. They've dropped the back hatch and are rolling out the sled filled with gear.
 The sounds of pouring rain and thunder fills the cockpit. The elevator rises from the ground. I realize the design now. Flush against the ground, there's nothing for the Xeno's to dig at. The mountain is some
-mix of silicon rich ore. My lack of sleep is catching up to me as I muse about how hard it must have been to create the shaft, let alone install this elevator. My esteem for these colonists grows.
+mix of silicon rich granite ore. My lack of sleep is catching up to me as I muse about how hard it must have been to create the shaft, let alone install this elevator. My esteem for these colonists grows.
 
 I walk my rocky into the drop ship and gather crates and containers that aren't lashed to the sled. I tilt the optical sensors up and see myself,
 it's strange. In a moment of hilarity, I give myself the bird. I dump them into the elevator. Out on this open plain, I feel wildly exposed and a sense of dread starts to fill me.
@@ -1741,12 +1750,12 @@ it's strange. In a moment of hilarity, I give myself the bird. I dump them into 
 "Just getting the heeby jeebies, that's all." I reply.
 "We've got drones up doing over watch, so far nothing." she replies.
 "All the same, I think we should all head down with the next load. I can keep my rocky topside and keep loading." I reply.
-"Yes tw..sir." replies Roxxie.
+"Yes twitchy, I mean sir." replies Roxxie.
 With the cockpit door open I can hear them talking and I hear a snicker.
 Roxxie realized at the last second we were on an open channel. Everybody in the group gets a nickname, mine is "twitchy." Like all nicknames, you can't pick your own, it has to be given to you. In my case it was given a dozen missions ago. A deep space station being used as a lab to experiment with Xeno's and something had gone wrong. We were sent in as a clean up crew. Creeping room to room in my rocky, twice I'd blasted holes in shadows. Janice had snickered into the comms, "chill it twitchy" and the name stuck..
 Daydreaming again. I looked and gear was being piled in the elevator, time to go. I pack up the portable neural kit into it's water proof bag. I run from the back of the drop ship into the driving rain. I feel the mud squelch under my feet. The rain has a metallic taste to it. The air reeks of ozone, Acheron tones and smells my nose can't categorize. I watch as the back of the drop ship closes up and I realize it's our only way off this rock. The three of us look at each other, we're all soaked to the bone. Roxxie has her arms crossed across her chest and turns around.
 Janice notices that I'm admiring her form through the soaked clothes and gives me a smirk and a wink and then simply lets me admire.
-Our complicated relationship and only grown more so over the years. Cyber corps doesn't lend itself to healthy work life balance.
+Our complicated relationship and only grown more so over the years. Cyber corps doesn't lend itself to healthy work life balance. More than a couple of times I’ve had dreams that this will be my last tour and Janice and I will find a little slice of heaven somewhere and make each other happy. She’s also hinted at this but the riggers of work always creep into our relationship. We’re both complicated and we know it.
 The doors open and I find myself in an agriculture store room. My physical eyes map the room. The rocky makes you so much taller. I marvel at the farm equipment neatly mothballed that's so much bigger in real like.
 "You must be Hurgs!" a familiar voice says. Ziegler strides over and shakes my hand. Again, the perspective of things has been skewed by the size of the rocky in comparison to other things. Ziegler is a decently tall guy, graying at the temples, with a firm handshake.
 "Elizabeth, come meet Mr. Hurgs." he says in his rich baritone voice. I immediately sense that he is one of those magnetic people who can command a room and convince people to do things. The hybrid strides over, and extends her hand, I shake it and I can feel the ridges on her palms.
@@ -1803,7 +1812,7 @@ I reply.
 "What about the gear that's up there?" he asks.
 I see ammo canisters, food packs and other equipment scattered around.
 "Is any of this equipment fragile?" I ask.
-I have give the marines credit, their shit is tough. I piled their gear
+I have give the marines credit, their shit is tough. I pile their gear
 on the platform and gave the word, it slides back and then slides closed.
 Even though Wikowsky didn't have any concerns about the ammo, I still piled
 it on top of the pile. The idea of a case of forty millimeter grenades breaking open and going off after a hundred and fifty meter fall would be the icing on this shit cake as far as I was concerned.
