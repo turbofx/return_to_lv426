@@ -2461,14 +2461,14 @@ I write Alice another note and wait, the result comes back quickly.
 “So, more flakey systems.” notes Janice.
 We look closer at the tracks of the various things in orbit.
 “If we can hold out for three orbits, we’d be in a spot where the CTM could climb and meet up with the armory” Elizabeth points out.
-To this I simply shake my head. “I’ve already been running these sims in my head and it sadly doesn’t work.” To emphasize this point, I put the tracks up on the screen.
-“In the long run it doesn’t work. But right now in two more orbits the alien ship will be on top of the CTM.” replies Janice.
+To this I simply shake my head. “I’ve already been running these sims in my head and it sadly doesn’t work unless they blow all their fuel.” To emphasize this point, I put the tracks up on the screen.
+“In the long run it does work. But right now in two more orbits the alien ship will be on top of the CTM.” replies Janice.
 She’s not wrong. This is a cat and mouse game, but we don’t know what the cat wants to do.
 “Or a third option.” Ziegler goes over the holotable and starts working the controls. Quickly a serious of new plot lines appear.
 
 Chapter 23.
 
-The guys a genius, granted an evil one, but one none the less.
+Ziegler is a genius, granted an evil one, but one none the less.
 “I don’t think they’re going to be fooled.” Ruvi writes.
 “Don’t jinx it” replies Roxie.
 Over the radio I hear, “I can’t believe the tether snapped!” in Marco’s voice.
@@ -2478,7 +2478,7 @@ Turning to the people around the table, “Think they’ll take the bait?” I w
 “As long at they play it cool.” replies Ziegler.
 “As long at that alien ship can’t detect tight beam” notes Janice.
 The plan was a simple as it was elegant. Stick an drum fed rocky weapon into a space suit with the barrel down a leg and the drum in the chest cavity. Then push it out the air lock with a length of snapped tether, then have it transmit on the standard frequencies the chitter chatter as if someone is in the space suit. Then see what the alien ship does.
-Worse case we can just have the space suit shoot wildly pushing itself off into space.
+Worse case we can just have the space suit shoot wildly pushing itself off into space, hoping some of those shots pepper the alien ship and not the CTM.
 “Ship changing course” notes Elizabeth.
 Wikowsky high fives Fisher.
 “I’m going to give her a kick so I’m in the right spot to pick you up” Ruvi says over the radio.
@@ -2502,9 +2502,9 @@ Soon over what little bandwidth we have a video stream starts buffering. It show
 Immediately we see piece of ship flying outwards from the vicinity of the door. Out gassing of atmosphere vents from a strip of evenly placed holes along the hull. Then a detonation that blows out a large chunk of the ship. Atmosphere jets from the gaping hole as well several gutted drones and at least one controller tumble.
 “Holy shit.” Wikowsky yells.
 “Well, they won’t be picking up any hitchhikers anytime soon” I laugh.
-Elizabeth puts her head in her hands. “She’s very angry. She’s calling me a liar.”
+Elizabeth puts her head in her hands. “She’s very angry. She’s calling me a liar and a cheater.”
 A message pops up on my console, it’s from Marco.
-I wave everybody over to my console. “Hey guys, our bio tech wants to talk.”
+I wave everybody over to my console. “Hey guys, our rogue bio tech wants to talk.”
 “Now he wants to talk.” laughs Wikowsky.
 “We did just blow a real big hole in the ship he’s on.” laughs Roxie.
 “Alien ship, this is acting commander Wikowsky, state your business.” Wikowsky goes into formal military mode.
@@ -2514,7 +2514,7 @@ I wave everybody over to my console. “Hey guys, our bio tech wants to talk.”
 At this Ziegler steps forward, his ego too fragile to hear he’s been upstaged by some bio punk on a colonial marines ship. Knowing he’s going to want to say his piece, I unmute his headset and sit back.
 “I highly doubt that claim, however, I’m quite interested in your story.” Ziegler replies to the obvious challenge.
 “I’ve melded minds with the queen. She speaks to me and I to her. She’s perfection in thought and deed. With her I shall achieve immortality and explore the universe.” he replies, his voice of reverence and love. I turn to the people in the room and make the screwball motion next to my head, everybody nods.
-Elizabeth speaks up, “Shit. He’s a devotee. There was a bunch people like this in the colonies. They hear the queens whispering and become willing supplicants. Though it always ends badly for them.”
+Elizabeth speaks up, “Shit. He’s a devotee. There was a bunch of people like this in the colonies. They hear the queens whispering and become willing supplicants. Though it always ends badly for them.”
 To this comment, Ziegler starts laughing. We all look at him confused.
 “He’s a chip head. All the devotees that we had in the colonies all had black market cybernetics.” he laughs.
 Even as a young man I knew plenty of guys and gals who had gone to back alley surgeons to get augmentations. Like everything else, the amount of money you paid out was directly proportional to what kind of hardware you could get installed. Rich kids went to private hospitals and got near mil grade cybernetics. However, for every rich kid with an air car there are thousands of kids from the slums who will take any advance, including augmentations that might not be perfectly compatible or cause neurological disorders.
@@ -2523,9 +2523,9 @@ Wikowsky laughs at this and shakes his head. We all knew the answer. Cronyism an
 “What’s not clear to me is how he didn’t end up a host?” asks Elizabeth.
 To this the marines all turn and look at her. In this situation surrounded by bog standard humans her biomechanicalism stands out. “Look, I’m not blind to my complicated biology. I’m neither you or them, but something other. I’m just stating the fact that every person who has gone running into a nest yelling their devotions to a queen, doesn’t actually end up being a queens consort, you know.” it was left unsaid what the rest of that sentence ended with what everybody knew.
 Ziegler nods to this, “It points to him not being special as much as this queen being special.”
-I nod with him, “Yeah, what he has is knowledge. They kind of have the biomechanical stuff figured out, but they found themselves with some alien tech and needed a humans help.”
+I nod with him, “Yeah, what he has is knowledge. They seem to have the biomechanical stuff figured out, but they found themselves with some alien tech and needed a humans help.”
 I open the channel back up, “Okay, spell it out for me. You helped this queen hook up a pretty large nuclear reactor to that ancient ships engines so you could escape? I don’t get it, didn’t these guys kill your girl?”
-To this there’s a pause over the radio. “She’s not a mindless killer. She has plans inside of plans. Her and the wise ones with my help will purify the universe.”
+To this there’s a pause over the radio. “She’s not a mindless killer. She has plans inside of plans. Her and the wise ones, with my help will purify the universe.”
 “You’re talking to her? Not just feelings and emotions?” Ziegler asks.
 “She sings to me, we talk for hours.” he replies.
 The looks on everybody’s faces clarified what we were dealing with here.
@@ -2540,20 +2540,20 @@ Elizabeth cocks her long biomechanical head at him, “She’s a younger differe
 “Well, shit on a stick. You really did fuck us, didn’t you.” laughs Wikowsky.
 “The controllers are a focused strain. Their XNA is entirely focused on enhancing their intelligence, nothing more. I suppressed everything else. I never created another royal.” huffs Ziegler. He’s now pacing the floor.
 “A what?” Joanne asks.
-Elizabeth stands up. “It’s and I guess I should say my XNA/DNA are different. To create a queen you need a royal egg. From that larval stage the resulting entity grows into a queen.”
+Elizabeth speaks up. “Queen XNA. It is and I guess I should say how my XNA/DNA are different. To create a queen you need a royal egg. From that larval stage the resulting entity grows into a queen.”
 “Larval stage? Jesus christ.” mutters Fisher.
-“What do you want me to say here? The life cycle is the life cycle. Horrible as it may look to others, it’s how I was created.” With those words she sits down. Everybody just stops. We’ve all seen the aftermath and horror of the xenomorph lifecycle. The reality that a creature, walking and talking sitting among us. Holsters are clutched. Eyes go wide.
+“What do you want me to say here? The life cycle is the life cycle. Horrible as it may look to others, it’s how I was partially created.” With those words she sits down. Everybody just stops. We’ve all seen the aftermath and horror of the xenomorph lifecycle. The reality that a creature, walking and talking sitting among us. Holsters are clutched. Eyes go wide.
 “This is true? How, who?” snarls Joanne. Pointing her finger at Ziegler.
 Ziegler now has returned to his composure. “Yes, she’s a hybrid born of my DNA, royal XNA and Cynthia’s DNA.”
 Before anybody can stop her, Joanne’s over the holotable and pouncing on Ziegler, her voice now a screeching howl.
 “Your own fucking wife!” she slams her fist into his face.
 Ziegler tries to block the blows but she’s driven by fury. She manages to land a few more before the marines wrestler her off of him.
-Holding his bloody nose, “Yes, my fucking wife. She was dying of cancer on this god forsaken rock. No, I didn’t happen like that as well. Jesus.”
+Holding his bloody nose, “Yes, my fucking wife. She was dying of cancer on this god forsaken rock. No, I didn’t happen like that as well. Jesus!”
 Wikowsky pulls up a chair. “I think it’s time you sit down and tell us all how it happened then.”
 Realizing that he was surrounded by trained killers as well as those capable of killing, he takes a seat. The marines let go of Joanne but give her the don’t try shit look.
 “We don’t have time for the full story, we’ve got to deal with the alien ship.” he huffs.
 “Then give us the short version.” snarls Wikowsky.
-Letting out a breath and rubbing his nose. “Fine. We cleaned out a nest, killed a queen and found a royal egg. We then extracted it’s XNA, and mixed with with my DNA and my wife’s DNA and tried produce a viable zygote. It took years of experimentation. A dozen different failures until we produced Elizabeth and her sibling. Elizabeth was born via c-section, her mother dying of cancer.” Those last words ringing in the room.
+Letting out a breath and rubbing his nose. “Fine. We cleaned out a nest, killed a queen and found a royal egg. We then extracted it’s XNA, and mixed with with my DNA and my wife’s DNA and tried produce a viable zygote. Something that could bridge the gap. It took years of experimentation. A dozen different failures until we produced Elizabeth and her sibling. Elizabeth was born via c-section, her mother dying of cancer.” Those last words ringing in the room.
 At this Joanne puts her hand on Elizabeth’s shoulder. “This makes me your aunt I guess.”
 With that it’s clear now why Joanne wanted to smash his face.
 Janice looks at everybody, “We done here? Because shit’s going down.”
@@ -2567,14 +2567,14 @@ Joanne nods at Wikowsky. “Who knows how that ship works. Our engines energize 
 I pick up the mic. “Alien ship. Please state your intentions. We’re fearful your attempt to superluminal flight might be catastrophic.”
 “Your distractions can’t stop us from our goal of a pure universe. This ship is far beyond anything that mankind has ever created. The creators left it for us to find and to use. We will.” is as far as he gets before I mute.
 “Bat shit crazy.” I mutter.
-Elizabeth looks at this and frowns. “They’re going to try it.”
-I unmute the channel. “The glory of the uninverse will be ours!” I hear over the radio.
+Elizabeth takes off the helmet and looks at un and frowns. “They’re going to try it.”
+I unmute the channel. “The glory of the universe will be ours!” I hear over the radio.
 “That ship is going to fly apart when you try to go superluminal if you’re lucky. If you’re we’re not lucky, it’s going to slam into the atmosphere and explode taking half the planet with it.” I say into the radio.
 “You are the unbelievers that must be cleansed.” he says before the channel closes.
 Our holotable suddenly updates in real time.
 “Holy shit, we’ve got sublight!” yells Fisher.
 “Alice, are you appraised of the situation?” I ask.
-“Yes. Your advice is sound. I am as you would say, ‘burning like hell’ to catch up to the armory, mate with it and use it to climb.” We watch at the rather small engines on the CTM burn, their fuel and oxidizer go into the red. Finally, the numbers stop.
+“Yes. Your advice is sound. I am as you would say, ‘burning like hell’ to catch up to the armory, mate with it and use it as shielding.” We watch at the rather small engines on the CTM burn, their fuel and oxidizer go into the red. Finally, the numbers stop.
 The looks on Janice and Roxxie’s face go sourer and they both let out a breath.
 The video of the alien ship is now quite clear, we can see the aft section of the ship beginning to glow as it charges up the coils.
 “Alice, how long can they run that reactor at that power level?” I ask.
@@ -2590,7 +2590,7 @@ The ship cameras pivot to show an expanding gas cloud.
 Immediately the cybernetic elements of my brain go into overdrive. Eighteen minutes before the outer shockwave hits them with lots of plasma and lots of hard radiation. Ruvi’s response had been right on.
 “Can they get behind the planet?” Janice asks.
 Roxie has her head in her hands.
-On the holotable, the plot lines and the expanding ball of superheated gas that was the alien ship are all in full display. The CTM and the armory module are on a convergence point fifteen minutes out. Three minutes. To dock, to equalize, to get where?
+On the holotable, the plot lines and the expanding ball of superheated gas that was the alien ship are all in full display. The CTM and the armory module are on a convergence point fifteen minutes out. Three minutes. To dock, to equalize, to get cover.
 “What’s the plan up there?” I ask.
 “The module and it’s dense ordnance should provide sufficient protection against the radiation.” Alice replies.
 “What about us?” Joanne asks.
@@ -2600,7 +2600,7 @@ Alice docks perfectly and just blows the seals. Both of them on camera have thei
 Marco floats into the armory hand over hand and starts going at one of the mark 37 weapons. Panels come off. Genius, I realize. He’s going to use weapons dense shielding for Alice.
 He looks at the camera, “Alice is going offline!”
 We watch as Ruvi slides open the main computer dock and pulls the lattice cube.
-Alarms start blaring. Radiation alarms. The lights flicker in the modules. “Take it!” we hear as Ruvi tosses the cube through the open door. Marco stashes it in the mark 37 and tapes the panel on.
+Alarms start blaring. Radiation alarms. The lights flicker in the modules. “Take it!” we hear as Ruvi tosses the cube through the open door. Marco snatches it out of the air and stashes it in the mark 37 and tapes the panel on.
 “Get your ass in here!” we hear him yell. We watch has he squeezes himself under the large weapon. Ruvi is making his way towards the hatch. “Oh fuck.” is all Ruvi says. 
 We watch on the holotable as the shockwave of hard radiation and plasma hit the CTM. More alarms start blaring. The radiation causes the cameras to go offline, their sensors overwhelmed with gamma particles. Then it’s over.
 Roxie is first on the radio, “What’s going on?” the edge her voice says everything.
@@ -2617,9 +2617,18 @@ Vitals start flowing into our terminals. It’s bad. Marco was able to mitigate 
 Roxie is in the corner with a comm unit. We all give her space. Janice hugs me and cries.
 We watch as the radiation wave ripples across the planet. The upper atmosphere turns a dozen colors as the plasma ripples against it.
 “Holy shit guys, look at this!” Fisher yells from another console.
-We look at the monitor and see xenos on the ground dying. I wonder out loud how many xenos were out in the open. We only have a couple 
-Elizabeth puts on her helmet. “It’s very quiet. Many xeno’s and queens died today.” She takes it off and sets it down. It’s clear this is complicated to her.
+We look at the monitor and see xenos on the ground convulsing and dying. I wonder out loud how many xenos were out in the open. We only have a couple of the whisker cameras left.
+Elizabeth puts on her helmet. “It’s very quiet. Many xeno’s and queens died today.” She takes it off and sets it down. It’s clear this is complicated to her. The marines recognize this, but all the same I see a couple pats and fist bumps. With nothing more to say, everybody goes back to their tasks. Wikowsky gets a couple marines organizing. I get on the comms and check on our two Cheyenne’s. They check out okay. Our quickly printed drones and robots all got cooked, they weren’t mil hardened. I task Janice and Elizabeth with getting some air assets printed and flying. They both nod solemnly.
+“Is the surface now radioactive?” asks Joanne.
+“In spots possibly, neutron flux can make certain metals become radioactive. Everybody is going to need to wear gieger counters going forward, just in case we hit any hot spots.” I note.
+Chapter 24.
 
+Ruvi passes quietly a couple hours later. Apparently his last words to Roxie was “Be safe my love.”
+Janice and Roxie and Elizabeth have been in a huddle for a while. I give them a wide berth.
+I get on the comms to Marco. He’s doing better, though the auto-doc is warning him that he’ll need to be on meds indefinitely. I encourage him to take another twelve hours in the pod and let the auto-doc keep filtering his blood. He agrees, but only after taking care of Ruvi. Moving him into the airlock, he’s retrieved a body bag and wrapped him tightly in it. Wikowsky at once starts barking orders surprising everybody.
+“Marines at the ready!” he shouts. At once the remaining small group of marines line up. Confused he shouts at me. “On the ready line!” I join the line. Roxie’s face is tear streaked.
+“We commit Cybertech second class Ruvi Bera to the universe. His sacrifice will not be forgotten!”
+From the speakers on the terminals taps plays. At once holotable shows video of airlock. The other door pops open and Ruvi’s body glides into space.
+Wikowsky then does something I didn’t expect him to do. He marches up to Roxie and gives her a bear hug and says, “I’m sorry for your loss. I was honored to serve with him.”
+Roxie manages a “Thank you.”
 
-Plot stuff: The expanding gas cloud is hard radiation, it’s going to slam into the CTM if they don’t get to the armory and get on the other side of the planet and with as much mass as they can put between them. They also need to pull Alice’s core or it’ll get shredded by the radiation. Ruvi as a last ditch throws the core at Marco who takes apart a warhead stuff the core in it and then climbs into a crate of depleted rounds. Ruvi gets an almost nearly fatal dose and Marco gets a less fatal dose.
-Exploring the alien ship site they find a pair of coils.
