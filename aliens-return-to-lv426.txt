@@ -2583,8 +2583,43 @@ We watch as the gap between the ships widens. The alien ship fires it’s engine
 “Now oddly, I want them to succeed.” I laugh.
 Everybody nods with me.
 At once the ship is gone.
-“Holy shit!” Ruvi yells into the radio.
-The ship pivots to show an expanding gas cloud.
+“Holy shit! Holy shit! Holy shit!” Ruvi yells into the radio.
+The ship cameras pivot to show an expanding gas cloud.
 “Alice? How far out did they get?”
+“Approximately .75 AU before complete failure.”
+Immediately the cybernetic elements of my brain go into overdrive. Eighteen minutes before the outer shockwave hits them with lots of plasma and lots of hard radiation. Ruvi’s response had been right on.
+“Can they get behind the planet?” Janice asks.
+Roxie has her head in her hands.
+On the holotable, the plot lines and the expanding ball of superheated gas that was the alien ship are all in full display. The CTM and the armory module are on a convergence point fifteen minutes out. Three minutes. To dock, to equalize, to get where?
+“What’s the plan up there?” I ask.
+“The module and it’s dense ordnance should provide sufficient protection against the radiation.” Alice replies.
+“What about us?” Joanne asks.
+Ziegler speaks up and waves his hand, “We’re under a couple hundred meters of very dense rock. We’ll be fine.”
+All we can do now is watch and provide impotent suggestions. Now that we have subspace, I get on the radio and ping the module and query it’s internal temps and pressures. The pressure is low by a bit and it’s cold, but survivable. I link to the table and start running the numbers. It’s a teraton explosion, that much I know. I wash the variable through the cranial computers a couple times. They’re going to take a massive dose of radiation, even in the armory.
+Alice docks perfectly and just blows the seals. Both of them on camera have their mouths open and heads back to equalize the pressure. I look at the timer, two minutes and thirty seconds.
+Marco floats into the armory hand over hand and starts going at one of the mark 37 weapons. Panels come off. Genius, I realize. He’s going to use weapons dense shielding for Alice.
+He looks at the camera, “Alice is going offline!”
+We watch as Ruvi slides open the main computer dock and pulls the lattice cube.
+Alarms start blaring. Radiation alarms. The lights flicker in the modules. “Take it!” we hear as Ruvi tosses the cube through the open door. Marco stashes it in the mark 37 and tapes the panel on.
+“Get your ass in here!” we hear him yell. We watch has he squeezes himself under the large weapon. Ruvi is making his way towards the hatch. “Oh fuck.” is all Ruvi says. 
+We watch on the holotable as the shockwave of hard radiation and plasma hit the CTM. More alarms start blaring. The radiation causes the cameras to go offline, their sensors overwhelmed with gamma particles. Then it’s over.
+Roxie is first on the radio, “What’s going on?” the edge her voice says everything.
+Marco responds first. “I taste metal. Let me find Ruvi.” He opens the compartment and takes the cube out. “I think Alice is okay.” he says.
+The cameras come back online, though it’s clear they’ve all taken damage from the radiation. We see Marco put the cube back into the cradle and slide the door shut.
+“Alice should be online in a few.” he says to nobody in particular.
+Working the cameras, we find Ruvi, he’s pinned up above the display. His skin is a dozen different colors. “Oh no.” is also Marco says.
+Marco moves Ruvi down and into one of the cradles and hooks leads up to him.
+“That could have gone better.” Ruvi whispers.
+“Yeah, we got pretty fucked.” he replies.
+Marco climbs into his cradle and hooks the medical cuff up to himself.
+Alice comes back online. “Processing systems 96 percent online. Minor ship damage. Extreme radiation event.
+Vitals start flowing into our terminals. It’s bad. Marco was able to mitigate the worst of the rads but Ruvi took the full hit. The auto-doc is estimating three hours at most. The system prompts me to authorize it to go into hospice mode. I punch in my override and press my thumb to the biometric sensor. Marco is in slightly better shape. The auto-doc is pumping him with a cocktail of meds. It’s still filtering his blood, prognosis unknown.
+Roxie is in the corner with a comm unit. We all give her space. Janice hugs me and cries.
+We watch as the radiation wave ripples across the planet. The upper atmosphere turns a dozen colors as the plasma ripples against it.
+“Holy shit guys, look at this!” Fisher yells from another console.
+We look at the monitor and see xenos on the ground dying. I wonder out loud how many xenos were out in the open. We only have a couple 
+Elizabeth puts on her helmet. “It’s very quiet. Many xeno’s and queens died today.” She takes it off and sets it down. It’s clear this is complicated to her.
 
-Plot stuff: The expanding gas cloud is hard radiation, it’s going to slam into the CTM if they don’t get to the armory and get on the other side of the planet and with as much mass as they can put between them. They also need to pull Alice’s core or it’ll get shredded by the radiation. Ruvi as a last ditch throws the core at Marco who takes apart a warhead stuff the core in it and then climbs into a crate of depleted rounds. Ruvi gets an immediate deadly dose and Marco gets a fatal dose.
+
+Plot stuff: The expanding gas cloud is hard radiation, it’s going to slam into the CTM if they don’t get to the armory and get on the other side of the planet and with as much mass as they can put between them. They also need to pull Alice’s core or it’ll get shredded by the radiation. Ruvi as a last ditch throws the core at Marco who takes apart a warhead stuff the core in it and then climbs into a crate of depleted rounds. Ruvi gets an almost nearly fatal dose and Marco gets a less fatal dose.
+Exploring the alien ship site they find a pair of coils.
