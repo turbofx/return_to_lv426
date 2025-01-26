@@ -2426,7 +2426,7 @@ In our time on Acheron, I’ve seen Elizabeth grown from a young girl into what 
 To this Elizabeth merely shrugs.
 “There are other clearer voices I hear when I put the helmet on. Not just emotions but complex conversations.”
 This is surprising to me. “I thought this was all sending the essentially emotion engrams via subspace?”
-Elizabeth sits down in a chair. “The worker drones are very simple minded. Their minds are a bit of a empty room with a single thought suspended in it. They’re reactive, but essentially their motivations are to do a task until completion. In some cases I’ve sensed drones that are a bit more clever than the rest, but they do what they must for the hive. There’s no fear, only singular purpose. Queens on the other hand are a whole other thing. They’re quite the opposite of single minded, but it’s a maelstrom of competing desires. Expand the hive, keep the hive safe, find more hosts, lay more eggs. Make more drones, But all those urges competing as well as a true loathing for everything not them. They’re larger understanding of the universe is limited. Time isn’t even a concept in their minds. She’s merely an empire builder.”
+Elizabeth sits down in a chair. “The worker drones are very simple minded. Their minds are a bit of a empty room with a single thought suspended in it. They’re reactive, but essentially their motivations are to do a task until completion. In some cases I’ve sensed drones that are a bit more clever than the rest, but they do what they must for the hive. There’s no fear, only singular purpose. Queens on the other hand are a whole other thing. They’re quite the opposite of single minded, but it’s a maelstrom of competing desires. Expand the hive, keep the hive safe, find more hosts, lay more eggs. Make more drones, But all those urges competing as well as a true loathing for everything not them. They’re larger understanding of the universe is limited. Time isn’t even a concept in their minds. A queen is merely an empire builder of her own small empire.”
 “So how does the devowerer fit into this?” I ask.
 “It’s not a maelstrom but one of cold purpose. She’s an empire builder that understands her empire can scale up. A queen doesn’t get space and hyperspace travel, she does. She doesn’t get the technical details, she’s leaving that to the controllers.” she replies.
 “I wondered when the controller’s would fit into this.” I note.
@@ -2648,7 +2648,7 @@ With a renewed sense of purpose, everybody gets to work.
 “Cheyenne one incoming, time to arrive, thirty seconds.” Wikowsky says over the radio.
 We bring the elevator up to full height and look around. Sprawled on the ground, the dead xeno’s still look menacing. 
 “I hate all of this” one of the other marines mutters, I can’t disagree.
-We look for movement but don’t see anything. The whine of the engines announces the Cheyenne’s arrival. We move in tactical formation towards the open ramp. The Cheyenne takes off with a jolt and we’re airborne. Janice and I move up into the cockpit. Both our geiger counters click a bit.
+We look for movement but see nothing. The whine of the engines announces the Cheyenne’s arrival. We move in tactical formation towards the open ramp. The Cheyenne takes off with a jolt and we’re airborne. Janice and I move up into the cockpit. Both our geiger counters click a bit.
 “Fuels good. I suspect all this metal and ceramics is a bit radioactive.” she says. All I can do is shrug. It’s not like we have any other options.
 “Flying okay?” I ask.
 To this she merely shrugs. “This one has the two functioning engines, so we’ve got that going for us.”
@@ -2656,7 +2656,7 @@ We fly on into the morning twilight, the upper atmosphere still streaked from th
 I point at the colors, Janice replies, “Heavy metals and nucleotides.”
 “Dangerous?” I ask.
 “Maybe? That’s the first teraton explosion in nearly a century not under controlled circumstances.” she laughs.
-The morning light shows the destruction the ship made taking off. As Janice makes passes over the site, I measure the massive furrow in the ground. Five hundred and sixty meters before they got airborne. No wonder they were leaking atmosphere. Behind the furrow the ground the engines have turned large swaths of the ground into what looks like volcanic basalt.
+The morning light shows the destruction the ship made taking off. As Janice makes passes over the site, I measure the massive furrow in the ground. Five hundred and sixty meters before they got airborne. No wonder they were leaking atmosphere. Behind the furrow the ground the engines have turned large swaths of the ground into what looks like shattered volcanic basalt.
 Over the radio we have Roxie’s voice, “Scans show nothing. Anything here got blasted to hell when that ship took off.” We all know better. Even with all the radiation, we know how tough xeno’s are. In my head my trainers words keep ringing, ‘Assume it’s a trap, be pleasantly surprised when it’s not.’ That, ‘This is a bad idea’ feeling keeps creeping up.
 “You okay?” Janice asks.
 “No. I’m getting the willies.” I reply. At this she frowns. While it’s true that I can be twitchy, my instincts are also good.
@@ -2664,26 +2664,151 @@ Over the radio we have Roxie’s voice, “Scans show nothing. Anything here got
 With the return of subspace it was much easier for us to link up, along with all the bandwidth came some of the internal emotions as well.
 Landing on the blasted ground, the back of the cheyenne drops with a crunch. Not only is the ground been literally boiled into glass, it’s been shattered. Before us is a razor sharp jumble hellscape.
 As if on cue a harsh wind blows across the plain, all of our geiger counters spike. Grit hits our face.
-“This just keeps getting better” one of the marines laughs.
+“This just keeps getting better” one of the marines laughs. I’ve come to known this woman. Her name is miller. Below rank to Fisher I can see why the two of them are thick at thieves. Smart, capable and witty, I’m glad she’s on the mission. Fisher has confided in me that Wikowsky is likely to give her a field promotion at some point.
 “We get the coils and get the fuck out.” I reply.
 To that I get a bunch of nods.
 “About seventy five yards over and about fifteen down if this thing is right.” Janice reads the display.
-“Why didn’t we land closer?” a marine asks.
+“Why didn’t we land closer?” the Miller asks.
 “Too unstable. Too many subterranean pockets.” she replies.
-The marine just shakes his head in disbelief.
+She just shakes his head in disbelief.
 “One of which has the coils?” asks another Marine.
 Janice nods, head down looking at the display.
 The marines former a moving parameter, weapons up facing outwards.
 “Here” Janice announces.
-I come forward with one of the salvaged robots, on it’s underside a drill.
+I come forward with one of the salvaged robots equipped with a drill.
 “Get up wind of this.” I announce.
-The robot squats and its drill kicks in. Atomized glass like smoke sprays from under the robot. Immediately, everybody has googles and face masks.
+The robot squats and its drill kicks in. Atomized glass like smoke sprays from under the robot. I check and everybody has donned googles and face masks.
 “Movement, 12’clock!” a marine yells.
 In the distance we see xenos rise from the ground slowly. Some have deep scars. It’s clear the ship took off with out much care in the world for them or their safety.
 “They’re not looking too hot.” Janice notes.
-“Fair game all the same.” a marine notes and drops the xeno with a head shot.
-The ground suddently shifts under our feet.
-“Holy Shi—” is all I get out before I drop. We all drop into central shaft.
+“Fair game all the same.” Miller notes and drops the xeno with a head shot.
+Fisher nods as well and picks his targets. Two more drop. The last is dropped by the quietest of the group. Woolnick is his last name buy everybody calls him “wooly”. The trio keep scanning outwards looking for more movement, but in the blowing dust nothing.
+The pitch of the robots drill suddenly changes and the ground shifts under our feet.
+“Holy Shi—” is all I get out before we drop, onto a heap of desiccated xeno’s. Their exoskeletons crumble under us, filling the air with a mist of powdered xeno.
+“Comms check. Sound off.” Wikowsky says into our ears.
+A chorus of voices fill my ears.
+“What a nasty way to break a fall.” Fisher says.
+“The ship must have boiled them alive even in this nest.” Janice says as she climbs out of the heap.
+I hate all of this. My sense of dread has gone from a nagging in the back of my mind to something I can physically feel. Under the body armor I can feel the sweat trickle and every hair I have standing on end.
+I whisper into the comm channel that just Janice and I have going, “I fucking hate all of this.”
+Back at me I just get an acknowledgement. I can feel her dread as well.
+“Coils?” I whisper into the general chat.
+“According to the sensors five meters that way” as Janice gestures with her hand.
+Now we’ve fully formed back into a fire team, pulse rifles pointing out in every direction.
+In the darkness our eyes adjust. We see the glow of the coils. They’ve been cemented into the wall with the alien resin. A special room has been created just for them. We creep into the room with Wooly covering our “six.”
+“Quietly.” I whisper into the channel.
+Fisher nods his head and steps forward.
+From the walls the massive hands of the queen snap close on Fishers head and torso in one clean motion tears his head off. The Queens head breaks loose from the resin in the wall and snarls.
+We at once unleash on the queen. We realize at once that the wall, coils and the queen are a single thing. The floor around us shifts as her massive articulated tails begins to uncoil. Even weakened by the radiation she’s still a formidable foe.
+“Backup up and bottle neck her in the door!” Wikowsky yells into our ears.
+We provide a wall of rippling fire as we back into the main room our backs now up against the the heap of dead powdery xeno’s.
+The Queen simply busts through the wall her massive head like a sledgehammer. The four of us unload at point blank range into her head and she drops face first in front of us, her arms splayed out on either side of us ready to give us all the death hug she gave Fisher.
+Miller, now our lead marine kicks the queen in the head and her massive dome shatters. We can see her large yellow brain spotted with black tumors.
+Janice and I undertake the grizzly task of digging the coils out of her abdomen. We encounter little blood if any. The coils are a little rough for wear but Janice looks each of them over and gives me a thumbs up. We load them into our backpacks. I immediately feel the extra thirty kilos.
+“We’re alive because she was on the verge of death.” I note.
+Miller retrieves Fisher’s tags. “Not fair to come this far and to die like that.” she says.
+I agree.
+The other two marines speak up in the channel. “Motion ahead, but slow.” they note.
+“More sickly xeno’s I imagine” Miller says.
+“Still dangerous and we’re still ten meters into a hole.” Janice notes. As she says this she unpacks a triangular drone from her backpack and tosses it into the air. The drones lasers start mapping the walls. Immediately the rough data starts flowing into my neuralinks.
+“Let’s find a way out.” she whispers.
+Miller distributes Fisher’s spare mags and grenades among the group.
+The drone flies ahead and we discover more sickly xeno’s crawling in our direction. A group of five. One tries to swat the drone but feebly misses.
+We meet and it’s over quick. We conserve ammo and drop them in rapid succession.
+The concussion of the pulse rifles causes the tunnel to shift around us.
+Looking them over, their bodies are covered in deep lesions.
+“The ship must have walloped them with hard radiation taking off.” Miller notes.
+Janice nods, “Yeah, they weren’t out on open ground and this deep they would have been somewhat protected.
+“I’ll fuck take it.” I laugh.
+Behind us we hear a section of the tunnel shift and collapse. This spurs us to haul ass. We can see light ahead. Bursting out of the mouth of the tunnel we find ourselves in the midst of dying xeno’s flushed out of the tunnels as they collapse.
+“Alice!” I yell into the comms.
+“Pick up in twenty seconds.” she calls back.
+We can hear the engines of the Cheyenne cycle up.
+“You can’t land, everything around here is too unstable.”
+“Roger that. I’ll drop the ramp and go into hover mode.
+The xeno’s scrabble towards up as Miller, Janice, Wolly and myself fire outwards.
+We hear noises from behind us in the tunnel entrance.
+Miller fires a grenade down the entrance. We all flee away from the entrance as the drop ship swoops over our heads. Behind us the ground buckles as the grenade cases a series of cascade of tunnels to fail.
+Alice flies the dropship backwards and scoops us off the ground and it disappears under our feet.
+Miller stands on the back of the ramp and fires three more grenades into the dust cloud below us.
+We look at her and she simply says, “For Fisher.”
+Janice gets to the controls and we climb though it’s not sounding great.
+She calls back on the radio, “It can’t be avoided by the engines sucked in some of that volcanic like glass. It’s going to be a rough ride.”
+I climb into the cockpit to see an impressive number of red lights.
+“Can’t we flush them with water?” I ask.
+“Not while flying.” she grits back at me.
+“Alice, give me some options!”
+Immediately the HUDs in the cockpit start showing possible landing locations. We need to keep this ship flying for at least an hour to get back to Hadley’s chin.
+“Twenty minutes out, climb now and glide.” Alice calls back.
+“Buckle up!” Janice yells and she fires the afterburners putting us into a steep climb and then nothing.
+“Both engines are shut down and vents closed.” Janice announces.
+We coast in silence. In the distance we can see an escarpment of rock. I watch as the numbers go down steadily. Finally Janice flips the engines around and we first a single burst to touch down.
+We climb up and start opening panels. Janice immediately shares with me all the maintenance manuals.
+She commands the ship to flush the engines from the onboard water stores. Steam and sand shoot from the vstol nozzles. Opening a panel she pulls out a dipstick and looks at it.
+“Here’s our problem” she notes showing me the stick. I can see black spots on it.
+Pulling out the filter we need it’s absolutely chocked full. She starts banging it on the edge of the engine cowling and a thick tar like junk starts dripping out. At this I start laughing. Here we are thirty nine light years from earth and we’re banging sand out of an oil filter. I help out and we clean the other three filters.
+“Will we make it back to base?” I ask.
+To this she turns and kisses me. I pull her into a hug and kiss back. I pull back and look at her. She simply smiles. “Just in case we don’t.”
+Powering up the pumps we cycle the oil a couple of times through all the bearings and start the engines. Still a cockpit full of angry red lights, but that can’t be helped.
+The flight back is a nervous one. At any second I just expect both engines to fail catastrophically and the ship to auger into the ground. When we did get back into the ship she made it a point of showing me where the ejection handles were.
+Leaving Janice and Alice to doing the flying I start to contemplate about how many healthy xeno’s there’s still on Acheron. Running some simulations, I think we’ve culled the populated by something north of forty percent. That still leaves thousands of the little shits, but they’re on the far side of the planet hundreds of km away.
+We land to Wikowsky, Elizabeth Roxie standing at the elevator.
+Janice and I put the backpacks down. “Two superluminal tachyon jump coils.”
+Wikowsky pats me on the shoulder, “Great job. Sorry you lost Fisher, he was a good marine.”
+“The whole op was tits up on landing. We did what we had to do.” I reply.
+“How’s everybody holding up here?” I ask.
+“Parts are coming of the printers. Apparently we’re all going to get to help do a couple engine overhauls. Roxie is busy building another fuel and oxy plant.” Wikowsky laughs.
+Clean shaven and showered, I fall onto my cot and into a deep sleep.
+
+Chapter 25.
+
+I’m sure if a real Cheyenne power plant technician was here, he’d be aghast at our field repairs. These ships are hardy and designed to be field patched, not so much torn down. To tear down a power plant you’d need a crane and specialized equipment, instead we’ve got Elizabeth.
+Elizabeth has demonstrated as she’s grown into adulthood she’s got the strength of a small power loader. Now a head taller than Wikowsky and wider at the shoulder, more of her queen genes are starting to express. Heavy maintenance is much easier when you’ve got someone technical who can also easily pick up three hundred kilogram parts. It takes two weeks but we manage to get both ships fully repaired. Greenlights across the board.
+Sadly, Marco is struggling. Even with the regiment of meds, being in zero gee is not good for healing. The auto-doc is simply delaying the inevitable. Our hope is that we can get him into a hypersleep pod before we start our journey home. Roxie’s fuel plant has started cranking out tons of fuel.
+Joanne, who had been so present before during our last crisis has been coming in and out to see our progress and asking questions. Now that we have the coils, word has gotten out that the proposed trip back to Earth is becoming a reality. More than a couple of people have approached her inquiring about how many seats, etc. As our numbers have dwindled, the number of open seats keeps increasing, leading to more interest. Janice and I make the first trip up with spars and equipment to start putting the ship together and get our eyes on Marco. What we find is distressing. Alice had warned us that he was downplaying how ill he was, but to see him in person is ghastly. I open a side channel to Alice and ask if she thinks he’ll likely survive hypersleep. She’s cagey but ultimately I force her to give me a true, false answer and she answers with false. I bring this to Marco and he just nods.
+“I thought as much. I did some reading on the drugs they pump into you and when I entered them into the auto-doc just about every warning about drug interaction popped up.”
+“What’s the plan then?” I ask.
+“I’ll keep going until I can’t, I guess.” he replies.
+Frankly, I’m surprised he made it this far. We chit chat a bit but looking at the logs, he’s sleeping more than sixteen hours a day just to function. Janice and I use the remaining space suit to get the spars in place. Marco watches and provides color commentary. He’s sick, but still funny in his own wry way.
+Climbing out of the space suit, he floats into the airlock and helps me get my helmet off.
+“I need you to um you know.” he says.
+I simply nod. “Alice. Override Theta three omega five for Marco Alverez” I say out loud.
+Marco shakes my hand and I shake back.
+Alice replies back. “Override accepted.”
+Janice hugs me as I float into the cockpit seat of the dropshit.
+“You did the right thing you know.” she says.
+I simply nod.
+“How long do you think he’s got?” she asks.
+I shrug. “He’s got options now. But I think a bit longer.
+We fly back down in silence. I wonder what the colonial marines will think of this whole mess.
+Roxie and Jeremy make the next trip with the engines and coils.
+Jeremy pings me through subspace. “Man, he’s in a rough way.”
+“Yeah” I respond.
+“I see you’ve unlocked all the meds for him.” he notes.
+I acknowledge it through the channel.
+A couple more hours pass as we watch them mount the engines and additional tanks.
+I wander over to the palettes of equipment start to see that hypersleep chamber parts are now coming out of the printers. One chamber is a bit larger than the others.
+“Coming with us?” I ask Elizabeth.
+“I think staying here is going to be hazardous to my health.” she notes.
+“I don’t think you’re going to get a warm welcome on Earth either.” I reply.
+“Certain death vs the unknown, I’ll take my chances.” she laughs.
+I wish I had her optimism. The colonial marines are likely going to have hard feelings about Elizabeth.
+Through this whole thing I’ve kept a journal of ordeals and I’ve taken special note of her contributions. I doubt it’ll be enough.
+Ten sleep chambers. That’s what our little rage tag ship can support. Two of the marines decide to stay. I don’t blame them. They’d been spending more and more time with the colonists. With two coils and an eighteen month ramp up to super luminal, we’re looking at spending more than eleven years in hypersleep. The two remaining pods are filled by Ivan’s wife and their kid. I can understand. He told them he was going off to govern a paradise and she found herself underground eating mushrooms fighting for scraps surrounded by monsters. Honestly, I thought Joanne might want one of the spots, but she’s a second generation settler. When I mentioned she had first pick she just laughed. She’d only every known Acheron. The idea of a dirty crowded Earth sounded entirely unappealing to her. She does inquire about the printer and I laugh. Their little fledging outpost is going to need it. I mentally add it to the list of things I’m likely going to get into trouble for.
+Acheron claims it’s last victim in the early morning before we depart. Marco having given more than was asked of him, even in his weakened state had been busy bolting down hypersleep chambers and running cables. With his last task done he sends a simple message.
+“Goodbye and Safe travels.”
+Janice sees it first and opens a channel to Marco but it’s too late. It’s totally his style. Looking at the logs he rigged the message to send at his time of death.
+Alice pings me on a side channel. “Marco has expired. I’ve sealed the pod.”
+I acknowledge. We have one last meal with Joanne and Rob and the two marines. Hugs and hardy handshakes and tears.
+Wikowsky opens up a terminal and marks the two marines as ‘Extended Deployment.’
+I pull him aside and ask how he feels about the two marines technically going AWOL.
+He just laughs. “Nobody here signed up for any of this shit. Those two were on short time anyway. They’d have slept for eleven years to find themselves walking a piece fence for a couple of months. Instead they’ll likely get to teach a bunch of kids how to be marines.
+Climbing into the sleep chambers, it’s clear these are rough and ready affairs.
+
+
+
+
+
 
 
 
