@@ -2247,14 +2247,15 @@ Alarms start blaring. Radiation alarms. The lights flicker in the modules. “Ta
 We watch on the holotable as the shockwave of hard radiation and plasma hit the CTM. More alarms start blaring. The radiation causes the cameras to go offline, their sensors overwhelmed with gamma particles. Then it’s over.
 Roxie is first on the radio, “What’s going on?” the edge her voice says everything.
 Marco responds first. “I taste metal. Let me find Ruvi.” He opens the compartment and takes the cube out. “I think Alice is okay.” he says.
-The cameras come back online, though it’s clear they’ve all taken damage from the radiation. We see Marco put the cube back into the cradle and slide the door shut.
-“Alice should be online in a few.” he says to nobody in particular.
+The cameras come back online, though it’s clear they’ve all taken damage from the radiation. 
 Working the cameras, we find Ruvi, he’s pinned up above the display. His skin is a dozen different colors. “Oh no.” is also Marco says.
 Marco moves Ruvi down and into one of the cradles and hooks leads up to him.
 “That could have gone better.” Ruvi whispers.
 “Yeah, we got pretty fucked.” he replies.
+We see Marco put the cube back into the cradle and slide the door shut.
+“Alice should be online in a few.” he says to nobody in particular.
 Marco climbs into his cradle and hooks the medical cuff up to himself.
-Alice comes back online. “Processing systems 96 percent online. Minor ship damage. Extreme radiation event.
+Alice comes back online. “Processing systems 96 percent online. Minor ship damage. Extreme radiation event detected.”
 Vitals start flowing into our terminals. It’s bad. Marco was able to mitigate the worst of the rads but Ruvi took the full hit. The auto-doc is estimating three hours at most. The system prompts me to authorize it to go into hospice mode. I punch in my override and press my thumb to the biometric sensor. Marco is in slightly better shape. The auto-doc is pumping him with a cocktail of meds. It’s still filtering his blood, prognosis unknown.
 Roxie is in the corner with a comm unit. We all give her space. Janice hugs me and cries.
 We watch as the radiation wave ripples across the planet. The upper atmosphere turns a dozen colors as the plasma ripples against it.
