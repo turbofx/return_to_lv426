@@ -1,6 +1,6 @@
 This is a fanfic novel set in the "Aliens" universe, some number of years after the events in the "Aliens" movie.
 
-This started out as a straight formward intelectual question:
+This started out as a straight forward intellectual question:
 
 In this universe they've got FTL, GPAI and hypersleep chambers, yet when presented with some scary unknown threat, 
 their first answer is to throw squishy humans in body armor at it? We now live in a world with drones and robotics that even in our nacient stage of development are _quite good. I can't help myself but to ask the question of "what if?" this technology will look in a century or two.
