@@ -1,4 +1,4 @@
-This is a fanfic novel set in the "Aliens" universe, some number of years after the events in the "Aliens" movie.
+This is a novel set in the "Aliens" universe, some number of years after the events in the "Aliens" movie.
 
 This started out as a straight forward intellectual question:
 
